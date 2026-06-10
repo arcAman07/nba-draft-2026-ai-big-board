@@ -1,0 +1,80 @@
+{
+  "baseline_pick_logit": {
+    "auc": 0.8058771043051937,
+    "brier": 0.1776915271050391,
+    "log_loss": 0.5323319713182527,
+    "accuracy_at_0.5": 0.7349121466768526
+  },
+  "logit_skill": {
+    "auc": 0.7941067589309868,
+    "brier": 0.1762691291236726,
+    "log_loss": 0.5163053230823118,
+    "accuracy_at_0.5": 0.7288006111535523
+  },
+  "hgb_skill": {
+    "auc": 0.7762768214372161,
+    "brier": 0.18448302212153314,
+    "log_loss": 0.5390670465518902,
+    "accuracy_at_0.5": 0.7203972498090145
+  },
+  "best": "logit_skill",
+  "calibration_bins": {
+    "mean_pred": [
+      0.0996,
+      0.1673,
+      0.2262,
+      0.2813,
+      0.3386,
+      0.4111,
+      0.4948,
+      0.5861,
+      0.7664,
+      0.9945
+    ],
+    "frac_pos": [
+      0.1298,
+      0.1221,
+      0.2977,
+      0.2748,
+      0.3282,
+      0.3846,
+      0.5038,
+      0.5725,
+      0.7481,
+      1.0
+    ]
+  },
+  "permutation_importance": {
+    "age_at_draft": 0.05697,
+    "height_in": 0.01515,
+    "weight_lbs": 0.00523,
+    "wingspan_in": 0.0505,
+    "standing_reach_in": 0.01641,
+    "wing_minus_height": 0.01343,
+    "ncaa_ts_pct": 0.00746,
+    "ncaa_usg_pct": 0.00082,
+    "ncaa_ast_pct": 0.00013,
+    "ncaa_tov_pct": 0.00101,
+    "ncaa_stl_pct": 0.00074,
+    "ncaa_blk_pct": 0.00125,
+    "ncaa_ft_pct": 0.00096,
+    "ncaa_3pa_per40": 0.00133,
+    "ncaa_obpm": -1e-05,
+    "ncaa_bpm": 0.04596,
+    "miss_age": 0.08142,
+    "miss_anthro": 0.01376,
+    "miss_wingspan": 0.00511,
+    "miss_ncaa_core": 0.06448,
+    "miss_ncaa_adv": 0.00517
+  },
+  "first_round_eval": {
+    "baseline_pick_logit": {
+      "auc": 0.6676275040920086,
+      "brier": 0.151056069290405
+    },
+    "logit_skill": {
+      "auc": 0.6424091429233598,
+      "brier": 0.16235998582763944
+    }
+  }
+}

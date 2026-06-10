@@ -1,0 +1,7 @@
+code/film/clips/
+code/film/frames/*
+!code/film/frames/_report_picks/
+__pycache__/
+.DS_Store
+*.aux
+*.log

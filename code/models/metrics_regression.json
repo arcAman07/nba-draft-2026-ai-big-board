@@ -1,0 +1,193 @@
+{
+  "baseline_pick_isotonic": {
+    "mae": 5.260975186442694,
+    "rmse": 10.214426668821467,
+    "spearman_pooled": 0.20830372071809858,
+    "spearman_mean_within_year": 0.245047910224506
+  },
+  "transform_scan": {
+    "identity": {
+      "ridge": {
+        "mae": 5.638918894375488,
+        "rmse": 10.340948408943346,
+        "spearman_pooled": 0.2553228072451971,
+        "spearman_mean_within_year": 0.24800386473494634
+      },
+      "hgb": {
+        "mae": 5.648361828214503,
+        "rmse": 10.5302536288607,
+        "spearman_pooled": 0.20967441597438663,
+        "spearman_mean_within_year": 0.20503210113003273
+      }
+    },
+    "asinh": {
+      "ridge": {
+        "mae": 4.590323884815765,
+        "rmse": 11.044399351704731,
+        "spearman_pooled": 0.273140157260858,
+        "spearman_mean_within_year": 0.26933298478403067
+      },
+      "hgb": {
+        "mae": 4.594270501116522,
+        "rmse": 10.910782608784801,
+        "spearman_pooled": 0.24889834526218138,
+        "spearman_mean_within_year": 0.24608078849513906
+      }
+    },
+    "signed_sqrt": {
+      "ridge": {
+        "mae": 4.566606022017921,
+        "rmse": 10.860564247912691,
+        "spearman_pooled": 0.27318702306447445,
+        "spearman_mean_within_year": 0.2658409525559798
+      },
+      "hgb": {
+        "mae": 4.614885874032087,
+        "rmse": 10.67441627925812,
+        "spearman_pooled": 0.24699917942900307,
+        "spearman_mean_within_year": 0.24402548642614
+      }
+    }
+  },
+  "chosen_transform": "asinh",
+  "ridge_skill": {
+    "mae": 4.590323884815765,
+    "rmse": 11.044399351704731,
+    "spearman_pooled": 0.273140157260858,
+    "spearman_mean_within_year": 0.26933298478403067
+  },
+  "lasso_skill": {
+    "mae": 4.594730198397224,
+    "rmse": 11.085339725144484,
+    "spearman_pooled": 0.2738656195172068,
+    "spearman_mean_within_year": 0.27691614885313154
+  },
+  "hgb_skill": {
+    "mae": 4.594270501116522,
+    "rmse": 10.910782608784801,
+    "spearman_pooled": 0.24889834526218138,
+    "spearman_mean_within_year": 0.24608078849513906
+  },
+  "ridge_withpick": {
+    "mae": 4.548197485499392,
+    "rmse": 10.992570528623123,
+    "spearman_pooled": 0.2875749675567822,
+    "spearman_mean_within_year": 0.2873557518202215
+  },
+  "hgb_withpick": {
+    "mae": 4.53222431883898,
+    "rmse": 10.645925623124935,
+    "spearman_pooled": 0.27701720480514525,
+    "spearman_mean_within_year": 0.28095737717550584
+  },
+  "best_skill_regression": "lasso_skill",
+  "ridge_coefs_std": {
+    "age_at_draft": -0.3803,
+    "height_in": -0.03,
+    "weight_lbs": -0.0179,
+    "wingspan_in": 0.0245,
+    "standing_reach_in": 0.0098,
+    "wing_minus_height": 0.0268,
+    "ncaa_ts_pct": 0.0523,
+    "ncaa_usg_pct": 0.0287,
+    "ncaa_ast_pct": 0.0994,
+    "ncaa_tov_pct": -0.0113,
+    "ncaa_stl_pct": 0.0323,
+    "ncaa_blk_pct": 0.0391,
+    "ncaa_ft_pct": 0.0349,
+    "ncaa_3pa_per40": 0.0134,
+    "ncaa_obpm": -0.0413,
+    "ncaa_bpm": 0.3546,
+    "miss_age": -0.1743,
+    "miss_anthro": -0.0136,
+    "miss_wingspan": -0.0501,
+    "miss_ncaa_core": -0.2397,
+    "miss_ncaa_adv": 0.1609
+  },
+  "lasso_coefs_std": {
+    "age_at_draft": -0.3899,
+    "height_in": -0.0031,
+    "weight_lbs": -0.012,
+    "wingspan_in": 0.0,
+    "standing_reach_in": 0.0,
+    "wing_minus_height": 0.0317,
+    "ncaa_ts_pct": 0.0154,
+    "ncaa_usg_pct": 0.0221,
+    "ncaa_ast_pct": 0.0713,
+    "ncaa_tov_pct": 0.0,
+    "ncaa_stl_pct": 0.001,
+    "ncaa_blk_pct": 0.0,
+    "ncaa_ft_pct": 0.0253,
+    "ncaa_3pa_per40": 0.0,
+    "ncaa_obpm": -0.018,
+    "ncaa_bpm": 0.3878,
+    "miss_age": -0.1803,
+    "miss_anthro": -0.0,
+    "miss_wingspan": -0.0452,
+    "miss_ncaa_core": -0.2526,
+    "miss_ncaa_adv": 0.1451
+  },
+  "ridge_alpha": 92.36708571873865,
+  "lasso_alpha": 0.014873521072935119,
+  "permutation_importance_vorp": {
+    "age_at_draft": 0.09073,
+    "height_in": -0.00064,
+    "weight_lbs": -0.00031,
+    "wingspan_in": 0.0,
+    "standing_reach_in": 0.0,
+    "wing_minus_height": -0.00077,
+    "ncaa_ts_pct": -0.00025,
+    "ncaa_usg_pct": -0.00069,
+    "ncaa_ast_pct": 0.0059,
+    "ncaa_tov_pct": 0.0,
+    "ncaa_stl_pct": 5e-05,
+    "ncaa_blk_pct": -0.00039,
+    "ncaa_ft_pct": -0.00081,
+    "ncaa_3pa_per40": 0.0,
+    "ncaa_obpm": -0.00059,
+    "ncaa_bpm": 0.08441,
+    "miss_age": 0.05026,
+    "miss_anthro": 0.0,
+    "miss_wingspan": -0.0007,
+    "miss_ncaa_core": 0.03946,
+    "miss_ncaa_adv": 0.00233
+  },
+  "first_round_eval": {
+    "baseline_pick_isotonic": {
+      "mae": 8.141329373888892,
+      "rmse": 13.43628217094139,
+      "spearman_pooled": 0.1446628248866918,
+      "spearman_mean_within_year": 0.21053332932880922
+    },
+    "ridge_skill": {
+      "mae": 7.253059234052162,
+      "rmse": 14.694225555241935,
+      "spearman_pooled": 0.2559088519287791,
+      "spearman_mean_within_year": 0.2452787607571887
+    },
+    "lasso_skill": {
+      "mae": 7.259838838218198,
+      "rmse": 14.756851774975432,
+      "spearman_pooled": 0.24617258062681324,
+      "spearman_mean_within_year": 0.2453474176339359
+    },
+    "hgb_skill": {
+      "mae": 7.251943422955836,
+      "rmse": 14.493033061567543,
+      "spearman_pooled": 0.2134751094354461,
+      "spearman_mean_within_year": 0.19687132459197745
+    },
+    "ridge_withpick": {
+      "mae": 7.235428507778392,
+      "rmse": 14.602642126640626,
+      "spearman_pooled": 0.27472516819467296,
+      "spearman_mean_within_year": 0.26813016019781327
+    },
+    "hgb_withpick": {
+      "mae": 7.203985252871885,
+      "rmse": 14.073974587641077,
+      "spearman_pooled": 0.26841554296639053,
+      "spearman_mean_within_year": 0.2596242036384218
+    }
+  }
+}

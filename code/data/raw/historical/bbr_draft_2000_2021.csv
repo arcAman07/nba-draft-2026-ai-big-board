@@ -1,0 +1,1310 @@
+year,pick,team,player,slug,college,yrs,career_games,career_minutes,career_ws,career_ws48,career_bpm,career_vorp
+2000,1,NJN,Kenyon Martin,martike01,Cincinnati,15,757,23134,48.0,.100,0.1,12.1
+2000,2,VAN,Stromile Swift,swiftst01,LSU,9,547,10804,21.3,.095,-1.6,1.1
+2000,3,LAC,Darius Miles,milesda01,,7,446,11730,9.5,.039,-1.0,3.0
+2000,4,CHI,Marcus Fizer,fizerma01,Iowa State,6,289,6032,2.7,.022,-3.7,-2.6
+2000,5,ORL,Mike Miller,millemi01,Florida,17,1032,27812,60.7,.105,0.8,19.8
+2000,6,ATL,DerMarr Johnson,johnsde03,Cincinnati,7,344,5930,6.4,.052,-1.6,0.6
+2000,7,CHI,Chris Mihm,mihmch01,Texas,8,436,8758,13.3,.073,-3.9,-4.3
+2000,8,CLE,Jamal Crawford,crawfja01,Michigan,20,1327,38994,60.7,.075,-0.1,18.4
+2000,9,HOU,Joel Przybilla,przybjo01,Minnesota,13,592,11733,23.0,.094,-1.7,0.8
+2000,10,ORL,Keyon Dooling,doolike01,Missouri,13,728,14134,18.5,.063,-2.0,-0.2
+2000,11,BOS,Jérôme Moïso,moisoje01,UCLA,5,145,1392,2.1,.074,-2.9,-0.3
+2000,12,DAL,Etan Thomas,thomaet01,Syracuse,9,409,7084,14.9,.101,-2.1,-0.2
+2000,13,ORL,Courtney Alexander,alexaco02,Fresno State,3,187,4067,4.1,.048,-3.7,-1.7
+2000,14,DET,Mateen Cleaves,cleavma01,Michigan State,6,167,1863,-0.8,-.021,-5.6,-1.7
+2000,15,MIL,Jason Collier,collija02,Georgia Tech,5,151,2178,1.9,.042,-5.4,-1.9
+2000,16,SAC,Hedo Türkoğlu,turkohe01,,15,997,26695,63.3,.114,0.9,19.6
+2000,17,SEA,Desmond Mason,masonde01,Oklahoma State,10,643,19641,23.1,.056,-2.4,-2.1
+2000,18,LAC,Quentin Richardson,richaqu01,DePaul,13,783,20785,32.8,.076,-0.4,8.5
+2000,19,CHH,Jamaal Magloire,magloja01,Kentucky,12,680,14621,27.7,.091,-2.9,-3.1
+2000,20,PHI,Speedy Claxton,claxtsp01,Hofstra,7,334,8548,14.2,.080,-0.3,3.6
+2000,21,TOR,Morris Peterson,petermo01,Michigan State,11,711,19366,35.7,.089,-0.4,7.6
+2000,22,NYK,Donnell Harvey,harvedo01,Florida,5,205,3318,4.7,.069,-2.6,-0.5
+2000,23,UTA,DeShawn Stevenson,stevede01,,13,824,18396,12.1,.032,-2.7,-3.5
+2000,24,CHI,Dalibor Bagarić,bagarda01,,3,95,973,-0.9,-.043,-7.9,-1.5
+2000,25,PHO,Jake Tsakalidis,tsakaja01,,7,315,5005,9.9,.095,-3.1,-1.4
+2000,26,DEN,Mamadou N'Diaye,ndiayma02,Auburn,5,69,858,1.8,.101,-4.2,-0.5
+2000,27,IND,Primož Brezec,brezepr01,,8,342,6192,10.8,.084,-3.1,-1.7
+2000,28,POR,Erick Barkley,barkler01,St. John's,2,27,266,0.2,.027,-3.7,-0.1
+2000,29,LAL,Mark Madsen,madsema01,Stanford,9,453,5335,8.2,.074,-4.1,-2.9
+2000,30,LAC,Marko Jarić,jaricma01,,7,447,11246,12.1,.052,-0.7,3.8
+2000,31,DAL,Dan Langhi,langhda01,Vanderbilt,4,133,1253,0.3,.012,-4.6,-0.8
+2000,32,CHI,A.J. Guyton,guytoaj01,Indiana,3,80,1246,0.3,.010,-2.9,-0.3
+2000,33,CHI,Jake Voskuhl,voskuja01,UConn,9,450,6443,11.6,.087,-3.8,-3.0
+2000,34,CHI,Khalid El-Amin,elamikh01,UConn,1,50,936,0.6,.030,-2.4,-0.1
+2000,35,WAS,Mike Smith,smithmi03,Louisiana-Monroe,1,17,180,-0.1,-.033,-4.2,-0.1
+2000,36,NJN,Soumaila Samake,samakso01,,2,47,303,0.3,.046,-3.7,-0.1
+2000,37,MIA,Eddie House,houseed01,Arizona State,11,717,12405,20.0,.077,0.0,6.1
+2000,38,HOU,Eduardo Nájera,najered01,Oklahoma,12,619,11213,24.7,.106,-0.9,3.0
+2000,39,NYK,Lavor Postell,postela01,St. John's,3,61,446,-0.2,-.025,-5.0,-0.3
+2000,40,ATL,Hanno Möttölä,mottoha01,Utah,2,155,2360,0.9,.019,-5.9,-2.3
+2000,41,SAS,Chris Carrawell,carrach01,Duke,,,,,,,
+2000,42,SEA,Olumide Oyedeji,oyedeol01,,3,93,587,1.2,.095,-4.3,-0.3
+2000,43,MIL,Michael Redd,reddmi01,Ohio State,12,629,20104,55.9,.134,2.2,21.4
+2000,44,DET,Brian Cardinal,cardibr01,Purdue,12,456,6477,15.4,.114,-0.1,3.2
+2000,45,SAC,Jabari Smith,smithja01,LSU,4,108,1063,1.3,.058,-4.3,-0.6
+2000,46,TOR,DeeAndre Hulett,huletde01,College of the Sequoias,,,,,,,
+2000,47,SEA,Josip Sesar,sesarjo01,,,,,,,,
+2000,48,PHI,Mark Karcher,karchma01,Temple,,,,,,,
+2000,49,MIL,Jason Hart,hartja01,Syracuse,9,341,5289,8.6,.078,-1.2,1.0
+2000,50,UTA,Kaniel Dickens,dickeka01,Idaho,3,19,85,0.1,.055,-3.0,0.0
+2000,51,MIN,Igor Rakočević,rakocig01,,1,42,244,0.1,.022,-4.9,-0.2
+2000,52,MIA,Ernest Brown,browner01,Indian Hills Community College,1,3,21,-0.2,-.349,-18.2,-0.1
+2000,53,DEN,Dan McClintock,mcclida01,Northern Arizona University,1,6,58,0.0,.007,-7.9,-0.1
+2000,54,SAS,Cory Hightower,hightco01,Indian Hills Community College,,,,,,,
+2000,55,GSW,Chris Porter,portech01,Auburn,1,51,1147,0.2,.008,-4.5,-0.7
+2000,56,IND,Jaquay Walls,wallsja01,Colorado,,,,,,,
+2000,57,ATL,Scoonie Penn,pennsc01,Ohio State,,,,,,,
+2000,58,DAL,Pete Mickeal,mickepe01,Cincinnati,,,,,,,
+2001,1,WAS,Kwame Brown,brownkw01,,12,607,13389,20.8,.074,-2.4,-1.3
+2001,2,LAC,Tyson Chandler,chandty01,,19,1160,31617,102.1,.155,0.1,16.9
+2001,3,ATL,Pau Gasol,gasolpa01,,18,1226,41001,144.1,.169,3.6,57.5
+2001,4,CHI,Eddy Curry,curryed01,,11,527,13109,21.7,.080,-2.4,-1.3
+2001,5,GSW,Jason Richardson,richaja01,Michigan State,13,857,29241,59.1,.097,1.2,23.8
+2001,6,MEM,Shane Battier,battish01,Duke,13,977,30004,75.7,.121,1.7,28.2
+2001,7,NJN,Eddie Griffin,griffed01,Seton Hall,5,303,6729,10.9,.078,-0.4,2.8
+2001,8,CLE,DeSagana Diop,diopde01,,12,601,8403,12.8,.073,-1.9,0.2
+2001,9,DET,Rodney White,whitero02,UNC Charlotte,4,218,3354,1.8,.026,-2.2,-0.1
+2001,10,BOS,Joe Johnson,johnsjo02,Arkansas,18,1277,44236,82.9,.090,0.4,26.5
+2001,11,BOS,Kedrick Brown,brownke01,Okaloosa-Walton Community College,4,143,1935,3.0,.074,-1.1,0.4
+2001,12,SEA,Vladimir Radmanović,radmavl01,,12,737,16164,26.5,.079,-0.1,7.6
+2001,13,HOU,Richard Jefferson,jefferi01,Arizona,17,1181,34293,83.0,.116,0.2,19.4
+2001,14,GSW,Troy Murphy,murphtr01,Notre Dame,12,729,19921,50.3,.121,0.1,10.6
+2001,15,ORL,Steven Hunter,huntest01,DePaul,8,400,5993,10.6,.085,-2.3,-0.5
+2001,16,CHH,Kirk Haston,hastoki01,Indiana,2,27,134,-0.5,-.197,-13.3,-0.4
+2001,17,TOR,Michael Bradley,bradlmi01,Villanova,5,173,2016,2.0,.047,-4.0,-1.0
+2001,18,HOU,Jason Collins,collija04,Stanford,13,735,14974,20.1,.064,-3.7,-6.5
+2001,19,POR,Zach Randolph,randoza01,Michigan State,17,1116,34616,81.1,.112,0.2,18.8
+2001,20,CLE,Brendan Haywood,haywobr01,UNC,13,816,18680,43.8,.113,-1.4,2.9
+2001,21,BOS,Joseph Forte,fortejo01,UNC,2,25,125,-0.4,-.166,-8.6,-0.2
+2001,22,ORL,Jeryl Sasser,sasseje01,SMU,2,82,1061,0.7,.032,-2.5,-0.1
+2001,23,HOU,Brandon Armstrong,armstbr01,Pepperdine,3,108,699,-0.6,-.039,-8.0,-1.0
+2001,24,UTA,Raül López,lopezra01,,2,113,2135,2.1,.047,-2.4,-0.2
+2001,25,SAC,Gerald Wallace,wallage01,Alabama,14,832,24731,59.7,.116,1.8,23.5
+2001,26,PHI,Samuel Dalembert,dalemsa01,Seton Hall,13,886,21646,51.3,.114,-1.1,4.6
+2001,27,MEM,Jamaal Tinsley,tinslja01,Iowa State,11,547,14443,17.2,.057,0.0,7.1
+2001,28,SAS,Tony Parker,parketo01,,18,1254,38279,111.3,.140,1.1,30.1
+2001,30,CHI,Trenton Hassell,hassetr01,Austin Peay State University,9,644,16278,13.8,.041,-2.9,-3.7
+2001,31,GSW,Gilbert Arenas,arenagi01,Arizona,11,552,19351,51.3,.127,2.6,22.3
+2001,32,ORL,Omar Cook,cookom01,St. John's,2,22,213,-0.1,-.021,-2.7,0.0
+2001,33,MEM,Will Solomon,solomwi01,Clemson,2,115,1584,0.0,.000,-3.3,-0.5
+2001,34,ATL,Terence Morris,morrite01,Maryland,3,139,1934,1.0,.025,-2.8,-0.4
+2001,35,NJN,Brian Scalabrine,scalabr01,USC,11,520,6772,7.6,.054,-2.7,-1.2
+2001,36,CLE,Jeff Trepagnier,trepaje01,USC,3,31,270,-0.2,-.038,-2.8,-0.1
+2001,37,PHI,Damone Brown,brownda02,Syracuse,4,39,351,-0.7,-.100,-8.6,-0.6
+2001,38,DET,Mehmet Okur,okurme01,,10,634,18429,54.7,.142,1.1,14.5
+2001,39,NYK,Michael Wright,wrighmi01,Arizona,,,,,,,
+2001,40,SEA,Earl Watson,watsoea01,UCLA,13,878,19494,19.2,.047,-1.4,2.8
+2001,41,IND,Jamison Brewer,breweja01,Auburn,4,54,468,0.0,-.001,-2.4,0.0
+2001,42,SEA,Bobby Simmons,simmobo01,DePaul,10,466,11513,20.1,.084,-0.7,3.6
+2001,43,NYK,Eric Chenowith,chenoer01,Kansas,,,,,,,
+2001,44,DAL,Kyle Hill,hillky01,Eastern Illinois University,,,,,,,
+2001,45,CHI,Sean Lampley,lamplse01,California,2,45,550,1.1,.096,-1.7,0.0
+2001,46,MIN,Loren Woods,woodslo01,Arizona,6,215,2428,3.1,.062,-2.5,-0.3
+2001,47,DEN,Ousmane Cisse,cisseou01,,,,,,,,
+2001,48,MEM,Antonis Fotsis,fotsian01,,1,28,320,0.1,.017,-3.4,-0.1
+2001,49,MIA,Ken Johnson,johnske03,Ohio State,1,16,156,0.0,-.002,-6.8,-0.2
+2001,50,POR,Ruben Boumtje-Boumtje,boumtru01,Georgetown,3,44,276,0.2,.027,-5.4,-0.2
+2001,51,PHO,Alton Ford,fordal02,Houston,3,73,524,0.8,.074,-6.4,-0.6
+2001,52,MIL,Andre Hutson,hutsoan01,Michigan State,,,,,,,
+2001,53,UTA,Jarron Collins,collija03,Stanford,10,542,8542,15.7,.088,-3.1,-2.5
+2001,54,DAL,Kenny Satterfield,satteke01,Cincinnati,2,75,1062,-1.1,-.051,-4.1,-0.6
+2001,55,SAC,Maurice Jeffers,jeffema01,Saint Louis,,,,,,,
+2001,56,SAS,Robertas Javtokas,javtoro01,,,,,,,,
+2001,57,PHI,Alvin Jones,jonesal01,Georgia Tech,1,23,126,0.1,.034,-8.7,-0.2
+2001,58,SAS,Bryan Bracey,bracebr01,Oregon,,,,,,,
+2002,1,HOU,Yao Ming,mingya01,,8,486,15818,65.9,.200,3.2,20.7
+2002,2,CHI,Jay Williams,willija03,Duke,1,75,1961,0.8,.020,-2.0,0.0
+2002,3,GSW,Mike Dunleavy,dunlemi02,Duke,15,986,27340,58.5,.103,0.3,15.7
+2002,4,MEM,Drew Gooden,goodedr01,Kansas,14,790,20127,43.9,.105,-1.2,4.3
+2002,5,DEN,Nikoloz Tskitishvili,tskitni01,,4,172,1946,-1.6,-.039,-6.1,-2.0
+2002,6,CLE,Dajuan Wagner,wagneda02,Memphis,4,103,2202,0.0,.000,-4.9,-1.6
+2002,7,NYK,Nenê,hilarne01,,17,965,25237,73.3,.139,1.0,18.8
+2002,8,LAC,Chris Wilcox,wilcoch01,Maryland,11,628,12474,26.9,.103,-1.6,1.2
+2002,9,PHO,Amar'e Stoudemire,stoudam01,,14,846,26254,92.5,.169,1.3,21.9
+2002,10,MIA,Caron Butler,butleca01,UConn,14,881,28333,50.9,.086,-0.2,12.6
+2002,11,WAS,Jared Jeffries,jeffrja01,Indiana,11,629,13579,13.1,.046,-2.4,-1.5
+2002,12,LAC,Melvin Ely,elyme01,Fresno State,9,375,6005,4.0,.032,-4.0,-3.1
+2002,13,MIL,Marcus Haislip,haislma01,Tennessee,4,89,854,0.5,.026,-4.7,-0.6
+2002,14,IND,Fred Jones,jonesfr01,Oregon,7,430,10299,16.5,.077,-1.0,2.6
+2002,15,HOU,Boštjan Nachbar,nachbbo01,,6,317,5628,8.7,.074,-1.6,0.6
+2002,16,PHI,Jiří Welsch,welscji01,,4,247,4596,5.7,.059,-1.9,0.1
+2002,17,WAS,Juan Dixon,dixonju01,Maryland,7,436,8509,6.1,.034,-2.1,-0.3
+2002,18,ORL,Curtis Borchardt,borchcu01,Stanford,2,83,1117,1.0,.041,-3.8,-0.5
+2002,19,UTA,Ryan Humphrey,humphry01,Notre Dame,3,85,772,-0.4,-.027,-8.1,-1.2
+2002,20,TOR,Kareem Rush,rushka01,Missouri,7,346,5956,1.7,.013,-3.2,-1.8
+2002,21,POR,Qyntel Woods,woodsqy01,Northeast Mississippi Community College,4,167,2060,1.4,.032,-2.7,-0.4
+2002,22,PHO,Casey Jacobsen,jacobca01,Stanford,4,287,5320,6.2,.056,-2.2,-0.3
+2002,23,DET,Tayshaun Prince,princta01,Kentucky,14,1017,31576,63.1,.096,0.3,18.0
+2002,24,NJN,Nenad Krstić,krstine01,,7,419,10547,21.5,.098,-2.6,-1.5
+2002,25,DEN,Frank Williams,willifr02,Illinois,3,86,952,0.1,.003,-3.2,-0.3
+2002,26,SAS,John Salmons,salmojo01,Miami (FL),13,895,23672,33.9,.069,-0.9,6.7
+2002,27,LAL,Chris Jefferies,jeffech01,Fresno State,2,72,861,-0.5,-.030,-5.5,-0.8
+2002,28,SAC,Dan Dickau,dickada01,Gonzaga,6,300,4617,5.9,.061,-1.5,0.6
+2002,30,GSW,Steve Logan,loganst01,Cincinnati,,,,,,,
+2002,31,CHI,Roger Mason,masonro01,Virginia,10,518,9147,13.0,.068,-1.4,1.4
+2002,32,MEM,Robert Archibald,archiro01,Illinois,2,44,328,0.0,-.004,-6.1,-0.3
+2002,33,DEN,Vincent Yarbrough,yarbrvi01,Tennessee,1,59,1381,1.0,.035,-2.4,-0.1
+2002,34,MIL,Dan Gadzuric,gadzuda01,UCLA,10,527,7793,15.8,.097,-2.3,-0.7
+2002,35,CLE,Carlos Boozer,boozeca01,Duke,13,861,26901,80.3,.143,1.4,23.1
+2002,36,NYK,Milos Vujanic,vujanmi01,,,,,,,,
+2002,37,ATL,David Andersen,anderda03,,2,103,1264,1.5,.059,-2.9,-0.3
+2002,38,HOU,Tito Maddox,maddoti01,Fresno State,1,9,35,0.0,-.011,-1.4,0.0
+2002,39,WAS,Rod Grizzard,grizzro01,Alabama,,,,,,,
+2002,40,WAS,Juan Carlos Navarro,navarju01,,1,82,2117,1.4,.031,-2.3,-0.2
+2002,41,LAC,Mario Kasun,kasunma01,,2,73,569,0.8,.069,-7.0,-0.7
+2002,42,MIL,Ronald Murray,murraro01,Shaw,8,487,11077,8.5,.037,-2.2,-0.5
+2002,43,POR,Jason Jennings,jennija01,Arkansas State University,,,,,,,
+2002,44,CHI,Lonny Baxter,baxtelo01,Maryland,4,162,1884,2.9,.075,-4.6,-1.2
+2002,45,PHI,Sam Clancy,clancsa02,USC,,,,,,,
+2002,46,MEM,Matt Barnes,barnema02,UCLA,14,929,21967,42.8,.093,-0.1,10.7
+2002,47,UTA,Jamal Sampson,sampsja01,California,5,72,631,1.4,.106,-2.3,-0.1
+2002,48,MIL,Chris Owens,owensch01,Texas,1,1,6,0.0,-.032,-0.5,0.0
+2002,49,SEA,Peter Fehse,fehsepe01,,,,,,,,
+2002,50,BOS,Darius Songaila,songada01,Wake Forest,8,495,9229,15.9,.083,-2.1,-0.2
+2002,51,POR,Federico Kammerichs,kammefe01,,,,,,,,
+2002,52,MIN,Marcus Taylor,tayloma03,Michigan State,,,,,,,
+2002,53,MIA,Rasual Butler,butlera01,La Salle,13,809,17219,20.8,.058,-1.4,2.6
+2002,54,NJN,Tamar Slay,slayta01,Marshall,3,66,517,-0.3,-.029,-5.7,-0.5
+2002,55,DAL,Mladen Sekularac,sekulml01,,,,,,,,
+2002,56,SAS,Luis Scola,scolalu01,,10,743,19001,45.7,.115,-0.7,6.4
+2002,57,SAS,Randy Holcomb,holcora01,San Diego State,1,4,11,0.0,.150,-1.7,0.0
+2002,58,SAC,Corsley Edwards,edwarco01,Central Connecticut State University,1,10,110,0.1,.026,-6.2,-0.1
+2003,1,CLE,LeBron James,jamesle01,,23,1622,61030,276.8,.218,8.4,159.4
+2003,2,DET,Darko Miličić,milicda01,,10,468,8638,7.1,.040,-2.4,-0.9
+2003,3,DEN,Carmelo Anthony,anthoca01,Syracuse,19,1260,43514,108.5,.120,1.3,36.7
+2003,4,TOR,Chris Bosh,boshch01,Georgia Tech,13,893,31936,106.0,.159,1.9,31.1
+2003,5,MIA,Dwyane Wade,wadedw01,Marquette,16,1054,35773,120.7,.162,5.0,62.8
+2003,6,LAC,Chris Kaman,kamanch01,Central Michigan University,13,735,19642,24.6,.060,-1.9,0.4
+2003,7,CHI,Kirk Hinrich,hinriki01,Kansas,13,879,27015,52.5,.093,0.0,13.3
+2003,8,MIL,T.J. Ford,fordtj01,Texas,8,429,11882,16.9,.068,-0.4,4.6
+2003,9,NYK,Mike Sweetney,sweetmi01,Georgetown,4,233,3610,7.8,.103,-2.7,-0.6
+2003,10,WAS,Jarvis Hayes,hayesja01,Georgia,7,427,9898,10.2,.049,-2.5,-1.3
+2003,11,GSW,Mickaël Piétrus,pietrmi01,,10,557,11950,19.7,.079,-0.9,3.2
+2003,12,SEA,Nick Collison,collini01,Kansas,14,910,18603,44.5,.115,-1.3,3.1
+2003,13,MEM,Marcus Banks,banksma01,UNLV,8,348,5571,6.6,.057,-2.0,-0.1
+2003,14,SEA,Luke Ridnour,ridnolu01,Oregon,12,830,21623,36.0,.080,-0.6,7.5
+2003,15,ORL,Reece Gaines,gainere01,Louisville,3,71,605,-0.6,-.049,-6.1,-0.6
+2003,16,BOS,Troy Bell,belltr01,Boston College,1,6,34,-0.2,-.326,-19.6,-0.2
+2003,17,PHO,Žarko Čabarkapa,cabarza01,,3,150,1550,1.1,.035,-3.9,-0.7
+2003,18,NOH,David West,westda01,Xavier,15,1034,29144,85.8,.141,1.7,27.6
+2003,19,UTA,Sasha Pavlović,pavloal01,,10,567,8888,7.0,.038,-3.4,-3.1
+2003,20,BOS,Dahntay Jones,jonesda02,Duke,13,624,9799,9.9,.048,-3.7,-4.1
+2003,21,ATL,Boris Diaw,diawbo01,,14,1064,28768,51.6,.086,0.1,15.5
+2003,22,NJN,Zoran Planinić,planizo01,,3,148,1584,1.5,.046,-3.5,-0.6
+2003,23,POR,Travis Outlaw,outlatr01,,11,622,13026,16.5,.061,-1.4,2.1
+2003,24,LAL,Brian Cook,cookbr01,Illinois,9,421,5649,10.2,.086,-1.6,0.5
+2003,25,DET,Carlos Delfino,delfica01,,8,507,11580,22.5,.093,0.5,7.2
+2003,26,MIN,Ndudi Ebi,ebind01,,2,19,86,0.1,.051,-3.8,0.0
+2003,27,MEM,Kendrick Perkins,perkike01,,14,782,17162,27.9,.078,-1.9,0.6
+2003,28,SAS,Leandro Barbosa,barbole01,,14,850,18386,37.4,.098,-0.2,8.6
+2003,29,DAL,Josh Howard,howarjo01,Wake Forest,10,507,15350,38.0,.119,0.6,10.0
+2003,30,NYK,Maciej Lampe,lampema01,,3,64,632,-0.2,-.014,-7.0,-0.8
+2003,31,CLE,Jason Kapono,kaponja01,UCLA,9,509,9068,10.3,.055,-2.6,-1.3
+2003,32,LAL,Luke Walton,waltolu01,Arizona,10,564,9685,13.5,.067,-1.0,2.5
+2003,33,MIA,Jerome Beasley,beaslje01,University of North Dakota,1,2,5,0.0,-.117,-5.2,0.0
+2003,34,LAC,Sofoklis Schortsanitis,schorso01,,,,,,,,
+2003,35,MIL,Szymon Szewczyk,szewcsz01,,,,,,,,
+2003,36,CHI,Mario Austin,austima01,Mississippi State,,,,,,,
+2003,37,ATL,Travis Hansen,hansetr01,BYU,1,41,507,0.2,.019,-6.2,-0.5
+2003,38,WAS,Steve Blake,blakest01,Maryland,13,870,20823,29.1,.067,-1.2,4.2
+2003,39,NYK,Slavko Vraneš,vranesl01,,1,1,3,0.0,-.371,-26.2,0.0
+2003,40,GSW,Derrick Zimmerman,zimmede01,Mississippi State,1,2,32,0.0,.004,-10.4,-0.1
+2003,41,SEA,Willie Green,greenwi01,Detroit Mercy,12,731,14783,12.9,.042,-2.7,-2.7
+2003,42,ORL,Zaza Pachulia,pachuza01,,16,1098,22240,52.7,.114,-1.5,2.9
+2003,43,MIL,Keith Bogans,boganke01,Kentucky,11,671,14527,20.4,.068,-1.5,1.9
+2003,44,HOU,Malick Badiane,badiama01,,,,,,,,
+2003,45,CHI,Matt Bonner,bonnema01,Florida,12,792,13356,38.5,.138,1.0,10.1
+2003,46,DEN,Sani Bečirovič,becirsa01,,,,,,,,
+2003,47,UTA,Mo Williams,willima01,Alabama,13,818,23872,40.0,.080,-0.3,10.0
+2003,48,NOH,James Lang,langja01,,1,11,55,0.1,.047,-6.4,-0.1
+2003,49,IND,James Jones,jonesja02,Miami (FL),14,709,11098,25.2,.109,-0.1,5.4
+2003,50,PHI,Paccelis Morlende,morlepa01,,,,,,,,
+2003,51,NJN,Kyle Korver,korveky01,Creighton,17,1232,31183,73.4,.113,0.6,20.7
+2003,52,TOR,Remon van de Hare,vandera01,,,,,,,,
+2003,53,CHI,Tommy Smith,smithto03,Arizona State,,,,,,,
+2003,54,POR,Nedžad Sinanović,sinanne01,,,,,,,,
+2003,55,MIN,Rick Rickert,rickeri01,Minnesota,,,,,,,
+2003,56,BOS,Brandon Hunter,huntebr01,Ohio University,2,67,630,0.7,.055,-3.7,-0.3
+2003,57,DAL,Xue Yuyang,yuyanxu01,,,,,,,,
+2003,58,DET,Andreas Glyniadakis,glynian01,,1,13,81,-0.2,-.143,-14.0,-0.2
+2004,1,ORL,Dwight Howard,howardw01,,18,1242,39457,141.7,.172,1.9,39.0
+2004,2,CHA,Emeka Okafor,okafoem01,UConn,10,616,19055,45.3,.114,-0.6,6.8
+2004,3,CHI,Ben Gordon,gordobe01,UConn,11,744,20366,33.3,.078,-0.3,8.7
+2004,4,LAC,Shaun Livingston,livinsh01,,14,833,17188,29.9,.084,-1.0,4.3
+2004,5,WAS,Devin Harris,harride01,Wisconsin,15,985,23963,54.9,.110,0.6,15.5
+2004,6,ATL,Josh Childress,childjo01,Stanford,8,391,10432,25.7,.118,0.8,7.4
+2004,7,PHO,Luol Deng,denglu01,Duke,15,902,30941,74.0,.115,0.9,22.9
+2004,8,TOR,Rafael Araújo,araujra01,BYU,3,139,1585,-0.4,-.013,-7.2,-2.1
+2004,9,PHI,Andre Iguodala,iguodan01,Arizona,19,1231,39507,100.4,.122,2.1,41.3
+2004,10,CLE,Luke Jackson,jackslu02,Oregon,4,73,724,0.2,.010,-3.7,-0.3
+2004,11,GSW,Andris Biedriņš,biedran01,,10,516,11146,30.7,.132,-0.4,4.6
+2004,12,SEA,Robert Swift,swiftro01,,4,97,1500,1.7,.054,-3.8,-0.7
+2004,13,POR,Sebastian Telfair,telfase01,,10,564,12149,5.0,.020,-3.4,-4.2
+2004,14,UTA,Kris Humphries,humphkr01,Minnesota,13,800,14232,30.3,.102,-1.7,1.2
+2004,15,BOS,Al Jefferson,jeffeal01,,14,915,26299,71.0,.130,1.2,21.3
+2004,16,UTA,Kirk Snyder,snydeki01,Nevada,4,211,3540,4.5,.061,-1.2,0.7
+2004,17,ATL,Josh Smith,smithjo03,,13,894,29000,51.0,.084,1.7,27.2
+2004,18,NOH,J.R. Smith,smithjr01,,16,977,26275,46.3,.084,0.2,14.7
+2004,19,MIA,Dorell Wright,wrighdo01,,11,549,12280,25.9,.101,0.9,9.1
+2004,20,DEN,Jameer Nelson,nelsoja01,Saint Joseph's,14,878,24539,48.3,.094,-0.1,11.6
+2004,21,UTA,Pavel Podkolzin,podkopa01,,2,6,28,-0.1,-.163,-15.0,-0.1
+2004,22,NJN,Viktor Khryapa,khryavi01,,4,143,2351,2.0,.041,-3.5,-0.9
+2004,23,POR,Sergei Monia,moniase01,,1,26,343,-0.2,-.025,-5.3,-0.3
+2004,24,BOS,Delonte West,westde01,Saint Joseph's,8,432,11842,24.5,.099,0.9,8.7
+2004,25,BOS,Tony Allen,allento01,Oklahoma State,14,820,18055,38.7,.103,0.3,10.4
+2004,26,SAC,Kevin Martin,martike02,Western Carolina University,12,714,21559,61.3,.137,1.0,16.1
+2004,27,LAL,Sasha Vujačić,vujacsa01,,10,581,8908,16.0,.086,-1.0,2.3
+2004,28,SAS,Beno Udrih,udrihbe01,,13,831,18185,31.4,.083,-0.9,4.9
+2004,29,IND,David Harrison,harrida01,Colorado,4,189,2686,3.2,.057,-4.4,-1.7
+2004,30,ORL,Anderson Varejão,varejan01,,14,632,15087,46.4,.148,0.3,8.8
+2004,31,CHI,Jackson Vroman,vromaja01,Iowa State,2,87,1111,0.0,.001,-5.1,-0.9
+2004,32,WAS,Peter John Ramos,ramospe01,,1,6,20,0.0,-.108,-10.0,0.0
+2004,33,LAC,Lionel Chalmers,chalmli01,Xavier,1,36,433,-0.2,-.025,-5.3,-0.4
+2004,34,ATL,Donta Smith,smithdo04,Southeastern Illinois College,2,61,560,0.5,.043,-3.2,-0.2
+2004,35,SEA,Andre Emmett,emmetan01,Texas Tech,2,14,73,0.1,.040,-5.5,-0.1
+2004,36,ORL,Antonio Burks,burksan01,Memphis,2,81,789,0.1,.004,-5.0,-0.6
+2004,37,ATL,Royal Ivey,iveyro01,Texas,10,492,6162,4.5,.035,-3.8,-2.7
+2004,38,CHI,Chris Duhon,duhonch01,Duke,9,606,15526,25.0,.077,-1.2,3.2
+2004,39,TOR,Albert Miralles,miralal01,,,,,,,,
+2004,40,BOS,Justin Reed,reedju01,Ole Miss,3,136,1436,0.5,.016,-5.9,-1.4
+2004,41,SEA,David Young,youngda02,NC Central,,,,,,,
+2004,42,ATL,Viktor Sanikidze,sanikvi01,,,,,,,,
+2004,43,NYK,Trevor Ariza,arizatr01,UCLA,18,1118,32953,64.3,.094,0.6,21.8
+2004,44,NOH,Tim Pickett,picketi02,Florida State,,,,,,,
+2004,45,CHA,Bernard Robinson,robinbe01,Michigan,3,128,1909,2.0,.049,-2.0,0.0
+2004,46,POR,Ha Seung-Jin,seungha01,,2,46,316,-0.2,-.029,-8.8,-0.5
+2004,47,MIA,Pape Sow,sowpa01,Cal State Fullerton,3,76,879,0.8,.044,-5.7,-0.8
+2004,48,SAC,Ricky Minard,minarri01,Morehead State University,,,,,,,
+2004,49,MEM,Sergei Lishouk,lishcse01,,,,,,,,
+2004,50,DAL,Vassilis Spanoulis,spanova01,,1,31,272,-0.1,-.010,-5.9,-0.3
+2004,51,NJN,Christian Drejer,drejech01,Florida,,,,,,,
+2004,52,SAS,Romain Sato,satoro01,Xavier,,,,,,,
+2004,53,MIA,Matt Freije,freijma01,Vanderbilt,2,42,588,-0.6,-.047,-6.0,-0.6
+2004,54,DET,Rickey Paulding,pauldri01,Missouri,,,,,,,
+2004,55,HOU,Luis Flores,florelu01,Manhattan University,1,16,77,0.0,-.020,-4.8,0.0
+2004,56,LAL,Marcus Douthit,douthma01,Providence,,,,,,,
+2004,57,SAS,Sergei Karaulov,karause01,,,,,,,,
+2004,58,MIN,Blake Stepp,steppbl01,Gonzaga,,,,,,,
+2004,59,IND,Rashad Wright,wrighra01,Georgia,,,,,,,
+2005,1,MIL,Andrew Bogut,bogutan01,Utah,14,706,19862,50.6,.122,1.2,16.0
+2005,2,ATL,Marvin Williams,willima02,UNC,15,1072,30159,65.1,.104,-0.4,12.3
+2005,3,UTA,Deron Williams,willide01,Illinois,12,845,28865,77.3,.129,1.9,28.3
+2005,4,NOH,Chris Paul,paulch01,Wake Forest,21,1370,45836,215.2,.225,6.5,98.8
+2005,5,CHA,Raymond Felton,feltora01,UNC,14,971,28829,40.2,.067,-0.6,10.1
+2005,6,POR,Martell Webster,webstma02,,10,580,13914,24.7,.085,-0.8,4.3
+2005,7,TOR,Charlie Villanueva,villach01,UConn,11,656,13578,22.6,.080,-0.6,4.7
+2005,8,NYK,Channing Frye,fryech01,Arizona,13,890,19772,38.9,.094,-0.4,8.0
+2005,9,GSW,Ike Diogu,dioguik01,Arizona State,6,225,2795,6.5,.112,-3.0,-0.7
+2005,10,LAL,Andrew Bynum,bynuman01,,8,418,10690,37.4,.168,1.4,9.1
+2005,11,ORL,Fran Vázquez,vazqufr01,,,,,,,,
+2005,12,LAC,Yaroslav Korolev,korolya01,,2,34,168,-0.1,-.024,-5.2,-0.1
+2005,13,CHA,Sean May,mayse01,UNC,4,119,1868,2.6,.068,-1.7,0.2
+2005,14,MIN,Rashad McCants,mccanra01,UNC,4,249,5037,3.6,.035,-1.7,0.4
+2005,15,NJN,Antoine Wright,wrighan01,Texas A&M,6,297,5714,3.1,.026,-3.7,-2.4
+2005,16,TOR,Joey Graham,grahajo01,Oklahoma State,6,377,6117,7.8,.061,-3.6,-2.4
+2005,17,IND,Danny Granger,grangda01,New Mexico,10,586,18487,48.5,.126,1.8,17.7
+2005,18,BOS,Gerald Green,greenge01,,12,658,13026,18.4,.068,-1.3,2.4
+2005,19,MEM,Hakim Warrick,warriha01,Syracuse,8,526,10624,20.4,.092,-1.9,0.4
+2005,20,DEN,Julius Hodge,hodgeju01,NC State,2,23,98,0.0,.003,-3.7,0.0
+2005,21,PHO,Nate Robinson,robinna01,Washington,11,618,13878,27.8,.096,0.5,8.6
+2005,22,DEN,Jarrett Jack,jackja01,Georgia Tech,13,867,24140,36.8,.073,-0.9,6.5
+2005,23,SAC,Francisco García,garcifr01,Louisville,10,549,11853,18.2,.074,-0.1,5.7
+2005,24,HOU,Luther Head,headlu01,Illinois,6,348,7797,14.7,.090,0.1,4.2
+2005,25,SEA,Johan Petro,petrojo01,,8,473,7262,5.5,.037,-4.6,-4.6
+2005,26,DET,Jason Maxiell,maxieja01,Cincinnati,10,618,11379,20.3,.086,-2.5,-1.4
+2005,27,POR,Linas Kleiza,kleizli01,Missouri,7,409,8185,13.6,.080,-2.3,-0.7
+2005,28,SAS,Ian Mahinmi,mahinia01,,12,618,10353,26.1,.121,-2.0,0.1
+2005,29,MIA,Wayne Simien,simiewa01,Kansas,2,51,507,0.9,.083,-4.4,-0.3
+2005,30,NYK,David Lee,leeda02,Florida,12,829,24293,76.0,.150,1.1,19.2
+2005,31,ATL,Salim Stoudamire,stoudsa01,Arizona,3,157,2672,2.2,.040,-2.9,-0.6
+2005,32,LAC,Daniel Ewing,ewingda01,Duke,2,127,1683,0.8,.024,-3.0,-0.4
+2005,33,NOH,Brandon Bass,bassbr01,LSU,12,758,16410,42.8,.125,-0.8,5.1
+2005,34,UTA,C.J. Miles,milescj01,,16,849,17284,30.1,.084,-0.4,6.9
+2005,35,POR,Ricky Sánchez,sanchri01,,,,,,,,
+2005,36,MIL,Ersan İlyasova,ilyaser01,,13,825,18957,48.8,.124,-0.1,9.0
+2005,37,LAL,Ronny Turiaf,turiaro01,Gonzaga,10,473,8020,19.2,.115,0.3,4.7
+2005,38,ORL,Travis Diener,dienetr01,Marquette,5,179,2660,5.6,.102,-0.4,1.1
+2005,39,LAL,Von Wafer,wafervo01,Florida State,6,200,2475,3.3,.064,-1.8,0.1
+2005,40,GSW,Monta Ellis,ellismo01,,12,833,29011,41.9,.069,-0.3,12.4
+2005,41,TOR,Roko Ukić,ukicro01,,2,85,987,-0.2,-.007,-4.3,-0.6
+2005,42,GSW,Chris Taft,taftch01,Pitt,1,17,144,0.5,.155,-0.7,0.0
+2005,43,NJN,Mile Ilić,ilicmi01,,1,5,6,-0.2,-1.264,-52.0,-0.1
+2005,44,ORL,Martynas Andriuškevičius,andrima01,,1,6,9,0.0,.155,5.2,0.0
+2005,45,PHI,Lou Williams,willilo02,,17,1123,27104,65.7,.116,1.4,23.2
+2005,46,IND,Erazem Lorbek,lorbeer01,,,,,,,,
+2005,47,MIN,Bracey Wright,wrighbr02,Indiana,2,26,325,0.5,.068,-1.6,0.0
+2005,48,SEA,Mickaël Gelabale,gelabmi01,,3,145,2348,3.0,.062,-2.1,0.0
+2005,49,WAS,Andray Blatche,blatcan01,,9,564,12462,19.2,.074,-0.8,3.8
+2005,50,BOS,Ryan Gomes,gomesry01,Providence,8,487,13463,19.4,.069,-1.6,1.4
+2005,51,UTA,Robert Whaley,whalero01,Walsh University,1,23,212,0.0,.004,-5.1,-0.2
+2005,52,DEN,Axel Hervelle,herveax01,,,,,,,,
+2005,53,BOS,Orien Greene,greenor01,Louisiana,4,131,1555,-0.7,-.022,-4.6,-1.0
+2005,54,NYK,Dijon Thompson,thompdi01,UCLA,2,16,93,0.2,.102,-0.5,0.0
+2005,55,SEA,Lawrence Roberts,roberla01,Mississippi State,2,87,1150,2.5,.106,-1.9,0.0
+2005,56,DET,Amir Johnson,johnsam01,,14,870,18323,55.3,.145,0.3,10.6
+2005,57,PHO,Marcin Gortat,gortama01,,12,806,20691,61.3,.142,0.4,12.7
+2005,58,TOR,Uroš Slokar,slokaur01,,1,20,72,0.1,.042,-5.6,-0.1
+2005,59,ATL,Cenk Akyol,akyolce01,,,,,,,,
+2005,60,DET,Alex Acker,ackeral01,Pepperdine,2,30,234,-0.2,-.043,-5.3,-0.2
+2006,1,TOR,Andrea Bargnani,bargnan01,,10,550,15806,18.9,.057,-1.6,1.5
+2006,2,CHI,LaMarcus Aldridge,aldrila01,Texas,16,1076,36242,115.6,.153,1.7,33.4
+2006,3,CHA,Adam Morrison,morriad01,Gonzaga,3,161,3278,-1.4,-.021,-5.0,-2.4
+2006,4,POR,Tyrus Thomas,thomaty01,LSU,8,402,7932,13.0,.078,-1.2,1.7
+2006,5,ATL,Shelden Williams,willish02,Duke,6,361,5586,9.9,.085,-3.0,-1.5
+2006,6,MIN,Brandon Roy,roybr01,Washington,6,326,11561,37.4,.155,3.6,16.3
+2006,7,BOS,Randy Foye,foyera01,Villanova,11,752,19279,23.5,.058,-1.2,3.8
+2006,8,HOU,Rudy Gay,gayru01,UConn,17,1120,34561,61.0,.085,0.6,22.4
+2006,9,GSW,Patrick O'Bryant,obryapa01,Bradley,4,90,524,0.5,.046,-4.6,-0.3
+2006,10,SEA,Mouhamed Sene,senesa01,,3,47,260,0.3,.052,-5.1,-0.2
+2006,11,ORL,JJ Redick,redicjj01,Duke,15,940,23964,63.7,.128,0.6,16.0
+2006,12,NOK,Hilton Armstrong,armsthi01,UConn,6,292,3378,3.9,.055,-4.1,-1.8
+2006,13,PHI,Thabo Sefolosha,sefolth01,,14,869,19062,39.3,.099,0.6,12.4
+2006,14,UTA,Ronnie Brewer,brewero02,Arkansas,8,502,11539,30.4,.127,1.6,10.6
+2006,15,NOK,Cedric Simmons,simmoce01,NC State,3,75,705,0.1,.005,-5.0,-0.5
+2006,16,CHI,Rodney Carney,carnero01,Memphis,5,299,4600,6.2,.064,-1.6,0.5
+2006,17,IND,Shawne Williams,willish03,Memphis,7,314,5368,6.7,.060,-2.2,-0.3
+2006,18,WAS,Oleksiy Pecherov,pecheol01,,3,111,1044,0.5,.025,-4.8,-0.7
+2006,19,SAC,Quincy Douby,doubyqu01,Rutgers University,3,143,1535,0.0,.000,-3.5,-0.6
+2006,20,NYK,Renaldo Balkman,balkmre01,South Carolina,6,221,3064,7.2,.113,0.1,1.6
+2006,21,PHO,Rajon Rondo,rondora01,Kentucky,16,957,28571,61.8,.104,1.2,23.2
+2006,22,NJN,Marcus Williams,willima03,UConn,4,203,3095,0.0,-.001,-3.3,-1.0
+2006,23,NJN,Josh Boone,boonejo01,UConn,4,256,4482,9.1,.097,-2.0,0.0
+2006,24,MEM,Kyle Lowry,lowryky01,Villanova,20,1187,36798,112.4,.147,2.6,43.1
+2006,25,CLE,Shannon Brown,brownsh01,Michigan State,9,408,7329,9.2,.060,-1.5,1.0
+2006,26,LAL,Jordan Farmar,farmajo01,UCLA,10,504,9840,13.9,.068,-0.5,3.7
+2006,27,PHO,Sergio Rodríguez,rodrise01,,5,353,5281,4.3,.039,-2.0,0.1
+2006,28,DAL,Maurice Ager,agerma01,Michigan State,4,82,505,-0.9,-.089,-9.4,-0.9
+2006,29,NYK,Mardy Collins,collima01,Temple,4,189,2771,-1.6,-.027,-4.4,-1.7
+2006,30,POR,Joel Freeland,freeljo01,,3,151,1821,3.2,.084,-3.3,-0.6
+2006,31,POR,James White,whiteja02,Cincinnati,3,67,583,0.8,.062,-3.2,-0.2
+2006,32,HOU,Steve Novak,novakst01,Marquette,11,467,5657,14.5,.123,0.8,4.0
+2006,33,ATL,Solomon Jones,jonesso01,South Florida,8,281,3092,5.0,.078,-4.0,-1.6
+2006,34,LAC,Paul Davis,davispa01,Michigan State,4,82,702,0.5,.035,-4.2,-0.4
+2006,35,TOR,P.J. Tucker,tuckepj01,Texas,14,886,24993,43.3,.083,-1.0,6.4
+2006,36,MIN,Craig Smith,smithcr01,Boston College,6,403,6826,16.0,.113,-1.2,1.4
+2006,37,MIN,Bobby Jones,jonesbo02,Washington,2,91,867,1.1,.060,-4.1,-0.5
+2006,38,GSW,Kosta Perović,perovko01,,1,7,38,0.0,.060,-5.9,0.0
+2006,39,MIL,David Noel,noelda01,UNC,1,68,792,0.4,.024,-3.1,-0.2
+2006,40,SEA,Denham Brown,brownde05,UConn,,,,,,,
+2006,41,ORL,James Augustine,augusja01,Illinois,2,27,156,0.3,.101,-2.7,0.0
+2006,42,CLE,Daniel Gibson,gibsoda01,Texas,7,397,9316,16.0,.082,-1.0,2.4
+2006,43,NOK,Marcus Vinicius,vincima01,,2,26,172,0.2,.056,-3.0,0.0
+2006,44,ORL,Lior Eliyahu,eliyali01,,,,,,,,
+2006,45,IND,Alexander Johnson,johnsal01,Florida State,2,102,1302,1.5,.056,-4.6,-0.9
+2006,46,UTA,Dee Brown,brownde03,Illinois,2,68,711,0.1,.008,-3.0,-0.2
+2006,47,UTA,Paul Millsap,millspa01,Louisiana Tech,16,1085,30498,95.4,.150,1.9,29.9
+2006,48,WAS,Vladimir Veremeenko,veremvl01,,,,,,,,
+2006,49,DEN,Leon Powe,powele01,California,5,239,3320,12.0,.174,-1.6,0.3
+2006,50,CHA,Ryan Hollins,holliry01,UCLA,10,518,6134,10.4,.081,-4.1,-3.2
+2006,51,LAL,Cheikh Samb,sambch01,,2,22,114,-0.1,-.056,-9.1,-0.2
+2006,52,LAC,Guillermo Díaz,diazgu01,Miami (FL),1,6,18,0.0,.033,-2.9,0.0
+2006,53,SEA,Yotam Halperin,halpeyo01,,,,,,,,
+2006,54,NJN,Hassan Adams,adamsha01,Arizona,2,73,547,0.8,.072,-2.3,0.0
+2006,55,CLE,Ejike Ugboaja,ugboaej01,,,,,,,,
+2006,56,TOR,Edin Bavčić,bavcied01,,,,,,,,
+2006,57,MIN,Loukas Mavrokefalidis,mavrolo01,,,,,,,,
+2006,58,DAL,J.R. Pinnock,pinnojr01,George Washington,,,,,,,
+2006,59,SAS,Damir Markota,markoda01,,1,30,170,-0.2,-.070,-8.5,-0.3
+2006,60,DET,Will Blalock,blalowi01,Iowa State,1,14,166,-0.1,-.032,-5.8,-0.2
+2007,1,POR,Greg Oden,odengr01,Ohio State,3,105,2028,7.3,.174,-0.4,0.8
+2007,2,SEA,Kevin Durant,duranke01,Texas,18,1201,44077,186.1,.203,6.3,92.2
+2007,3,ATL,Al Horford,horfoal01,Florida,19,1183,36887,119.4,.155,2.8,45.1
+2007,4,MEM,Mike Conley,conlemi01,Ohio State,19,1226,37588,107.6,.137,2.3,40.9
+2007,5,BOS,Jeff Green,greenje02,Georgetown,18,1247,33432,56.1,.080,-1.5,4.5
+2007,6,MIL,Yi Jianlian,jianlyi01,,5,272,6038,3.1,.025,-4.3,-3.5
+2007,7,MIN,Corey Brewer,breweco01,Florida,13,819,18771,22.5,.058,-1.6,2.0
+2007,8,CHA,Brandan Wright,wrighbr03,UNC,10,428,6949,26.2,.181,2.3,7.5
+2007,9,CHI,Joakim Noah,noahjo01,Florida,13,672,18646,61.9,.159,2.5,20.9
+2007,10,SAC,Spencer Hawes,hawessp01,Washington,10,684,15541,22.6,.070,-1.1,3.4
+2007,11,ATL,Acie Law,lawac01,Texas A&M,4,188,2385,1.6,.032,-3.9,-1.1
+2007,12,PHI,Thaddeus Young,youngth01,Georgia Tech,17,1172,33012,71.9,.105,0.5,20.7
+2007,13,NOK,Julian Wright,wrighju01,Kansas,4,231,3049,3.9,.061,-0.5,1.2
+2007,14,LAC,Al Thornton,thornal01,Florida State,4,296,8274,6.1,.035,-3.5,-3.2
+2007,15,DET,Rodney Stuckey,stuckro01,Eastern Washington,10,651,17890,28.7,.077,-0.9,4.9
+2007,16,WAS,Nick Young,youngni01,USC,12,720,16419,18.6,.054,-2.2,-0.8
+2007,17,NJN,Sean Williams,willise01,Boston College,4,137,1978,3.0,.073,-3.1,-0.6
+2007,18,GSW,Marco Belinelli,belinma01,,13,860,19548,30.5,.075,-1.3,3.3
+2007,19,LAL,Javaris Crittenton,crittja01,Georgia Tech,2,113,1853,0.1,.002,-4.2,-1.0
+2007,20,MIA,Jason Smith,smithja02,Colorado State,11,616,10029,14.1,.067,-2.9,-2.4
+2007,21,PHI,Daequan Cook,cookda02,Ohio State,6,328,5993,4.9,.039,-2.7,-1.1
+2007,22,CHA,Jared Dudley,dudleja01,Boston College,14,904,20117,43.0,.103,0.2,11.0
+2007,23,NYK,Wilson Chandler,chandwi01,DePaul,12,676,20287,29.0,.069,-1.3,3.5
+2007,24,PHO,Rudy Fernández,fernaru01,,4,249,5965,14.2,.114,1.7,5.6
+2007,25,UTA,Morris Almond,almonmo01,Rice University,3,38,361,0.0,.005,-6.1,-0.4
+2007,26,HOU,Aaron Brooks,brookaa01,Oregon,10,645,13439,19.2,.069,-1.2,2.7
+2007,27,DET,Arron Afflalo,afflaar01,UCLA,11,762,20829,33.5,.077,-1.5,2.4
+2007,28,SAS,Tiago Splitter,splitti01,,7,355,6812,25.3,.178,1.1,5.4
+2007,29,PHO,Alando Tucker,tuckeal02,Wisconsin,3,51,426,0.4,.045,-4.5,-0.3
+2007,30,PHI,Petteri Koponen,koponpe01,,,,,,,,
+2007,31,SEA,Carl Landry,landrca01,Purdue,9,513,11524,35.9,.149,-0.3,5.0
+2007,32,BOS,Gabe Pruitt,pruitga01,USC,2,62,461,0.4,.043,-2.8,-0.1
+2007,33,SAS,Marcus Williams,willima04,Arizona,2,13,39,-0.1,-.084,-5.4,0.0
+2007,34,DAL,Nick Fazekas,fazekni01,Nevada,1,26,269,0.8,.148,0.5,0.2
+2007,35,SEA,Glen Davis,davisgl01,LSU,8,514,10865,18.6,.082,-2.6,-1.7
+2007,36,GSW,Jermareo Davidson,davidje01,Alabama,2,52,433,0.0,.000,-5.2,-0.3
+2007,37,POR,Josh McRoberts,mcrobjo01,Duke,11,433,8271,18.5,.107,0.3,4.7
+2007,38,PHI,Kyrylo Fesenko,fesenky01,,5,135,1107,0.9,.038,-5.7,-1.1
+2007,39,MIA,Stanko Barać,baracst01,,,,,,,,
+2007,40,LAL,Sun Yue,yuesu01,,1,10,28,-0.1,-.226,-19.4,-0.1
+2007,41,MIN,Chris Richard,richach01,Florida,2,70,780,0.7,.045,-5.7,-0.7
+2007,42,POR,Derrick Byars,byarsde01,Vanderbilt,1,2,37,0.1,.147,-4.7,0.0
+2007,43,NOK,Adam Haluska,halusad02,Iowa,,,,,,,
+2007,44,ORL,Reyshawn Terry,terryre01,UNC,,,,,,,
+2007,45,LAC,Jared Jordan,jordaja01,Marist College,,,,,,,
+2007,46,GSW,Stéphane Lasme,lasmest01,UMass,1,16,303,0.3,.041,-4.4,-0.2
+2007,47,WAS,Dominic McGuire,mcguido01,Fresno State,6,342,5348,4.1,.037,-2.1,-0.1
+2007,48,LAL,Marc Gasol,gasolma01,,13,891,28719,85.3,.143,3.1,36.5
+2007,49,CHI,Aaron Gray,grayaa01,Pitt,7,318,3851,6.2,.077,-3.6,-1.5
+2007,50,DAL,Renaldas Seibutis,seibure01,,,,,,,,
+2007,51,CHI,JamesOn Curry,curryja01,Oklahoma State,1,1,0,0.0,,,0.0
+2007,52,POR,Taurean Green,greenta01,Florida,1,17,74,-0.1,-.066,-7.5,-0.1
+2007,53,POR,Demetris Nichols,nichode01,Syracuse,2,18,58,-0.2,-.203,-10.3,-0.1
+2007,54,HOU,Brad Newley,newlebr01,,,,,,,,
+2007,55,UTA,Herbert Hill,hillhe02,Providence,,,,,,,
+2007,56,MIL,Ramon Sessions,sessira01,Nevada,11,691,16119,28.8,.086,-0.7,5.2
+2007,57,DET,Sammy Mejia,mejiasa01,DePaul,,,,,,,
+2007,58,SAS,Georgios Printezis,printgi01,,,,,,,,
+2007,59,PHO,D.J. Strawberry,strawdj01,Maryland,1,33,270,-0.2,-.031,-5.6,-0.2
+2007,60,DAL,Milovan Raković,rakovmi01,,,,,,,,
+2008,1,CHI,Derrick Rose,rosede01,Memphis,15,723,22054,44.6,.097,1.2,18.2
+2008,2,MIA,Michael Beasley,beaslmi01,Kansas State,11,609,13903,15.6,.054,-1.7,0.9
+2008,3,MIN,O.J. Mayo,mayooj01,USC,8,547,16919,21.8,.062,-0.9,4.7
+2008,4,SEA,Russell Westbrook,westbru01,UCLA,18,1301,43026,112.9,.126,3.5,59.1
+2008,5,MEM,Kevin Love,loveke01,UCLA,18,989,28118,96.0,.164,3.2,36.7
+2008,6,NYK,Danilo Gallinari,gallida01,,14,777,22410,65.4,.140,1.7,20.8
+2008,7,LAC,Eric Gordon,gordoer01,Indiana,18,931,28958,42.1,.070,-0.8,9.1
+2008,8,MIL,Joe Alexander,alexajo01,West Virginia,2,67,745,0.5,.030,-3.6,-0.3
+2008,9,CHA,D.J. Augustin,augusdj01,Texas,14,976,22851,47.7,.100,-0.7,7.6
+2008,10,NJN,Brook Lopez,lopezbr01,Stanford,18,1180,35157,94.2,.129,1.2,28.3
+2008,11,IND,Jerryd Bayless,bayleje01,Arizona,11,586,12486,18.6,.072,-1.6,1.1
+2008,12,SAC,Jason Thompson,thompja02,Rider University,8,588,14819,23.8,.077,-2.6,-2.4
+2008,13,POR,Brandon Rush,rushbr01,Kansas,9,481,10564,11.2,.051,-1.4,1.6
+2008,14,GSW,Anthony Randolph,randoan01,LSU,6,252,3841,5.8,.072,-1.6,0.4
+2008,15,PHO,Robin Lopez,lopezro01,Stanford,16,992,20937,49.6,.114,-1.1,4.6
+2008,16,PHI,Marreese Speights,speigma01,Florida,10,705,10640,25.8,.116,-2.2,-0.6
+2008,17,TOR,Roy Hibbert,hibbero01,Georgetown,9,662,16389,35.9,.105,-1.1,3.5
+2008,18,WAS,JaVale McGee,mcgeeja01,Nevada,16,909,14676,43.7,.143,0.0,7.3
+2008,19,CLE,J.J. Hickson,hicksjj01,NC State,8,534,11925,21.9,.088,-1.8,0.5
+2008,20,CHA,Alexis Ajinça,ajincal01,,7,293,3905,7.5,.093,-2.8,-0.8
+2008,21,NJN,Ryan Anderson,anderry01,California,12,649,16769,46.7,.134,1.0,12.8
+2008,22,ORL,Courtney Lee,leeco01,Western Kentucky,12,811,21938,39.3,.086,-0.6,7.9
+2008,23,UTA,Kosta Koufos,koufoko01,Ohio State,11,686,11271,28.3,.120,-1.3,2.0
+2008,24,SEA,Serge Ibaka,ibakase01,,14,919,25127,73.0,.139,0.5,15.7
+2008,25,HOU,Nicolas Batum,batumni01,,18,1205,33931,75.6,.107,1.4,29.0
+2008,26,SAS,George Hill,hillge01,IUPUI,15,915,24501,71.0,.139,1.1,19.4
+2008,27,NOH,Darrell Arthur,arthuda01,Kansas,9,503,8945,12.3,.066,-2.2,-0.4
+2008,28,MEM,Donté Greene,greendo01,Syracuse,4,253,4259,1.5,.017,-2.8,-0.9
+2008,29,DET,D.J. White,whitedj01,Indiana,6,138,2111,3.8,.087,-2.1,0.0
+2008,30,BOS,J.R. Giddens,giddejr01,New Mexico,2,38,247,0.1,.027,-4.3,-0.1
+2008,31,MIN,Nikola Peković,pekovni01,,6,271,6744,18.8,.134,-0.7,2.2
+2008,32,SEA,Walter Sharpe,sharpwa01,UAB,1,8,20,-0.1,-.131,-10.1,0.0
+2008,33,POR,Joey Dorsey,dorsejo01,Memphis,4,130,1488,2.9,.092,-2.7,-0.3
+2008,34,MIN,Mario Chalmers,chalmma01,Kansas,9,646,17245,32.3,.090,-0.6,5.9
+2008,35,LAC,DeAndre Jordan,jordade01,Texas A&M,18,1123,28066,99.4,.170,1.1,22.2
+2008,36,POR,Ömer Aşık,asikom01,,8,471,9216,20.9,.109,-1.9,0.1
+2008,37,MIL,Luc Mbah a Moute,mbahalu01,UCLA,12,689,16038,26.0,.078,-1.5,2.0
+2008,38,CHA,Kyle Weaver,weaveky01,Washington State,3,73,1379,1.5,.051,-1.1,0.3
+2008,39,CHI,Sonny Weems,weemsso01,Arkansas,4,183,3335,0.0,.001,-4.2,-1.8
+2008,40,NJN,Chris Douglas-Roberts,douglch01,Memphis,6,222,4381,5.4,.059,-2.2,-0.2
+2008,41,IND,Nathan Jawai,jawaina01,,2,45,431,0.2,.020,-4.4,-0.3
+2008,42,SAC,Sean Singletary,singlse01,Virginia,1,37,303,0.0,.006,-5.1,-0.2
+2008,43,SAC,Patrick Ewing,ewingpa02,Georgetown,1,7,19,-0.1,-.158,-9.1,0.0
+2008,44,UTA,Ante Tomić,tomican01,,,,,,,,
+2008,45,SAS,Goran Dragić,dragigo01,,15,946,25603,56.7,.106,0.5,15.9
+2008,46,SEA,Trent Plaisted,plaistr01,BYU,,,,,,,
+2008,47,WAS,Henry Walker,walkebi01,Kansas State,5,181,3016,5.0,.079,-1.8,0.2
+2008,48,PHO,Malik Hairston,hairsma01,Oregon,2,62,472,0.8,.086,-2.0,0.0
+2008,49,GSW,Richard Hendrix,hendrri02,Alabama,,,,,,,
+2008,50,SEA,DeVon Hardin,hardide01,California,,,,,,,
+2008,51,DAL,Shan Foster,fostesh01,Vanderbilt,,,,,,,
+2008,52,MIA,Darnell Jackson,jacksda01,Kansas,3,138,1039,1.3,.059,-5.2,-0.8
+2008,53,UTA,Tadija Dragićević,dragita01,,,,,,,,
+2008,54,HOU,Maarty Leunen,leunema01,Oregon,,,,,,,
+2008,55,POR,Mike Taylor,taylomi01,Iowa State,1,51,771,-0.4,-.028,-5.2,-0.6
+2008,56,SEA,Sasha Kaun,kaunsa01,Kansas,1,25,95,0.2,.096,-2.8,0.0
+2008,57,SAS,James Gist,gistja01,Maryland,,,,,,,
+2008,58,LAL,Joe Crawford,crawfjo01,Kentucky,1,2,23,0.0,.037,-2.7,0.0
+2008,59,DET,Deron Washington,washide02,Virginia Tech,,,,,,,
+2008,60,BOS,Semih Erden,erdense01,,2,69,928,1.8,.094,-3.6,-0.4
+2009,1,LAC,Blake Griffin,griffbl01,Oklahoma,13,765,24384,81.1,.160,3.3,32.8
+2009,2,MEM,Hasheem Thabeet,thabeha01,UConn,5,224,2357,4.8,.099,-2.7,-0.4
+2009,3,OKC,James Harden,hardeja01,Arizona State,17,1221,42450,182.4,.206,6.2,87.9
+2009,4,SAC,Tyreke Evans,evansty01,Memphis,10,594,18242,28.4,.075,0.8,13.1
+2009,5,MIN,Ricky Rubio,rubiori01,,12,698,20694,42.3,.098,0.5,13.3
+2009,6,MIN,Jonny Flynn,flynnjo01,Syracuse,3,163,3738,-1.1,-.015,-4.0,-1.9
+2009,7,GSW,Stephen Curry,curryst01,Davidson,17,1069,36304,147.1,.195,6.4,77.2
+2009,8,NYK,Jordan Hill,hilljo01,Arizona,8,409,7692,16.4,.102,-2.0,0.0
+2009,9,TOR,DeMar DeRozan,derozde01,USC,17,1264,43634,114.1,.126,0.8,30.6
+2009,10,MIL,Brandon Jennings,jennibr01,,9,555,16844,29.9,.085,0.8,11.8
+2009,11,NJN,Terrence Williams,willite01,Louisville,4,153,2922,-0.2,-.004,-2.8,-0.6
+2009,12,CHA,Gerald Henderson,hendege02,Duke,8,535,13854,18.3,.063,-1.8,0.6
+2009,13,IND,Tyler Hansbrough,hansbty01,UNC,7,428,7233,20.2,.134,-2.0,0.0
+2009,14,PHO,Earl Clark,clarkea01,Louisville,6,261,3630,2.9,.038,-2.8,-0.8
+2009,15,DET,Austin Daye,dayeau01,Gonzaga,6,293,4132,4.5,.053,-2.0,0.0
+2009,16,CHI,James Johnson,johnsja01,Wake Forest,16,786,15561,27.4,.084,0.4,9.3
+2009,17,PHI,Jrue Holiday,holidjr01,UCLA,17,1090,35720,78.1,.105,1.6,32.7
+2009,18,MIN,Ty Lawson,lawsoty01,UNC,8,551,16088,42.1,.126,1.4,13.6
+2009,19,ATL,Jeff Teague,teaguje01,Wake Forest,12,826,22164,52.4,.113,0.6,14.3
+2009,20,UTA,Eric Maynor,maynoer01,VCU,5,267,3896,3.3,.041,-2.9,-0.8
+2009,21,NOH,Darren Collison,collida01,UCLA,11,711,20833,49.9,.115,0.5,13.4
+2009,22,POR,Victor Claver,clavevi01,,3,80,1072,0.2,.011,-3.6,-0.4
+2009,23,SAC,Omri Casspi,casspom01,,10,588,11959,19.6,.078,-0.8,3.5
+2009,24,DAL,Byron Mullens,mulleby01,Ohio State,5,189,3446,0.6,.008,-4.0,-1.8
+2009,25,OKC,Rodrigue Beaubois,beaubro01,,4,182,2896,4.8,.079,-0.1,1.4
+2009,26,CHI,Taj Gibson,gibsota01,USC,17,1012,23166,60.5,.125,-0.9,6.5
+2009,27,MEM,DeMarre Carroll,carrode01,Missouri,11,578,13675,29.5,.104,0.0,6.7
+2009,28,MIN,Wayne Ellington,ellinwa01,UNC,13,770,16100,21.1,.063,-1.5,2.2
+2009,29,LAL,Toney Douglas,douglto01,Florida State,8,394,7511,12.1,.077,-0.8,2.2
+2009,30,CLE,Christian Eyenga,eyengch01,,2,51,1049,-0.4,-.020,-4.2,-0.6
+2009,31,SAC,Jeff Ayres,pendeje02,Arizona State,6,237,2322,6.3,.131,-2.3,-0.2
+2009,32,WAS,Jermaine Taylor,tayloje02,Central Florida,2,65,786,0.2,.014,-3.7,-0.3
+2009,33,POR,Dante Cunningham,cunnida01,Villanova,10,715,14875,24.9,.080,-1.7,1.1
+2009,34,DEN,Sergio Llull,llullse01,,,,,,,,
+2009,35,DET,DaJuan Summers,summeda01,Georgetown,4,83,820,-0.1,-.008,-5.8,-0.8
+2009,36,MEM,Sam Young,youngsa01,Pitt,4,249,3966,5.2,.063,-2.1,-0.1
+2009,37,SAS,DeJuan Blair,blairde01,Pitt,7,424,7054,19.0,.129,-1.2,1.4
+2009,38,POR,Jon Brockman,brockjo01,Washington,3,150,1570,3.7,.113,-3.9,-0.8
+2009,39,DET,Jonas Jerebko,jerebjo01,,9,635,11323,25.8,.109,-1.0,2.9
+2009,40,CHA,Derrick Brown,brownde04,Xavier,3,171,2554,4.5,.085,-1.3,0.4
+2009,41,MIL,Jodie Meeks,meeksjo01,Kentucky,10,539,12110,24.3,.096,-0.6,4.2
+2009,42,LAL,Patrick Beverley,beverpa01,Arkansas,12,666,17689,40.2,.109,0.7,12.1
+2009,43,MIA,Marcus Thornton,thornma01,LSU,8,483,11299,20.0,.085,0.2,6.2
+2009,44,DET,Chase Budinger,budinch01,Arizona,7,407,7998,13.9,.083,-0.5,2.9
+2009,45,MIN,Nick Calathes,calatni01,Florida,2,129,2011,2.6,.063,-0.5,0.8
+2009,46,CLE,Danny Green,greenda02,UNC,15,832,20899,49.3,.113,1.8,20.2
+2009,47,MIN,Henk Norel,norelhe01,,,,,,,,
+2009,48,PHO,Taylor Griffin,griffta01,Oklahoma,1,8,32,0.0,-.039,-8.1,-0.1
+2009,49,ATL,Sergiy Gladyr,gladyse01,,,,,,,,
+2009,50,UTA,Goran Suton,sutongo01,Michigan State,,,,,,,
+2009,51,SAS,Jack McClinton,mcclija01,Miami (FL),,,,,,,
+2009,52,IND,A.J. Price,priceaj01,UConn,6,261,3929,4.7,.058,-1.3,0.7
+2009,53,SAS,Nando De Colo,decolna01,,2,119,1414,2.4,.081,-0.7,0.5
+2009,54,CHA,Robert Vaden,vadenro01,UAB,,,,,,,
+2009,55,POR,Patty Mills,millspa02,Saint Mary's,16,921,18316,35.9,.094,-0.2,8.5
+2009,56,DAL,Ahmad Nivins,nivinah01,Saint Joseph's,,,,,,,
+2009,57,PHO,Emir Preldžić,preldem01,,,,,,,,
+2009,58,BOS,Lester Hudson,hudsole01,University of Tennessee at Martin,4,57,594,0.2,.016,-2.1,0.0
+2009,59,LAL,Chinemelu Elonu,elonuch01,Texas A&M,,,,,,,
+2009,60,MIA,Robert Dozier,doziero01,Memphis,,,,,,,
+2010,1,WAS,John Wall,walljo01,Kentucky,11,647,22588,44.5,.094,2.2,24.1
+2010,2,PHI,Evan Turner,turneev01,Ohio State,10,705,18938,20.2,.051,-1.9,0.5
+2010,3,NJN,Derrick Favors,favorde01,Georgia Tech,12,790,19202,60.2,.150,0.9,14.0
+2010,4,MIN,Wesley Johnson,johnswe01,Syracuse,9,609,13472,10.7,.038,-1.6,1.2
+2010,5,SAC,DeMarcus Cousins,couside01,Kentucky,11,654,19508,46.8,.115,2.4,21.6
+2010,6,GSW,Ekpe Udoh,udohek01,Baylor,7,384,5694,10.4,.088,-1.4,0.8
+2010,7,DET,Greg Monroe,monrogr01,Georgetown,10,646,17670,50.4,.137,1.4,15.3
+2010,8,LAC,Al-Farouq Aminu,aminual01,Wake Forest,11,711,17698,27.6,.075,-0.6,6.5
+2010,9,UTA,Gordon Hayward,haywago01,Butler,14,835,25654,63.5,.119,1.6,23.0
+2010,10,IND,Paul George,georgpa01,Fresno State,16,945,31651,92.0,.140,3.7,45.2
+2010,11,NOH,Cole Aldrich,aldrico01,Kansas,8,339,3389,9.6,.135,0.1,1.8
+2010,12,MEM,Xavier Henry,henryxa01,Kansas,5,185,2905,0.8,.013,-4.4,-1.7
+2010,13,TOR,Ed Davis,davised01,UNC,12,722,13756,43.3,.151,-0.2,6.2
+2010,14,HOU,Patrick Patterson,pattepa01,Kentucky,11,719,14923,31.9,.102,0.0,7.4
+2010,15,MIL,Larry Sanders,sandela01,VCU,6,238,4635,10.3,.107,-1.1,1.1
+2010,16,MIN,Luke Babbitt,babbilu01,Nevada,8,381,5332,7.2,.065,-2.1,-0.1
+2010,17,CHI,Kevin Séraphin,serapke01,,7,423,6430,5.9,.044,-4.3,-3.6
+2010,18,OKC,Eric Bledsoe,bledser01,Kentucky,12,756,21021,46.1,.105,1.6,18.8
+2010,19,BOS,Avery Bradley,bradlav01,Texas,12,660,18151,17.2,.045,-2.4,-1.8
+2010,20,SAS,James Anderson,anderja01,Oklahoma State,5,247,4320,3.3,.037,-2.7,-0.8
+2010,21,OKC,Craig Brackins,brackcr01,Iowa State,2,17,121,-0.2,-.089,-9.9,-0.2
+2010,22,POR,Elliot Williams,williel01,Memphis,4,109,1470,0.7,.024,-4.9,-1.1
+2010,23,MIN,Trevor Booker,booketr01,Clemson,8,532,10872,26.2,.116,-0.5,4.2
+2010,24,ATL,Damion James,jamesda01,Texas,4,39,623,0.0,-.001,-3.7,-0.3
+2010,25,MEM,Dominique Jones,jonesdo02,South Florida,3,80,741,0.3,.017,-2.4,-0.1
+2010,26,OKC,Quincy Pondexter,pondequ01,Washington,7,355,5530,9.7,.084,-1.8,0.3
+2010,27,NJN,Jordan Crawford,crawfjo02,Xavier,6,281,6843,6.3,.044,-1.3,1.3
+2010,28,MEM,Greivis Vásquez,vasqugr01,Maryland,7,401,9520,12.6,.064,-1.2,1.8
+2010,29,ORL,Daniel Orton,ortonda01,Kentucky,3,51,542,1.0,.093,-3.5,-0.2
+2010,30,WAS,Lazar Hayward,haywala01,Marquette,3,72,591,0.2,.020,-4.2,-0.3
+2010,31,NJN,Tibor Pleiß,pleisti01,,1,12,82,-0.1,-.041,-11.6,-0.2
+2010,32,MIA,Dexter Pittman,pittmde01,Texas,4,50,347,0.5,.068,-7.7,-0.5
+2010,33,SAC,Hassan Whiteside,whiteha01,Marshall,10,511,12645,52.0,.197,2.5,14.5
+2010,34,POR,Armon Johnson,johnsar02,Nevada,2,47,401,-0.1,-.015,-4.1,-0.2
+2010,35,WAS,Nemanja Bjelica,bjeline01,,7,449,9173,20.0,.104,0.3,5.4
+2010,36,DET,Terrico White,whitete01,Ole Miss,,,,,,,
+2010,37,MIL,Darington Hobson,hobsoda01,New Mexico,1,5,39,-0.2,-.225,-13.0,-0.1
+2010,38,NYK,Andy Rautins,rautian01,Syracuse,1,5,24,-0.2,-.314,-13.2,-0.1
+2010,39,NYK,Landry Fields,fieldla01,Stanford,5,255,6010,10.5,.084,-0.3,2.6
+2010,40,IND,Lance Stephenson,stephla01,Cincinnati,10,554,12680,17.5,.066,-1.3,2.3
+2010,41,MIA,Jarvis Varnado,varnaja01,Mississippi State,2,37,397,0.7,.089,-3.3,-0.1
+2010,42,MIA,Da'Sean Butler,butleda03,West Virginia,,,,,,,
+2010,43,LAL,Devin Ebanks,ebankde01,West Virginia,3,63,711,0.5,.035,-4.8,-0.5
+2010,44,MIL,Jerome Jordan,jordaje01,Tulsa,2,65,491,1.7,.168,-1.0,0.1
+2010,45,MIN,Paulão Prestes,prestpa01,,,,,,,,
+2010,46,PHO,Gani Lawal,lawalga01,Georgia Tech,1,1,2,0.0,-.009,-15.0,0.0
+2010,47,MIL,Tiny Gallon,galloti01,Oklahoma,,,,,,,
+2010,48,MIA,Latavious Williams,willila01,,,,,,,,
+2010,49,SAS,Ryan Richards,richary01,,,,,,,,
+2010,50,DAL,Solomon Alabi,alabiso01,Florida State,2,26,181,0.0,.010,-4.4,-0.1
+2010,51,OKC,Magnum Rolle,rollema01,Louisiana Tech,,,,,,,
+2010,52,BOS,Luke Harangody,haranlu01,Notre Dame,2,70,871,0.9,.048,-3.5,-0.3
+2010,53,ATL,Pape Sy,sypa01,,1,3,21,0.0,-.047,-6.0,0.0
+2010,54,LAC,Willie Warren,warrewi01,Oklahoma,1,19,134,0.2,.065,-2.7,0.0
+2010,55,UTA,Jeremy Evans,evansje01,Western Kentucky,7,250,2626,8.2,.150,0.9,1.9
+2010,56,MIN,Hamady N'Diaye,ndiayha01,Rutgers University,3,33,157,0.0,.013,-7.3,-0.2
+2010,57,IND,Ryan Reid,reidry01,Florida State,1,5,17,0.1,.142,-2.0,0.0
+2010,58,LAL,Derrick Caracter,caracde01,Texas-El Paso,1,41,215,0.3,.057,-7.1,-0.3
+2010,59,ORL,Stanley Robinson,robinst01,UConn,,,,,,,
+2010,60,PHO,Dwayne Collins,collidw01,Miami (FL),,,,,,,
+2011,1,CLE,Kyrie Irving,irvinky01,Duke,14,779,26879,91.0,.163,4.5,43.7
+2011,2,MIN,Derrick Williams,willide02,Arizona,7,428,8864,14.1,.076,-1.6,0.8
+2011,3,UTA,Enes Freedom,kanteen01,,11,748,16101,52.8,.157,-0.1,7.6
+2011,4,CLE,Tristan Thompson,thomptr01,Texas,13,819,20432,49.3,.116,-1.7,1.3
+2011,5,TOR,Jonas Valančiūnas,valanjo01,,14,1002,24429,87.6,.172,0.9,18.2
+2011,6,WAS,Jan Veselý,veselja01,,3,162,2455,4.0,.078,-2.6,-0.4
+2011,7,SAC,Bismack Biyombo,biyombi01,,15,892,17053,33.3,.094,-2.6,-2.6
+2011,8,DET,Brandon Knight,knighbr03,Kentucky,9,451,13202,11.6,.042,-1.6,1.4
+2011,9,CHA,Kemba Walker,walkeke02,UConn,12,750,24810,59.8,.116,2.8,29.8
+2011,10,MIL,Jimmer Fredette,fredeji01,BYU,6,241,3213,2.2,.033,-2.5,-0.4
+2011,11,GSW,Klay Thompson,thompkl01,Washington State,13,934,29306,57.6,.094,0.4,17.6
+2011,12,UTA,Alec Burks,burksal01,Colorado,14,791,17576,31.7,.087,-0.5,6.6
+2011,13,PHO,Markieff Morris,morrima02,Kansas,14,791,18460,27.3,.071,-1.5,2.3
+2011,14,HOU,Marcus Morris,morrima03,Kansas,13,832,22093,39.4,.086,-0.8,6.7
+2011,15,IND,Kawhi Leonard,leonaka01,San Diego State,14,798,25368,111.9,.212,6.6,55.2
+2011,16,PHI,Nikola Vučević,vucevni01,USC,15,1036,32321,84.3,.125,2.1,33.2
+2011,17,NYK,Iman Shumpert,shumpim01,Georgia Tech,10,461,11470,12.9,.054,-1.7,0.9
+2011,18,WAS,Chris Singleton,singlch01,Florida State,3,148,2605,2.3,.042,-3.2,-0.8
+2011,19,CHA,Tobias Harris,harrito02,Tennessee,15,1033,32474,80.6,.119,1.0,24.3
+2011,20,MIN,Donatas Motiejūnas,motiedo01,,6,251,4566,7.1,.075,-2.5,-0.5
+2011,21,POR,Nolan Smith,smithno01,Duke,2,84,829,-0.8,-.047,-6.0,-0.8
+2011,22,DEN,Kenneth Faried,farieke01,Morehead State University,8,478,11728,38.8,.159,0.5,7.5
+2011,23,HOU,Nikola Mirotić,mirotni01,,5,319,7718,20.8,.129,1.6,7.1
+2011,24,OKC,Reggie Jackson,jacksre01,Boston College,14,884,21859,36.3,.080,-0.6,7.5
+2011,25,BOS,MarShon Brooks,brookma01,Providence,5,200,3456,3.3,.046,-1.6,0.4
+2011,26,DAL,Jordan Hamilton,hamiljo02,Texas,5,151,2100,3.0,.069,-0.1,1.0
+2011,27,NJN,JaJuan Johnson,johnsja02,Purdue,1,36,298,0.2,.032,-3.9,-0.1
+2011,28,CHI,Norris Cole,coleno01,Cleveland State University,6,360,8018,3.0,.018,-4.1,-4.1
+2011,29,SAS,Cory Joseph,josepco01,Texas,14,866,18296,32.1,.084,-1.1,4.0
+2011,30,CHI,Jimmy Butler,butleji01,Marquette,15,907,29972,129.4,.207,5.0,52.8
+2011,31,MIA,Bojan Bogdanović,bogdabo02,,10,719,20890,37.6,.086,-0.9,5.8
+2011,32,CLE,Justin Harper,harpeju01,Richmond,3,22,150,-0.3,-.093,-8.7,-0.2
+2011,33,DET,Kyle Singler,singlky01,Duke,6,356,7794,10.0,.062,-2.5,-0.9
+2011,34,WAS,Shelvin Mack,macksh01,Butler,8,456,8392,10.3,.059,-1.9,0.1
+2011,35,SAC,Tyler Honeycutt,honeyty01,UCLA,2,24,120,-0.1,-.049,-5.1,-0.1
+2011,36,NJN,Jordan Williams,willijo03,Maryland,1,43,635,1.3,.101,-2.1,0.0
+2011,37,LAC,Trey Thompkins,thomptr02,Georgia,1,24,119,0.0,.004,-5.7,-0.1
+2011,38,HOU,Chandler Parsons,parsoch01,Florida,9,440,13246,28.9,.105,1.1,10.2
+2011,39,CHA,Jeremy Tyler,tylerje01,,3,104,1034,0.3,.014,-7.0,-1.3
+2011,40,MIL,Jon Leuer,leuerjo01,Wisconsin,8,377,5945,13.2,.107,-0.7,2.0
+2011,41,LAL,Darius Morris,morrida01,Michigan,4,132,1464,-0.3,-.010,-5.1,-1.2
+2011,42,IND,Dāvis Bertāns,bertada01,,8,475,8545,18.6,.105,0.2,4.7
+2011,43,CHI,Malcolm Lee,leema01,UCLA,3,36,534,0.4,.040,-2.5,-0.1
+2011,44,GSW,Charles Jenkins,jenkich01,Hofstra,2,110,1334,0.5,.017,-4.5,-0.8
+2011,45,NOH,Josh Harrellson,harrejo01,Kentucky,3,75,888,2.1,.116,-0.4,0.4
+2011,46,LAL,Andrew Goudelock,goudean01,College of Charleston,3,49,475,0.0,.003,-5.0,-0.3
+2011,47,LAC,Travis Leslie,leslitr01,Georgia,1,10,45,0.1,.060,-0.3,0.0
+2011,48,ATL,Keith Benson,bensoke02,Oakland,1,3,9,0.0,-.005,-7.7,0.0
+2011,49,MEM,Josh Selby,selbyjo01,Kansas,2,38,296,-0.7,-.113,-9.5,-0.6
+2011,50,PHI,Lavoy Allen,allenla01,Temple,6,388,6905,13.8,.096,-2.1,-0.1
+2011,51,POR,Jon Diebler,diebljo01,Ohio State,,,,,,,
+2011,52,DET,Vernon Macklin,macklve01,Florida,1,23,135,0.5,.161,1.2,0.1
+2011,53,ORL,DeAndre Liggins,liggide01,Kentucky,5,177,1907,1.6,.040,-2.2,-0.1
+2011,54,CLE,Milan Mačvan,macvami01,,,,,,,,
+2011,55,BOS,E'Twaun Moore,mooreet01,Purdue,10,598,12564,14.8,.057,-1.9,0.2
+2011,56,LAL,Chukwudiebere Maduabum,maduach01,,,,,,,,
+2011,57,DAL,Tanguy Ngombo,ngombta01,,,,,,,,
+2011,58,LAL,Ater Majok,majokat01,,,,,,,,
+2011,59,SAS,Ádám Hanga,hangaad01,,,,,,,,
+2011,60,SAC,Isaiah Thomas,thomais02,Washington,12,556,15582,45.3,.140,2.1,16.1
+2012,1,NOH,Anthony Davis,davisan02,Kentucky,14,807,27741,120.1,.208,5.8,54.9
+2012,2,CHA,Michael Kidd-Gilchrist,kiddgmi01,Kentucky,8,446,10978,21.0,.092,-1.8,0.6
+2012,3,WAS,Bradley Beal,bealbr01,Florida,14,807,27681,58.4,.101,1.4,23.7
+2012,4,CLE,Dion Waiters,waitedi01,Syracuse,8,419,11835,8.8,.036,-2.1,-0.4
+2012,5,SAC,Thomas Robinson,robinth01,Kansas,5,313,4204,4.6,.053,-3.5,-1.6
+2012,6,POR,Damian Lillard,lillada01,Weber State,13,900,32614,118.4,.174,4.6,54.5
+2012,7,GSW,Harrison Barnes,barneha02,UNC,14,1070,33015,66.4,.097,-0.8,10.0
+2012,8,TOR,Terrence Ross,rosste01,Washington,11,733,17956,25.0,.067,-1.0,4.5
+2012,9,DET,Andre Drummond,drumman01,UConn,14,967,25451,80.0,.151,1.0,18.9
+2012,10,NOH,Austin Rivers,riverau01,Duke,11,707,16858,15.2,.043,-3.1,-4.5
+2012,11,POR,Meyers Leonard,leoname01,Illinois,10,456,7272,15.8,.104,-1.5,1.0
+2012,12,HOU,Jeremy Lamb,lambje01,UConn,10,573,11896,26.8,.108,0.6,7.9
+2012,13,PHO,Kendall Marshall,marshke01,UNC,4,160,3083,1.0,.015,-3.5,-1.1
+2012,14,MIL,John Henson,hensojo01,UNC,8,445,8752,20.7,.113,-0.5,3.4
+2012,15,PHI,Maurice Harkless,harklma01,St. John's,10,621,14019,23.0,.079,-0.8,4.1
+2012,16,HOU,Royce White,whitero03,Iowa State,1,3,9,0.0,-.121,-16.9,0.0
+2012,17,DAL,Tyler Zeller,zellety01,UNC,8,414,7254,17.1,.113,-2.0,0.0
+2012,18,HOU,Terrence Jones,joneste01,Kentucky,6,234,5562,14.7,.127,0.5,3.6
+2012,19,ORL,Andrew Nicholson,nichoan01,St. Bonaventure,5,285,4080,3.8,.045,-3.6,-1.6
+2012,20,DEN,Evan Fournier,fournev01,,12,704,19514,30.5,.075,-1.1,4.3
+2012,21,BOS,Jared Sullinger,sullija01,Ohio State,5,269,6532,15.3,.113,-0.4,2.7
+2012,22,BOS,Fab Melo,melofa01,Syracuse,1,6,36,0.0,.021,-7.6,-0.1
+2012,23,ATL,John Jenkins,jenkijo01,Vanderbilt,6,171,2183,3.0,.065,-1.9,0.1
+2012,24,CLE,Jared Cunningham,cunnija01,Oregon State,4,84,605,0.2,.017,-5.7,-0.6
+2012,25,MEM,Tony Wroten,wroteto01,Washington,4,145,3076,-1.3,-.021,-3.4,-1.1
+2012,26,IND,Miles Plumlee,plumlmi01,Duke,7,346,5658,10.6,.090,-1.9,0.2
+2012,27,MIA,Arnett Moultrie,moultar01,Mississippi State,2,59,729,1.7,.113,-2.8,-0.1
+2012,28,OKC,Perry Jones,jonespe01,Baylor,3,143,1675,1.7,.048,-3.5,-0.6
+2012,29,CHI,Marquis Teague,teaguma01,Kentucky,3,91,909,-0.9,-.045,-6.5,-1.0
+2012,30,GSW,Festus Ezeli,ezelife01,Vanderbilt,3,170,2394,5.9,.119,-2.0,0.0
+2012,31,CHA,Jeff Taylor,tayloje03,Vanderbilt,3,132,2566,1.3,.024,-4.2,-1.5
+2012,32,WAS,Tomáš Satoranský,satorto01,,6,388,8617,17.9,.100,-0.9,2.4
+2012,33,CLE,Bernard James,jamesbe01,Florida State,3,92,761,1.9,.117,-1.8,0.0
+2012,34,CLE,Jae Crowder,crowdja01,Marquette,13,812,20161,43.0,.102,0.1,10.9
+2012,35,GSW,Draymond Green,greendr01,Michigan State,14,949,27151,66.3,.117,2.1,27.9
+2012,36,SAC,Orlando Johnson,johnsor01,UC Santa Barbara,3,103,1112,1.4,.059,-2.4,-0.1
+2012,37,TOR,Quincy Acy,acyqu01,Baylor,7,337,5392,8.7,.078,-2.0,-0.1
+2012,38,DEN,Quincy Miller,millequ01,Baylor,3,69,934,-0.1,-.003,-3.9,-0.5
+2012,39,DET,Khris Middleton,middlkh01,Texas A&M,14,839,25262,58.2,.111,0.5,15.7
+2012,40,POR,Will Barton,bartowi01,Memphis,11,679,17116,26.5,.074,-0.4,6.9
+2012,41,POR,Tyshawn Taylor,tayloty01,Kansas,2,61,491,-0.9,-.088,-8.1,-0.8
+2012,42,MIL,Doron Lamb,lambdo01,Kentucky,2,100,1272,0.1,.005,-5.8,-1.2
+2012,43,ATL,Mike Scott,scottmi01,Virginia,9,555,9182,16.8,.088,-1.7,0.6
+2012,44,DET,Kim English,engliki01,Missouri,1,41,407,0.2,.021,-4.2,-0.2
+2012,45,PHI,Justin Hamilton,hamilju01,LSU,3,113,1961,3.7,.091,-0.9,0.5
+2012,46,NOH,Darius Miller,milleda01,Kentucky,6,271,5358,6.5,.059,-2.3,-0.4
+2012,47,UTA,Kevin Murphy,murphke01,Tennessee Technological University,1,17,52,-0.3,-.272,-16.8,-0.2
+2012,48,NYK,Kostas Papanikolaou,papanko01,,2,69,1089,0.3,.015,-2.7,-0.2
+2012,49,ORL,Kyle O'Quinn,oquinky01,Norfolk State,8,472,6714,17.8,.128,0.9,5.0
+2012,50,DEN,İzzet Türkyılmaz,turkyiz01,,,,,,,,
+2012,51,BOS,Kris Joseph,josepkr01,Syracuse,1,10,54,-0.1,-.127,-9.9,-0.1
+2012,52,GSW,Ognjen Kuzmić,kuzmiog01,,2,37,164,0.2,.061,-5.6,-0.2
+2012,53,LAC,Furkan Aldemir,aldemfu01,,1,41,540,1.4,.122,-3.6,-0.2
+2012,54,PHI,Tornike Shengelia,shengto01,,2,45,247,-0.2,-.032,-7.0,-0.3
+2012,55,DAL,Darius Johnson-Odom,johnsda03,Marquette,2,7,21,-0.3,-.597,-25.5,-0.1
+2012,56,TOR,Tomislav Zubčić,zubcito01,,,,,,,,
+2012,57,NJN,İlkan Karaman,karamil01,,,,,,,,
+2012,58,MIN,Robbie Hummel,hummero01,Purdue,2,98,1397,1.9,.066,-3.1,-0.4
+2012,59,SAS,Marcus Denmon,denmoma01,Missouri,,,,,,,
+2012,60,LAL,Robert Sacre,sacrero01,Gonzaga,4,189,2745,2.4,.042,-4.0,-1.4
+2013,1,CLE,Anthony Bennett,bennean01,UNLV,4,151,1905,0.5,.013,-4.8,-1.3
+2013,2,ORL,Victor Oladipo,oladivi01,Indiana,10,504,16247,25.6,.076,0.7,11.0
+2013,3,WAS,Otto Porter Jr.,porteot01,Georgetown,11,527,13400,36.7,.132,1.7,12.5
+2013,4,CHA,Cody Zeller,zelleco01,Indiana,11,552,11510,33.5,.140,-0.7,3.9
+2013,5,PHO,Alex Len,lenal01,Maryland,12,690,11754,23.9,.097,-1.9,0.3
+2013,6,NOH,Nerlens Noel,noelne01,Kentucky,9,467,10281,28.3,.132,0.9,7.4
+2013,7,SAC,Ben McLemore,mclembe01,Kansas,9,556,12534,9.0,.035,-3.1,-3.4
+2013,8,DET,Kentavious Caldwell-Pope,caldwke01,Georgia,13,963,28124,49.2,.084,-1.0,7.2
+2013,9,MIN,Trey Burke,burketr01,Michigan,9,498,10401,12.9,.060,-1.3,1.7
+2013,10,POR,CJ McCollum,mccolcj01,Lehigh,13,863,27528,54.9,.096,1.1,21.5
+2013,11,PHI,Michael Carter-Williams,cartemi01,Syracuse,9,395,9942,6.6,.032,-1.2,1.8
+2013,12,OKC,Steven Adams,adamsst01,Pitt,12,796,20468,63.7,.149,0.5,12.9
+2013,13,DAL,Kelly Olynyk,olynyke01,Gonzaga,13,842,18360,47.1,.123,0.8,13.1
+2013,14,UTA,Shabazz Muhammad,muhamsh01,UCLA,5,278,4772,8.5,.085,-2.0,0.0
+2013,15,MIL,Giannis Antetokounmpo,antetgi01,,13,895,29273,125.8,.206,6.8,65.5
+2013,16,BOS,Lucas Nogueira,noguelu01,,4,141,1754,6.0,.165,2.3,1.9
+2013,17,ATL,Dennis Schröder,schrode01,,13,912,24721,34.2,.066,-1.5,2.9
+2013,18,ATL,Shane Larkin,larkish01,Miami (FL),4,256,4880,4.4,.044,-2.4,-0.6
+2013,19,CLE,Sergey Karasev,karasse01,,3,95,1110,0.8,.036,-3.4,-0.4
+2013,20,CHI,Tony Snell,snellto01,New Mexico,9,601,13092,18.5,.068,-2.0,-0.1
+2013,21,UTA,Gorgui Dieng,dienggo01,Louisville,10,628,12625,30.7,.117,0.2,7.1
+2013,22,BRK,Mason Plumlee,plumlma01,Duke,13,880,18969,58.4,.148,1.2,15.2
+2013,23,IND,Solomon Hill,hillso01,Arizona,9,448,9652,11.9,.059,-2.1,-0.3
+2013,24,NYK,Tim Hardaway Jr.,hardati02,Michigan,13,893,24389,38.2,.075,-1.2,5.2
+2013,25,LAC,Reggie Bullock,bullore01,UNC,11,556,12556,21.4,.082,-1.2,2.6
+2013,26,MIN,Andre Roberson,roberan03,Colorado,7,307,6801,12.6,.089,-0.6,2.3
+2013,27,DEN,Rudy Gobert,goberru01,,13,905,27811,124.9,.216,3.1,35.8
+2013,28,SAS,Livio Jean-Charles,jeancli01,,,,,,,,
+2013,29,OKC,Archie Goodwin,goodwar01,Kentucky,4,165,2396,1.1,.022,-3.0,-0.6
+2013,30,PHO,Nemanja Nedović,nedovne01,,1,24,142,-0.4,-.132,-10.0,-0.3
+2013,31,CLE,Allen Crabbe,crabbal01,California,7,381,9125,13.7,.072,-1.6,0.9
+2013,32,OKC,Álex Abrines,abrinal01,,3,174,2777,5.0,.086,-1.9,0.1
+2013,33,CLE,Carrick Felix,felixca01,Arizona State,1,7,38,0.0,.057,-3.4,0.0
+2013,34,HOU,Isaiah Canaan,canaais01,Murray State,6,235,4799,4.3,.043,-2.4,-0.5
+2013,35,PHI,Glen Rice Jr.,ricegl02,Georgia Tech,2,16,152,-0.2,-.065,-6.6,-0.2
+2013,36,SAC,Ray McCallum,mccalra01,Detroit Mercy,3,154,2808,2.1,.035,-2.6,-0.4
+2013,37,DET,Tony Mitchell,mitchto02,University of North Texas,1,21,79,0.2,.151,0.4,0.0
+2013,38,WAS,Nate Wolters,woltena01,South Dakota State,3,84,1575,0.9,.028,-2.6,-0.2
+2013,39,POR,Jeff Withey,witheje01,Kansas,5,207,2072,6.8,.157,0.5,1.3
+2013,40,POR,Grant Jerrett,jerregr01,Arizona,1,8,51,-0.1,-.128,-10.8,-0.1
+2013,41,MEM,Jamaal Franklin,frankja01,San Diego State,2,24,174,0.0,-.006,-5.9,-0.2
+2013,42,PHI,Pierre Jackson,jackspi01,Baylor,1,8,84,0.0,.021,-4.4,-0.1
+2013,43,MIL,Ricky Ledo,ledori01,Providence,2,28,277,-0.6,-.096,-7.6,-0.4
+2013,44,DAL,Mike Muscala,muscami01,Bucknell,11,548,8239,19.2,.112,-0.2,3.7
+2013,45,POR,Marko Todorović,todorma01,,,,,,,,
+2013,46,UTA,Erick Green,greener01,Virginia Tech,2,52,452,0.1,.011,-4.0,-0.2
+2013,47,ATL,Raul Neto,netora01,,8,435,6765,11.6,.082,-1.5,0.8
+2013,48,LAL,Ryan Kelly,kellyry01,Duke,4,163,3125,3.0,.046,-2.6,-0.5
+2013,49,CHI,Erik Murphy,murpher01,Florida,1,24,62,-0.1,-.055,-8.6,-0.1
+2013,50,ATL,James Ennis III,ennisja01,Cal State Long Beach,8,395,8022,16.2,.097,-1.5,0.9
+2013,51,ORL,Romero Osby,osbyro01,Oklahoma,,,,,,,
+2013,52,MIN,Lorenzo Brown,brownlo01,NC State,5,103,1185,-0.2,-.007,-3.5,-0.5
+2013,53,IND,Colton Iverson,iversco01,Colorado State,,,,,,,
+2013,54,WAS,Arsalan Kazemi,kazemar01,Oregon,,,,,,,
+2013,55,MEM,Joffrey Lauvergne,lauvejo01,,4,208,2823,5.2,.089,-2.1,-0.1
+2013,56,DET,Peyton Siva,sivape01,Louisville,1,24,224,-0.2,-.032,-6.4,-0.2
+2013,57,PHO,Alex Oriakhi,oriakal01,Missouri,,,,,,,
+2013,58,SAS,Deshaun Thomas,thomade01,Ohio State,,,,,,,
+2013,59,MIN,Bojan Dubljević,dubljbo01,,,,,,,,
+2013,60,MEM,Jānis Timma,timmaja01,,,,,,,,
+2014,1,CLE,Andrew Wiggins,wiggian01,Kansas,12,834,27951,37.6,.065,-1.2,5.8
+2014,2,MIL,Jabari Parker,parkeja01,Duke,8,310,8535,13.8,.078,-0.8,2.5
+2014,3,PHI,Joel Embiid,embiijo01,Kansas,10,490,15608,69.0,.212,6.7,34.3
+2014,4,ORL,Aaron Gordon,gordoaa01,Arizona,12,756,22081,50.1,.109,0.4,13.4
+2014,5,UTA,Danté Exum,exumda01,,8,320,6005,6.6,.053,-2.8,-1.2
+2014,6,BOS,Marcus Smart,smartma01,Oklahoma State,12,697,20495,36.2,.085,-0.5,7.6
+2014,7,LAL,Julius Randle,randlju01,Kentucky,12,789,25348,56.9,.108,1.0,19.4
+2014,8,SAC,Nik Stauskas,stausni01,Michigan,6,343,6701,3.9,.028,-3.0,-1.7
+2014,9,CHO,Noah Vonleh,vonleno01,Indiana,8,362,5854,9.4,.077,-2.5,-0.7
+2014,10,PHI,Elfrid Payton,paytoel01,Louisiana,9,524,13894,15.1,.052,-1.1,3.1
+2014,11,DEN,Doug McDermott,mcderdo01,Creighton,12,726,14011,21.7,.074,-2.2,-0.7
+2014,12,ORL,Dario Šarić,saricda01,,9,498,11120,20.8,.090,-0.8,3.4
+2014,13,MIN,Zach LaVine,lavinza01,UCLA,12,693,22685,38.6,.082,0.6,14.6
+2014,14,PHO,T.J. Warren,warretj01,NC State,9,385,10365,20.9,.097,-0.4,4.1
+2014,15,ATL,Adreian Payne,paynead01,Michigan State,4,107,1403,-0.6,-.019,-5.9,-1.4
+2014,16,CHI,Jusuf Nurkić,nurkiju01,,12,631,15430,34.7,.108,0.4,9.5
+2014,17,BOS,James Young,youngja01,Kentucky,4,95,812,0.8,.046,-3.4,-0.3
+2014,18,PHO,Tyler Ennis,ennisty01,Syracuse,4,186,2336,1.3,.026,-3.4,-0.8
+2014,19,CHI,Gary Harris,harriga01,Michigan State,12,666,17326,27.5,.076,-1.4,2.6
+2014,20,TOR,Bruno Caboclo,cabocbr01,,7,105,1293,1.5,.054,-2.7,-0.2
+2014,21,OKC,Mitch McGary,mcgarmi01,Michigan,2,52,557,1.3,.108,-2.6,-0.1
+2014,22,MEM,Jordan Adams,adamsjo01,UCLA,2,32,263,0.4,.070,1.7,0.2
+2014,23,UTA,Rodney Hood,hoodro01,Duke,8,448,10977,17.4,.076,-1.2,2.2
+2014,24,CHO,Shabazz Napier,napiesh01,UConn,6,345,5986,8.1,.065,-0.7,2.0
+2014,25,HOU,Clint Capela,capelca01,,12,739,18329,72.6,.190,1.6,16.5
+2014,26,MIA,P.J. Hairston,hairspj02,UNC,2,111,2000,0.9,.021,-3.9,-1.0
+2014,27,PHO,Bogdan Bogdanović,bogdabo01,,9,526,14750,25.0,.081,0.1,7.7
+2014,28,LAC,C.J. Wilcox,wilcocj01,Washington,3,66,376,0.1,.007,-4.3,-0.2
+2014,29,OKC,Josh Huestis,huestjo01,Stanford,3,76,1068,0.7,.030,-3.5,-0.4
+2014,30,SAS,Kyle Anderson,anderky01,UCLA,12,757,16177,41.3,.122,1.7,15.1
+2014,31,MIL,Damien Inglis,inglida01,,1,20,156,-0.1,-.024,-5.6,-0.1
+2014,32,PHI,K.J. McDaniels,mcdankj01,Clemson,3,148,2092,1.3,.030,-2.8,-0.4
+2014,33,CLE,Joe Harris,harrijo01,Virginia,10,504,12298,23.1,.090,-0.7,4.1
+2014,34,NYK,Cleanthony Early,earlycl01,Wichita State,2,56,801,-0.6,-.039,-5.9,-0.8
+2014,35,UTA,Jarnell Stokes,stokeja01,Tennessee,3,28,151,0.6,.202,0.1,0.1
+2014,36,MIL,Johnny O'Bryant,obryajo01,LSU,4,147,1684,0.2,.006,-6.2,-1.8
+2014,37,TOR,DeAndre Daniels,daniede01,UConn,,,,,,,
+2014,38,DET,Spencer Dinwiddie,dinwisp01,Colorado,11,621,17219,36.0,.100,-0.1,8.1
+2014,39,PHI,Jerami Grant,grantje01,Syracuse,12,776,21749,40.7,.090,-0.4,8.7
+2014,40,MIN,Glenn Robinson III,robingl02,Michigan,7,304,5299,7.9,.071,-1.7,0.4
+2014,41,DEN,Nikola Jokić,jokicni01,,11,810,25914,142.9,.265,10.6,82.5
+2014,42,HOU,Nick Johnson,johnsni01,Arizona,1,28,262,-0.1,-.020,-6.5,-0.3
+2014,43,ATL,Edy Tavares,tavarwa01,,2,13,101,0.2,.118,-0.4,0.0
+2014,44,MIN,Markel Brown,brownma02,Oklahoma State,3,113,1794,1.1,.029,-2.9,-0.4
+2014,45,CHO,Dwight Powell,poweldw01,Stanford,12,768,13469,50.5,.180,0.7,9.1
+2014,46,WAS,Jordan Clarkson,clarkjo01,Missouri,12,825,22102,25.9,.056,-1.1,5.1
+2014,47,PHI,Russ Smith,smithru01,Louisville,2,27,131,-0.2,-.068,-5.1,-0.1
+2014,48,MIL,Lamar Patterson,pattela01,Pitt,2,40,435,0.1,.006,-5.7,-0.4
+2014,49,CHI,Cameron Bairstow,bairsca01,New Mexico,2,36,167,-0.1,-.021,-8.1,-0.3
+2014,50,PHO,Alec Brown,brownal01,Green Bay,,,,,,,
+2014,51,NYK,Thanasis Antetokounmpo,antetth01,,7,232,1668,2.1,.061,-4.1,-0.9
+2014,52,PHI,Vasilije Micić,micicva01,,2,101,1961,-0.6,-.015,-5.6,-1.8
+2014,53,MIN,Alessandro Gentile,gential01,,,,,,,,
+2014,54,PHI,Nemanja Dangubić,dangune01,,,,,,,,
+2014,55,MIA,Semaj Christon,chrisse01,Xavier,1,64,973,0.1,.006,-5.1,-0.8
+2014,56,DEN,Devyn Marble,marblde01,Iowa,2,44,457,-0.3,-.028,-5.5,-0.4
+2014,57,IND,Louis Labeyrie,labeylo01,,,,,,,,
+2014,58,SAS,Jordan McRae,mcraejo01,Tennessee,4,123,1696,1.7,.048,-2.1,0.0
+2014,59,TOR,Xavier Thames,thamexa01,San Diego State,,,,,,,
+2014,60,SAS,Cory Jefferson,jeffeco01,Baylor,2,58,581,0.9,.071,-3.3,-0.2
+2015,1,MIN,Karl-Anthony Towns,townska01,Kentucky,11,720,24294,94.6,.187,4.3,38.5
+2015,2,LAL,D'Angelo Russell,russeda01,Ohio State,11,655,19240,26.5,.066,0.6,12.4
+2015,3,PHI,Jahlil Okafor,okafoja01,Duke,7,248,4830,7.2,.071,-2.0,0.0
+2015,4,NYK,Kristaps Porziņģis,porzikr01,,10,533,16175,50.4,.150,2.6,18.9
+2015,5,ORL,Mario Hezonja,hezonma01,,5,330,6107,3.2,.025,-2.8,-1.2
+2015,6,SAC,Willie Cauley-Stein,caulewi01,Kentucky,7,422,9276,23.3,.121,-0.1,4.4
+2015,7,DEN,Emmanuel Mudiay,mudiaem01,,6,302,7187,-0.2,-.001,-3.2,-2.2
+2015,8,DET,Stanley Johnson,johnsst04,Arizona,8,449,8879,6.9,.037,-2.7,-1.6
+2015,9,CHO,Frank Kaminsky,kaminfr01,Wisconsin,8,413,8160,15.9,.094,-0.2,3.7
+2015,10,MIA,Justise Winslow,winslju01,Duke,8,344,8906,8.2,.044,-2.1,-0.3
+2015,11,IND,Myles Turner,turnemy01,Texas,11,713,20366,51.7,.122,0.6,13.5
+2015,12,UTA,Trey Lyles,lylestr01,Kentucky,10,650,11970,22.0,.088,-1.0,3.0
+2015,13,PHO,Devin Booker,bookede01,Kentucky,11,737,25295,58.0,.110,1.2,20.2
+2015,14,OKC,Cameron Payne,payneca01,Murray State,11,499,8730,14.8,.081,-0.6,3.2
+2015,15,ATL,Kelly Oubre Jr.,oubreke01,Kansas,11,705,19316,27.6,.068,-1.8,0.8
+2015,16,BOS,Terry Rozier,roziete01,Louisville,10,665,18357,30.6,.080,0.2,10.1
+2015,17,MIL,Rashad Vaughn,vaughra01,UNLV,3,139,1671,-0.6,-.017,-4.7,-1.2
+2015,18,HOU,Sam Dekker,dekkesa01,Wisconsin,5,201,3097,5.4,.083,-1.4,0.5
+2015,19,WAS,Jerian Grant,grantje02,Notre Dame,5,279,4998,8.3,.080,-1.6,0.5
+2015,20,TOR,Delon Wright,wrighde01,Utah,10,548,11175,28.9,.124,1.9,11.1
+2015,21,DAL,Justin Anderson,anderju01,Virginia,6,242,3280,4.9,.072,-1.5,0.4
+2015,22,CHI,Bobby Portis,portibo01,Arkansas,11,721,16526,36.6,.106,-0.4,6.8
+2015,23,POR,Rondae Hollis-Jefferson,holliro01,Arizona,6,305,6759,12.9,.091,-0.7,2.3
+2015,24,CLE,Tyus Jones,jonesty01,Duke,11,749,15403,34.9,.109,0.4,9.2
+2015,25,MEM,Jarell Martin,martija01,LSU,4,184,2927,3.2,.053,-4.3,-1.7
+2015,26,SAS,Nikola Milutinov,milutni01,,,,,,,,
+2015,27,LAL,Larry Nance Jr.,nancela02,Wyoming,11,581,13036,35.2,.130,1.1,10.1
+2015,28,BOS,R.J. Hunter,hunterj01,Georgia State University,4,45,395,0.4,.051,-2.0,0.0
+2015,29,BRK,Chris McCullough,mcculch01,Syracuse,3,59,532,0.6,.054,-2.5,-0.1
+2015,30,GSW,Kevon Looney,looneke01,UCLA,11,620,10617,38.1,.172,0.3,6.2
+2015,31,MIN,Cedi Osman,osmande01,,7,476,10815,12.5,.055,-2.1,-0.3
+2015,32,HOU,Montrezl Harrell,harremo01,Louisville,8,515,10544,42.9,.195,2.6,12.2
+2015,33,BOS,Jordan Mickey,mickejo01,LSU,3,64,482,0.5,.050,-4.8,-0.3
+2015,34,LAL,Anthony Brown,brownan02,Stanford,3,41,762,-0.2,-.016,-5.1,-0.6
+2015,35,PHI,Willy Hernangómez,hernawi01,,7,344,5149,16.3,.152,0.1,2.8
+2015,36,MIN,Rakeem Christmas,chrisra01,Syracuse,2,30,225,0.5,.105,-4.7,-0.2
+2015,37,PHI,Richaun Holmes,holmeri01,Bowling Green,10,489,9360,30.7,.158,0.1,5.0
+2015,38,DET,Darrun Hilliard,hillida01,Villanova,3,91,859,0.3,.016,-4.7,-0.6
+2015,39,CHO,Juan Pablo Vaulet,vauleju01,,,,,,,,
+2015,40,MIA,Josh Richardson,richajo01,Tennessee,10,554,15815,27.7,.084,-0.6,5.5
+2015,41,BRK,Pat Connaughton,connapa01,Notre Dame,11,637,11736,25.3,.103,-0.5,4.5
+2015,42,UTA,Olivier Hanlan,hanlaol01,Boston College,,,,,,,
+2015,43,IND,Joe Young,youngjo01,Oregon,3,127,1077,0.4,.016,-4.1,-0.6
+2015,44,PHO,Andrew Harrison,harrian01,Kentucky,3,145,2987,3.2,.051,-2.8,-0.6
+2015,45,BOS,Marcus Thornton,thornma02,William & Mary,,,,,,,
+2015,46,MIL,Norman Powell,powelno01,UCLA,11,675,16655,36.4,.105,0.2,9.2
+2015,47,PHI,Artūras Gudaitis,gudaiar01,,,,,,,,
+2015,48,OKC,Dakari Johnson,johnsda04,Kentucky,1,31,161,0.6,.178,-0.3,0.1
+2015,49,WAS,Aaron White,whiteaa01,Iowa,,,,,,,
+2015,50,ATL,Marcus Eriksson,eriksma01,,,,,,,,
+2015,51,ORL,Tyler Harvey,harvety01,Eastern Washington,,,,,,,
+2015,52,DAL,Satnam Singh,singhsa01,,,,,,,,
+2015,53,CLE,Sir'Dominic Pointer,pointsi01,St. John's,,,,,,,
+2015,54,UTA,Dani Díez,diezda01,,,,,,,,
+2015,55,SAS,Cady Lalanne,lalanca01,UMass,,,,,,,
+2015,56,NOP,Branden Dawson,dawsobr01,Michigan State,1,6,29,0.0,.069,-5.7,0.0
+2015,57,DEN,Nikola Radičević,radicni01,,,,,,,,
+2015,58,PHI,J.P. Tokoto,tokotjp01,UNC,,,,,,,
+2015,59,ATL,Dimitrios Agravanis,agravdi01,,,,,,,,
+2015,60,PHI,Luka Mitrović,mitrolu01,,,,,,,,
+2016,1,PHI,Ben Simmons,simmobe01,LSU,7,383,11910,35.4,.143,3.0,15.0
+2016,2,LAL,Brandon Ingram,ingrabr01,Duke,10,572,18920,31.8,.081,0.2,10.3
+2016,3,BOS,Jaylen Brown,brownja02,California,10,674,20908,47.5,.109,0.7,14.1
+2016,4,PHO,Dragan Bender,bendedr01,,4,187,3755,0.5,.006,-3.9,-1.9
+2016,5,MIN,Kris Dunn,dunnkr01,Providence,10,489,11727,15.7,.064,-1.0,2.8
+2016,6,NOP,Buddy Hield,hieldbu01,Oklahoma,10,765,20999,28.7,.066,0.2,11.7
+2016,7,DEN,Jamal Murray,murraja01,Kentucky,9,611,19448,47.6,.117,1.4,16.5
+2016,8,SAC,Marquese Chriss,chrisma01,Washington,6,292,5338,6.5,.058,-2.4,-0.5
+2016,9,TOR,Jakob Poeltl,poeltja01,Utah,10,641,14469,48.5,.161,1.3,11.9
+2016,10,MIL,Thon Maker,makerth01,,5,263,3624,6.6,.087,-2.1,-0.1
+2016,11,ORL,Domantas Sabonis,sabondo01,Gonzaga,10,665,20463,71.0,.166,3.3,27.6
+2016,12,UTA,Taurean Prince,princta02,Baylor,10,608,15013,15.5,.050,-2.1,-0.3
+2016,13,PHO,Georgios Papagiannis,papagge01,,2,39,477,0.4,.044,-3.9,-0.2
+2016,14,CHI,Denzel Valentine,valende01,Michigan State,5,256,4817,4.5,.044,-1.9,0.2
+2016,15,DEN,Juancho Hernangómez,hernaju01,,7,339,5269,8.7,.080,-1.9,0.1
+2016,16,BOS,Guerschon Yabusele,yabusgu01,,4,211,3388,6.4,.091,-1.5,0.4
+2016,17,MEM,Wade Baldwin,baldwwa01,Vanderbilt,3,56,579,-0.3,-.028,-5.3,-0.5
+2016,18,DET,Henry Ellenson,ellenhe01,Marquette,5,83,787,0.4,.023,-3.7,-0.3
+2016,19,DEN,Malik Beasley,beaslma01,Florida State,9,578,13739,20.1,.070,-0.9,3.7
+2016,20,IND,Caris LeVert,leverca01,Michigan,10,584,15705,25.4,.078,-0.2,7.0
+2016,21,ATL,DeAndre' Bembry,bembrde01,Saint Joseph's,6,296,5670,4.4,.038,-2.3,-0.4
+2016,22,CHO,Malachi Richardson,richama01,Syracuse,3,70,625,-0.1,-.009,-6.1,-0.7
+2016,23,BOS,Ante Žižić,zizican01,,3,113,1517,3.5,.110,-2.6,-0.2
+2016,24,PHI,Timothé Luwawu-Cabarrot,luwawti01,,6,328,5254,4.7,.043,-4.0,-2.7
+2016,25,LAC,Brice Johnson,johnsbr02,UNC,2,21,107,0.1,.062,-0.6,0.0
+2016,26,PHI,Furkan Korkmaz,korkmfu01,,7,328,5447,7.6,.067,-2.0,0.1
+2016,27,TOR,Pascal Siakam,siakapa01,New Mexico State,10,691,21694,58.1,.129,1.8,21.0
+2016,28,PHO,Skal Labissière,labissk01,Kentucky,6,155,2645,4.5,.082,-2.2,-0.2
+2016,29,SAS,Dejounte Murray,murrade01,Washington,9,517,15134,26.8,.085,1.4,12.9
+2016,30,GSW,Damian Jones,jonesda03,Vanderbilt,8,279,3782,11.3,.143,-1.0,1.0
+2016,31,BOS,Deyonta Davis,davisde01,Michigan State,3,107,1299,3.6,.131,-2.1,0.0
+2016,32,LAL,Ivica Zubac,zubaciv01,,10,632,14880,55.5,.179,0.8,10.4
+2016,33,LAC,Cheick Diallo,diallch01,Kansas,5,183,2186,6.3,.139,-1.4,0.3
+2016,34,PHO,Tyler Ulis,ulisty01,Kentucky,3,133,2782,0.5,.008,-3.6,-1.1
+2016,35,BOS,Rade Zagorac,zagorra01,,,,,,,,
+2016,36,MIL,Malcolm Brogdon,brogdma01,Virginia,9,463,13481,33.4,.119,1.3,11.2
+2016,37,HOU,Chinanu Onuaku,onuakch01,Louisville,2,6,74,0.1,.043,-5.4,-0.1
+2016,38,MIL,Patrick McCaw,mccawpa01,UNLV,5,199,3373,4.4,.062,-2.8,-0.6
+2016,39,NOP,David Michineau,michida01,,,,,,,,
+2016,40,NOP,Diamond Stone,stonedi01,Maryland,1,7,24,-0.1,-.211,-20.8,-0.1
+2016,41,ORL,Stephen Zimmerman,zimmest01,UNLV,1,19,108,0.0,-.005,-8.3,-0.2
+2016,42,UTA,Isaiah Whitehead,whiteis01,Seton Hall,2,89,1823,-0.9,-.025,-5.0,-1.4
+2016,43,HOU,Zhou Qi,qizh01,,2,19,125,-0.2,-.093,-9.6,-0.2
+2016,44,ATL,Isaïa Cordinier,cordiis01,,,,,,,,
+2016,45,BOS,Demetrius Jackson,jacksde01,Notre Dame,3,26,136,0.2,.087,-0.5,0.1
+2016,46,DAL,A.J. Hammons,hammoaj01,Purdue,1,22,163,0.0,-.001,-6.6,-0.2
+2016,47,ORL,Jake Layman,laymaja01,Maryland,6,243,3099,3.8,.059,-2.3,-0.2
+2016,48,CHI,Paul Zipser,zipsepa01,,2,98,1667,0.0,-.001,-5.2,-1.4
+2016,49,DET,Michael Gbinije,gbinimi01,Syracuse,1,9,32,-0.1,-.136,-12.1,-0.1
+2016,50,IND,Georges Niang,niangge01,Iowa State,9,544,9494,15.9,.080,-1.7,0.7
+2016,51,BOS,Ben Bentil,bentibe01,Providence,1,3,10,-0.1,-.473,-25.9,-0.1
+2016,52,UTA,Joel Bolomboy,bolomjo01,Weber State,2,18,91,0.3,.132,-0.1,0.0
+2016,53,DEN,Petr Cornelie,cornepe01,,1,13,38,0.0,-.015,-8.8,-0.1
+2016,54,ATL,Kay Felder,feldeka01,Oakland,2,58,526,-0.4,-.041,-4.7,-0.4
+2016,55,BRK,Marcus Paige,paigema01,UNC,1,5,28,0.0,-.006,-8.8,0.0
+2016,56,DEN,Daniel Hamilton,hamilda02,UConn,2,25,232,0.0,.000,-3.3,-0.1
+2016,57,MEM,Wang Zhelin,sheliwa01,,,,,,,,
+2016,58,BOS,Abdel Nader,naderab01,Iowa State,5,202,2583,2.8,.052,-2.6,-0.4
+2016,59,SAC,Isaiah Cousins,cousiis01,Oklahoma,,,,,,,
+2016,60,UTA,Tyrone Wallace,wallaty01,California,4,112,1714,0.1,.003,-5.2,-1.4
+2017,1,PHI,Markelle Fultz,fultzma01,Washington,9,260,6159,8.3,.065,-1.3,1.1
+2017,2,LAL,Lonzo Ball,balllo01,UCLA,7,322,9692,13.3,.066,0.8,6.9
+2017,3,BOS,Jayson Tatum,tatumja01,Duke,9,601,20707,67.2,.156,3.8,30.3
+2017,4,PHO,Josh Jackson,jacksjo02,Kansas,5,291,6718,-1.7,-.012,-3.8,-3.1
+2017,5,SAC,De'Aaron Fox,foxde01,Kentucky,9,603,19892,40.3,.097,1.0,15.1
+2017,6,ORL,Jonathan Isaac,isaacjo01,Florida State,7,328,6161,14.9,.116,0.7,4.3
+2017,7,MIN,Lauri Markkanen,markkla01,Arizona,9,492,15401,36.7,.114,1.2,12.2
+2017,8,NYK,Frank Ntilikina,ntilila01,,7,321,5454,0.3,.003,-4.4,-3.4
+2017,9,DAL,Dennis Smith Jr.,smithde03,NC State,7,326,7601,2.3,.015,-2.1,-0.2
+2017,10,SAC,Zach Collins,colliza01,Gonzaga,8,388,7321,12.4,.081,-1.4,1.0
+2017,11,CHO,Malik Monk,monkma01,Kentucky,9,585,13307,16.1,.058,-1.0,3.1
+2017,12,DET,Luke Kennard,kennalu01,Duke,9,538,12440,28.1,.108,0.0,6.3
+2017,13,DEN,Donovan Mitchell,mitchdo01,Louisville,9,609,20585,60.2,.140,3.6,29.4
+2017,14,MIA,Bam Adebayo,adebaba01,Kentucky,9,640,19719,64.0,.156,2.5,22.2
+2017,15,POR,Justin Jackson,jacksju01,UNC,7,280,4886,5.3,.052,-2.8,-1.0
+2017,16,CHI,Justin Patton,pattoju01,Creighton,4,22,296,0.4,.066,-2.8,-0.1
+2017,17,MIL,D.J. Wilson,wilsodj01,Michigan,6,148,1818,2.9,.077,-2.4,-0.2
+2017,18,IND,T.J. Leaf,leaftj01,UCLA,4,146,1238,2.7,.104,-1.8,0.1
+2017,19,ATL,John Collins,collijo01,Wake Forest,9,541,15611,43.8,.135,0.5,10.0
+2017,20,POR,Harry Giles,gilesha01,Duke,4,165,1935,3.1,.076,-2.5,-0.2
+2017,21,OKC,Terrance Ferguson,fergute01,,4,204,4000,4.4,.053,-4.0,-2.1
+2017,22,BRK,Jarrett Allen,allenja01,Texas,9,624,17540,73.1,.200,2.4,19.4
+2017,23,TOR,OG Anunoby,anunoog01,Indiana,9,559,17078,37.6,.106,0.4,10.5
+2017,24,UTA,Tyler Lydon,lydonty01,Syracuse,2,26,96,0.2,.084,-4.3,-0.1
+2017,25,ORL,Anžejs Pasečņiks,pasecan01,,2,28,443,0.4,.038,-6.2,-0.5
+2017,26,POR,Caleb Swanigan,swanica01,Purdue,3,75,655,-0.2,-.015,-6.2,-0.7
+2017,27,BRK,Kyle Kuzma,kuzmaky01,Utah,9,610,18661,16.3,.042,-1.6,1.8
+2017,28,LAL,Tony Bradley,bradlto01,UNC,8,234,2557,8.9,.167,-0.5,1.0
+2017,29,SAS,Derrick White,whitede01,Colorado,9,571,16706,46.7,.134,2.4,18.4
+2017,30,UTA,Josh Hart,hartjo01,Villanova,9,596,18123,42.8,.113,0.8,12.6
+2017,31,CHO,Frank Jackson,jacksfr01,Duke,5,214,3873,2.5,.031,-3.9,-1.9
+2017,32,PHO,Davon Reed,reedda01,Miami (FL),4,122,1299,1.5,.054,-2.9,-0.3
+2017,33,ORL,Wes Iwundu,iwundwe01,Kansas State,5,226,3827,4.2,.053,-3.9,-1.8
+2017,34,SAC,Frank Mason III,masonfr01,Kansas,4,103,1616,1.2,.035,-2.7,-0.3
+2017,35,ORL,Ivan Rabb,rabbiv01,California,2,85,1237,3.2,.125,-1.7,0.1
+2017,36,PHI,Jonah Bolden,boldejo01,,2,51,686,1.4,.098,-1.3,0.1
+2017,37,BOS,Semi Ojeleye,ojelese01,SMU,5,284,4111,5.2,.061,-3.4,-1.5
+2017,38,CHI,Jordan Bell,belljo01,Oregon,5,161,1937,4.9,.121,0.2,1.1
+2017,39,PHI,Jawun Evans,evansja01,Oklahoma State,2,56,843,-0.4,-.022,-5.4,-0.7
+2017,40,NOP,Dwayne Bacon,bacondw01,Florida State,4,207,4012,0.8,.010,-5.1,-3.1
+2017,41,ATL,Tyler Dorsey,dorsety01,Oregon,3,107,1680,1.1,.031,-3.0,-0.5
+2017,42,UTA,Thomas Bryant,bryanth01,Indiana,9,393,6642,22.7,.164,0.9,4.9
+2017,43,HOU,Isaiah Hartenstein,harteis01,,8,426,8511,33.3,.188,2.4,9.4
+2017,44,NYK,Damyean Dotson,dotsoda01,Oregon,5,213,4242,3.0,.034,-2.8,-0.9
+2017,45,HOU,Dillon Brooks,brookdi01,Oregon,9,548,16205,16.8,.050,-3.3,-5.2
+2017,46,PHI,Sterling Brown,brownst02,SMU,6,268,4458,6.6,.071,-2.1,-0.1
+2017,47,IND,Ike Anigbogu,anigbik01,UCLA,2,14,36,0.0,.057,-1.1,0.0
+2017,48,MIL,Sindarius Thornwell,thornsi01,South Carolina,4,160,1721,1.1,.032,-3.1,-0.5
+2017,49,DEN,Vlatko Čančar,cancavl01,,5,143,1527,2.4,.076,-2.5,-0.2
+2017,50,PHI,Mathias Lessort,lessoma01,,,,,,,,
+2017,51,DEN,Monte Morris,morrimo01,Iowa State,9,426,9873,24.7,.120,0.2,5.6
+2017,52,NOP,Edmond Sumner,sumneed01,Xavier,5,161,2256,3.2,.069,-3.0,-0.6
+2017,53,BOS,Kadeem Allen,allenka01,Arizona,3,47,640,1.0,.075,-1.2,0.1
+2017,54,PHO,Alec Peters,peteral01,Valparaiso,1,20,225,0.3,.055,-2.8,0.0
+2017,55,UTA,Nigel Williams-Goss,willini01,Gonzaga,1,10,50,0.0,.017,-3.9,0.0
+2017,56,BOS,Jabari Bird,birdja01,California,1,13,115,0.2,.098,-3.1,0.0
+2017,57,BRK,Sasha Vezenkov,vezenal01,,1,42,511,1.0,.098,-0.9,0.1
+2017,58,NYK,Ognjen Jaramaz,jaramog01,,,,,,,,
+2017,59,SAS,Jaron Blossomgame,blossja01,Clemson,1,27,439,0.3,.030,-3.8,-0.2
+2017,60,ATL,Alpha Kaba,kabaal01,,,,,,,,
+2018,1,PHO,Deandre Ayton,aytonde01,Arizona,8,470,14230,43.8,.148,0.6,9.2
+2018,2,SAC,Marvin Bagley III,baglema01,Duke,8,349,7675,16.3,.102,-1.2,1.5
+2018,3,ATL,Luka Dončić,doncilu01,,8,514,18001,66.6,.178,7.8,44.8
+2018,4,MEM,Jaren Jackson Jr.,jacksja02,Michigan State,8,455,13093,30.2,.111,0.8,9.2
+2018,5,DAL,Trae Young,youngtr01,Oklahoma,8,498,17006,44.7,.126,2.6,19.7
+2018,6,ORL,Mo Bamba,bambamo01,Texas,8,368,6159,15.7,.122,-0.1,3.0
+2018,7,CHI,Wendell Carter Jr.,cartewe01,Duke,8,461,12735,33.3,.126,-0.3,5.3
+2018,8,CLE,Collin Sexton,sextoco01,Alabama,8,475,13771,19.7,.069,-1.1,3.0
+2018,9,NYK,Kevin Knox,knoxke01,Kentucky,7,320,5606,0.9,.008,-4.4,-3.4
+2018,10,PHI,Mikal Bridges,bridgmi01,Villanova,8,638,21206,50.0,.113,0.9,15.8
+2018,11,CHO,Shai Gilgeous-Alexander,gilgesh01,Kentucky,8,530,17550,75.6,.207,6.3,36.9
+2018,12,LAC,Miles Bridges,bridgmi02,Michigan State,7,501,15457,27.8,.086,0.1,8.2
+2018,13,LAC,Jerome Robinson,robinje01,Boston College,4,135,1685,-0.2,-.004,-4.8,-1.2
+2018,14,DEN,Michael Porter Jr.,portemi01,Missouri,7,397,11725,29.4,.120,1.0,8.9
+2018,15,WAS,Troy Brown Jr.,browntr01,Oregon,6,356,6778,8.6,.061,-1.8,0.4
+2018,16,PHO,Zhaire Smith,smithzh01,Texas Tech,2,13,143,0.0,.011,-6.1,-0.1
+2018,17,MIL,Donte DiVincenzo,divindo01,Villanova,8,498,13104,29.1,.107,1.0,10.1
+2018,18,SAS,Lonnie Walker IV,walkelo01,Miami (FL),7,342,7025,4.9,.033,-2.5,-1.0
+2018,19,ATL,Kevin Huerter,huertke01,Maryland,8,551,15115,21.7,.069,-0.9,4.1
+2018,20,MIN,Josh Okogie,okogijo01,Georgia Tech,8,494,9306,14.2,.073,-1.7,0.6
+2018,21,UTA,Grayson Allen,allengr01,Duke,8,454,11694,26.4,.109,0.3,6.6
+2018,22,CHI,Chandler Hutchison,hutchch01,Boise State,4,103,1790,1.1,.030,-3.9,-0.9
+2018,23,IND,Aaron Holiday,holidaa01,UCLA,8,505,8147,11.6,.068,-2.0,0.1
+2018,24,POR,Anfernee Simons,simonan01,,8,444,11792,15.7,.064,-1.0,2.9
+2018,25,LAL,Moritz Wagner,wagnemo01,Michigan,8,399,6478,17.9,.132,0.1,3.4
+2018,26,PHI,Landry Shamet,shamela01,Wichita State,8,449,9560,15.7,.079,-1.8,0.4
+2018,27,BOS,Robert Williams,williro04,Texas A&M,8,294,5762,28.3,.236,4.6,9.6
+2018,28,GSW,Jacob Evans,evansja02,Cincinnati,2,59,622,-0.6,-.047,-7.4,-0.8
+2018,29,BRK,Džanan Musa,musadz01,,2,49,526,0.0,.003,-4.6,-0.4
+2018,30,ATL,Omari Spellman,spellom01,Villanova,2,95,1691,2.4,.068,-1.5,0.2
+2018,31,PHO,Elie Okobo,okoboel01,,2,108,1677,0.5,.014,-4.1,-0.9
+2018,32,MEM,Jevon Carter,carteje01,West Virginia,8,465,7146,9.4,.063,-1.4,1.0
+2018,33,DAL,Jalen Brunson,brunsja01,Villanova,8,561,16830,54.2,.155,2.4,18.8
+2018,34,ATL,Devonte' Graham,grahade01,Kansas,6,336,8359,12.7,.073,-0.5,3.2
+2018,35,ORL,Melvin Frazier,frazime01,Tulane,3,32,290,-0.4,-.062,-10.0,-0.6
+2018,36,NYK,Mitchell Robinson,robinmi01,,8,397,9297,41.0,.212,2.3,10.1
+2018,37,SAC,Gary Trent Jr.,trentga02,Duke,8,480,13075,19.0,.070,-1.6,1.4
+2018,38,PHI,Khyri Thomas,thomakh01,Creighton,3,39,409,0.5,.058,-2.7,-0.1
+2018,39,PHI,Isaac Bonga,bongais01,,4,143,1871,1.7,.044,-3.6,-0.7
+2018,40,BRK,Rodions Kurucs,kurucro01,,3,131,2103,2.3,.052,-2.8,-0.4
+2018,41,ORL,Jarred Vanderbilt,vandeja01,Kentucky,8,374,7303,18.6,.122,-0.2,3.3
+2018,42,DET,Bruce Brown,brownbr01,Miami (FL),8,539,13374,22.9,.082,-1.6,1.3
+2018,43,DEN,Justin Jackson,jacksju02,Maryland,,,,,,,
+2018,44,WAS,Issuf Sanon,sanonis01,,,,,,,,
+2018,45,BRK,Hamidou Diallo,diallha01,Kentucky,6,265,4918,6.2,.060,-2.1,-0.1
+2018,46,HOU,De'Anthony Melton,meltode01,USC,8,405,9272,15.0,.078,0.2,5.2
+2018,47,LAL,Svi Mykhailiuk,mykhasv01,Kansas,8,381,6542,5.3,.039,-2.4,-0.6
+2018,48,MIN,Keita Bates-Diop,bateske01,Ohio State,6,283,4566,7.4,.078,-1.6,0.5
+2018,49,SAS,Chimezie Metu,metuch01,USC,6,260,3565,5.7,.076,-1.6,0.3
+2018,50,IND,Alize Johnson,johnsal02,Missouri State,5,76,568,1.3,.108,-2.4,-0.1
+2018,51,NOP,Tony Carr,carrto01,Penn State,,,,,,,
+2018,52,UTA,Vince Edwards,edwarvi01,Purdue,1,2,16,0.0,-.014,-6.4,0.0
+2018,53,OKC,Devon Hall,hallde01,Virginia,1,11,81,-0.2,-.116,-6.7,-0.1
+2018,54,DAL,Shake Milton,miltosh01,SMU,7,359,6698,11.7,.084,-2.0,-0.1
+2018,55,CHO,Arnoldas Kulboka,kulboar01,,1,2,5,0.0,-.217,-21.8,0.0
+2018,56,PHI,Ray Spalding,spaldra01,Louisville,2,16,167,0.1,.024,-6.2,-0.2
+2018,57,OKC,Kevin Hervey,herveke01,UT Arlington,1,10,52,-0.1,-.085,-5.1,0.0
+2018,58,DEN,Thomas Welsh,welshth01,UCLA,1,11,36,0.1,.162,1.2,0.0
+2018,59,PHO,George King,kingge03,Colorado,2,5,25,-0.1,-.225,-17.2,-0.1
+2018,60,PHI,Kostas Antetokounmpo,antetko01,Dayton,3,22,87,-0.2,-.098,-9.9,-0.2
+2019,1,NOP,Zion Williamson,willizi01,Duke,6,276,8555,30.3,.170,4.5,14.1
+2019,2,MEM,Ja Morant,moranja01,Murray State,7,327,10370,24.3,.113,2.5,11.8
+2019,3,NYK,RJ Barrett,barrerj01,Duke,7,444,14540,17.3,.057,-1.5,1.8
+2019,4,LAL,De'Andre Hunter,huntede01,Virginia,7,372,10996,13.1,.057,-2.7,-2.0
+2019,5,CLE,Darius Garland,garlada01,Vanderbilt,7,427,14037,27.1,.093,0.2,7.9
+2019,6,PHO,Jarrett Culver,culveja01,Texas Tech,4,144,2480,-0.1,-.001,-4.5,-1.6
+2019,7,CHI,Coby White,whiteco01,UNC,7,472,13815,19.9,.069,-1.5,1.7
+2019,8,ATL,Jaxson Hayes,hayesja02,Texas,7,433,7229,25.1,.167,-0.1,3.5
+2019,9,WAS,Rui Hachimura,hachiru01,Gonzaga,7,405,11272,18.7,.080,-2.0,0.1
+2019,10,ATL,Cam Reddish,reddica01,Duke,6,254,5876,3.3,.027,-3.1,-1.7
+2019,11,MIN,Cameron Johnson,johnsca02,UNC,7,394,10667,26.6,.120,1.2,8.8
+2019,12,CHO,P.J. Washington,washipj01,Kentucky,7,446,13653,16.5,.058,-1.3,2.6
+2019,13,MIA,Tyler Herro,herroty01,Kentucky,7,394,12796,22.3,.084,0.8,9.0
+2019,14,BOS,Romeo Langford,langfro01,Indiana,4,141,2268,2.0,.043,-3.4,-0.8
+2019,15,DET,Sekou Doumbouya,doumbse01,,3,96,1639,-0.4,-.013,-6.5,-1.8
+2019,16,ORL,Chuma Okeke,okekech01,Auburn,5,198,4028,5.0,.060,-1.1,1.0
+2019,17,BRK,Nickeil Alexander-Walker,alexani01,Virginia Tech,7,459,10545,16.5,.075,-0.6,3.7
+2019,18,IND,Goga Bitadze,bitadgo01,,7,383,5577,19.3,.166,1.1,4.4
+2019,19,SAS,Luka Šamanić,samanlu01,,4,86,921,0.0,.001,-5.6,-0.8
+2019,20,BOS,Matisse Thybulle,thybuma01,Washington,7,377,7749,15.4,.095,1.1,6.1
+2019,21,OKC,Brandon Clarke,clarkbr01,Gonzaga,7,309,6412,24.6,.184,2.4,7.1
+2019,22,BOS,Grant Williams,willigr01,Tennessee,7,416,9421,17.4,.089,-1.6,1.0
+2019,23,UTA,Darius Bazley,bazleda01,,5,237,5536,3.1,.027,-2.4,-0.6
+2019,24,PHI,Ty Jerome,jeromty01,Virginia,7,244,4480,11.2,.120,0.9,3.3
+2019,25,POR,Nassir Little,littlna01,UNC,5,237,3735,4.7,.061,-2.6,-0.5
+2019,26,CLE,Dylan Windler,windldy01,Belmont,4,101,1090,1.6,.072,-1.4,0.2
+2019,27,BRK,Mfiondu Kabengele,kabenmf01,Florida State,3,55,380,0.4,.055,-3.6,-0.2
+2019,28,GSW,Jordan Poole,poolejo01,Michigan,7,451,12283,11.4,.045,-1.9,0.4
+2019,29,SAS,Keldon Johnson,johnske04,Kentucky,7,452,12511,23.2,.089,-1.0,3.2
+2019,30,MIL,Kevin Porter Jr.,porteke02,USC,6,309,8671,9.0,.050,-0.9,2.5
+2019,31,BRK,Nic Claxton,claxtni01,Georgia,7,380,9944,30.9,.149,1.3,8.2
+2019,32,PHO,KZ Okpala,okpalkz01,Stanford,4,98,965,1.0,.050,-4.7,-0.7
+2019,33,PHI,Carsen Edwards,edwarca01,Purdue,3,72,706,0.3,.019,-5.1,-0.5
+2019,34,PHI,Bruno Fernando,fernabr01,Maryland,6,220,2326,3.8,.079,-3.0,-0.6
+2019,35,ATL,Didi Louzada,louzama01,,2,12,185,-0.1,-.034,-8.1,-0.3
+2019,36,CHO,Cody Martin,martico01,Nevada,7,263,5733,7.1,.059,-1.8,0.3
+2019,37,DAL,Deividas Sirvydis,sirvyde01,,2,23,160,-0.1,-.032,-5.9,-0.2
+2019,38,CHI,Daniel Gafford,gaffoda01,Arkansas,7,433,8684,35.2,.195,1.7,8.2
+2019,39,NOP,Alen Smailagić,smailal01,,2,29,223,0.3,.056,-3.3,-0.1
+2019,40,SAC,Justin James,jamesju01,Wyoming,2,72,542,0.3,.024,-3.1,-0.2
+2019,41,GSW,Eric Paschall,pascher01,Villanova,3,158,3086,5.0,.078,-2.2,-0.1
+2019,42,PHI,Admiral Schofield,schofad01,Tennessee,4,131,1372,1.2,.043,-4.6,-0.9
+2019,43,MIN,Jaylen Nowell,nowelja01,Washington,6,205,3519,4.7,.064,-2.1,-0.1
+2019,44,MIA,Bol Bol,bolbo01,Oregon,6,202,2750,5.0,.088,-0.4,1.1
+2019,45,DET,Isaiah Roby,robyis01,Nebraska,4,151,2858,4.0,.068,-2.3,-0.2
+2019,46,ORL,Talen Horton-Tucker,hortota01,Iowa State,6,305,5942,6.0,.049,-2.0,0.0
+2019,47,SAC,Ignas Brazdeikis,brazdig01,Michigan,3,64,838,0.4,.024,-4.9,-0.6
+2019,48,LAC,Terance Mann,mannte01,Florida State,7,475,10630,23.3,.105,-1.2,2.2
+2019,49,SAS,Quinndary Weatherspoon,weathqu01,Mississippi State,3,42,272,0.2,.030,-5.5,-0.2
+2019,50,IND,Jarrell Brantley,brantja01,College of Charleston,3,41,273,0.6,.108,0.0,0.1
+2019,51,BOS,Tremont Waters,watertr01,LSU,3,40,407,0.1,.012,-3.0,-0.1
+2019,52,CHO,Jalen McDaniels,mcdanja01,San Diego State,6,252,4550,5.3,.056,-3.3,-1.5
+2019,53,UTA,Justin Wright-Foreman,wrighju02,Hofstra,1,4,45,0.0,-.008,-9.0,-0.1
+2019,54,PHI,Marial Shayok,shayoma01,Iowa State,1,4,28,-0.1,-.130,-13.0,-0.1
+2019,55,NYK,Kyle Guy,guyky01,Virginia,3,53,431,0.1,.006,-4.9,-0.3
+2019,56,LAC,Jaylen Hands,handsja01,UCLA,,,,,,,
+2019,57,NOP,Jordan Bone,bonejo01,Tennessee,2,24,249,0.1,.010,-5.9,-0.2
+2019,58,GSW,Miye Oni,onimi01,Yale,3,80,672,1.0,.070,-2.5,-0.1
+2019,59,TOR,Dewan Hernandez,hernade01,Miami (FL),1,6,28,0.0,.043,-9.6,-0.1
+2019,60,SAC,Vanja Marinković,marinva01,,,,,,,,
+2020,1,MIN,Anthony Edwards,edwaran01,Georgia,6,442,15400,31.4,.098,2.1,15.8
+2020,2,GSW,James Wiseman,wisemja01,Memphis,5,152,2857,4.3,.072,-4.0,-1.5
+2020,3,CHO,LaMelo Ball,ballla01,,6,303,9392,19.8,.101,3.3,12.5
+2020,4,CHI,Patrick Williams,willipa01,Florida State,6,348,8952,8.3,.044,-2.6,-1.4
+2020,5,CLE,Isaac Okoro,okorois01,Auburn,6,397,10441,18.2,.084,-2.3,-0.8
+2020,6,ATL,Onyeka Okongwu,okongon01,USC,6,381,9208,30.9,.161,0.6,6.0
+2020,7,DET,Killian Hayes,hayeski01,,6,239,6047,-0.4,-.004,-4.0,-3.0
+2020,8,NYK,Obi Toppin,toppiob01,Dayton,6,386,6662,17.7,.128,1.2,5.4
+2020,9,WAS,Deni Avdija,avdijde01,,6,425,11878,21.7,.088,0.0,6.0
+2020,10,PHO,Jalen Smith,smithja04,Maryland,6,324,5463,14.6,.128,-0.3,2.4
+2020,11,SAS,Devin Vassell,vassede01,Florida State,6,370,10446,16.8,.077,-0.3,4.4
+2020,12,SAC,Tyrese Haliburton,halibty01,Iowa State,5,333,10998,37.6,.164,4.8,18.9
+2020,13,NOP,Kira Lewis Jr.,lewiski01,Alabama,4,131,1745,1.3,.036,-3.5,-0.6
+2020,14,BOS,Aaron Nesmith,nesmiaa01,Vanderbilt,6,333,7511,11.2,.072,-2.1,-0.2
+2020,15,ORL,Cole Anthony,anthoco01,UNC,6,355,8462,10.5,.060,-0.8,2.5
+2020,16,POR,Isaiah Stewart,stewais01,Washington,6,365,8859,19.5,.106,-1.5,1.2
+2020,17,MIN,Aleksej Pokusevski,pokusal01,,4,168,3429,-0.2,-.002,-3.1,-1.0
+2020,18,DAL,Josh Green,greenjo02,Arizona,6,349,7323,11.1,.073,-2.6,-1.2
+2020,19,BRK,Saddiq Bey,beysa01,Villanova,5,364,11050,20.0,.087,-0.5,4.3
+2020,20,MIA,Precious Achiuwa,achiupr01,Memphis,6,393,8141,14.8,.087,-2.1,-0.3
+2020,21,PHI,Tyrese Maxey,maxeyty01,Kentucky,6,388,12848,35.1,.131,2.2,13.5
+2020,22,DEN,Zeke Nnaji,nnajize01,Arizona,6,303,3633,7.5,.100,-2.8,-0.7
+2020,23,NYK,Leandro Bolmaro,bolmale01,,2,49,309,-0.3,-.048,-7.8,-0.5
+2020,24,MIL,R.J. Hampton,hamptrj01,,4,170,3116,0.8,.013,-3.8,-1.4
+2020,25,OKC,Immanuel Quickley,quickim01,Kentucky,6,394,10523,27.9,.127,1.5,9.2
+2020,26,BOS,Payton Pritchard,pritcpa01,Oregon,6,426,9564,29.4,.148,1.5,8.5
+2020,27,UTA,Udoka Azubuike,azubuud01,Kansas,4,84,724,2.0,.133,-1.5,0.1
+2020,28,LAL,Jaden McDaniels,mcdanja02,Washington,6,439,12765,23.1,.087,-1.5,1.5
+2020,29,TOR,Malachi Flynn,flynnma01,San Diego State,5,217,3076,2.9,.045,-2.6,-0.5
+2020,30,BOS,Desmond Bane,banede01,TCU,6,395,12030,33.0,.132,2.2,12.7
+2020,31,DAL,Tyrell Terry,terryty01,Stanford,2,13,59,0.0,-.035,-4.8,0.0
+2020,32,CHO,Vernon Carey Jr.,careyve01,Duke,3,37,187,0.2,.058,-6.3,-0.2
+2020,33,MIN,Daniel Oturu,oturuda01,Minnesota,2,33,188,0.3,.086,-5.2,-0.2
+2020,34,PHI,Théo Maledon,maledth01,,4,177,3753,-0.2,-.002,-4.6,-2.4
+2020,35,SAC,Xavier Tillman Sr.,tillmxa01,Michigan State,6,290,4354,10.3,.114,-0.2,2.0
+2020,36,PHI,Tyler Bey,beyty01,Colorado,1,18,71,0.0,-.033,-9.5,-0.1
+2020,37,WAS,Vít Krejčí,krejcvi01,,5,203,3941,6.9,.084,-2.0,0.1
+2020,38,UTA,Saben Lee,leesa01,Vanderbilt,4,134,1943,3.5,.085,-1.4,0.3
+2020,39,NOP,Elijah Hughes,hugheel01,Syracuse,2,54,498,-0.4,-.039,-6.4,-0.5
+2020,40,MEM,Robert Woodard II,woodaro01,Mississippi State,2,25,87,-0.1,-.077,-7.7,-0.1
+2020,41,SAS,Tre Jones,jonestr01,Duke,6,362,8196,20.3,.119,-0.1,4.0
+2020,42,NOP,Nick Richards,richani01,Kentucky,6,305,5363,13.9,.124,-2.9,-1.2
+2020,43,SAC,Jahmi'us Ramsey,ramseja01,Texas Tech,3,39,349,-0.1,-.008,-5.4,-0.3
+2020,44,CHI,Marko Simonovic,simonma01,,2,16,55,0.0,-.026,-12.3,-0.1
+2020,45,MIL,Jordan Nwora,nworajo01,Louisville,4,206,3359,3.0,.043,-2.8,-0.7
+2020,46,POR,CJ Elleby,ellebcj01,Washington State,2,88,1366,0.5,.018,-5.2,-1.1
+2020,47,BOS,Yam Madar,madarya01,,,,,,,,
+2020,48,GSW,Nico Mannion,mannini01,Arizona,1,30,364,0.2,.029,-3.9,-0.2
+2020,49,PHI,Isaiah Joe,joeis01,Arkansas,6,392,6943,19.0,.131,0.6,4.6
+2020,50,ATL,Skylar Mays,mayssk01,LSU,4,105,1111,2.1,.092,-0.7,0.4
+2020,51,GSW,Justinian Jessup,jessuju01,Boise State,,,,,,,
+2020,52,SAC,KJ Martin,martike04,,5,309,6674,12.4,.089,-1.8,0.4
+2020,53,OKC,Cassius Winston,winstca01,Michigan State,2,29,137,0.1,.051,-4.9,-0.1
+2020,54,IND,Cassius Stanley,stanlca01,Duke,2,33,248,0.0,-.006,-7.9,-0.4
+2020,55,BRK,Jay Scrubb,scrubja01,John A. Logan College,3,24,235,-0.1,-.014,-6.6,-0.3
+2020,56,CHO,Grant Riller,rillegr01,College of Charleston,1,7,27,0.1,.177,5.1,0.0
+2020,57,LAC,Reggie Perry,perryre01,Mississippi State,2,36,398,0.4,.048,-5.5,-0.3
+2020,58,PHI,Paul Reed,reedpa01,DePaul,6,325,4163,15.9,.184,1.7,3.9
+2020,59,TOR,Jalen Harris,harrija01,Nevada,1,13,172,0.3,.079,0.3,0.1
+2020,60,NOP,Sam Merrill,merrisa01,Utah State University,6,225,4197,10.5,.120,0.1,2.3
+2021,1,DET,Cade Cunningham,cunnica01,Oklahoma State,5,272,9186,14.9,.078,2.2,9.8
+2021,2,HOU,Jalen Green,greenja05,,5,339,10866,11.0,.049,-1.1,2.4
+2021,3,CLE,Evan Mobley,mobleev01,USC,5,334,10819,34.8,.154,2.4,12.1
+2021,4,TOR,Scottie Barnes,barnesc01,Florida State,5,356,12204,27.2,.107,2.3,13.1
+2021,5,ORL,Jalen Suggs,suggsja01,Gonzaga,5,268,7154,8.3,.055,-0.3,3.1
+2021,6,OKC,Josh Giddey,giddejo01,,5,334,9926,17.2,.083,1.5,8.8
+2021,7,GSW,Jonathan Kuminga,kuminjo01,,5,294,6502,13.0,.096,-1.1,1.5
+2021,8,ORL,Franz Wagner,wagnefr01,Michigan,5,325,10417,24.2,.112,0.9,7.7
+2021,9,SAC,Davion Mitchell,mitchda01,Baylor,5,371,8651,10.3,.057,-2.6,-1.3
+2021,10,NOP,Ziaire Williams,willizi02,Stanford,5,269,5767,6.2,.052,-3.0,-1.5
+2021,11,CHO,James Bouknight,bouknja01,UConn,3,79,900,-0.3,-.017,-5.9,-0.9
+2021,12,SAS,Joshua Primo,primojo01,Alabama,3,56,1068,-0.2,-.011,-5.3,-0.9
+2021,13,IND,Chris Duarte,duartch01,Oregon,4,177,3231,1.9,.028,-3.0,-0.8
+2021,14,GSW,Moses Moody,moodymo01,Arkansas,5,315,5769,11.6,.096,-1.0,1.5
+2021,15,WAS,Corey Kispert,kispeco01,Gonzaga,5,350,8643,11.1,.062,-2.3,-0.6
+2021,16,OKC,Alperen Şengün,sengual01,,5,358,10499,30.5,.140,3.1,13.4
+2021,17,MEM,Trey Murphy III,murphtr02,Virginia,5,317,9197,24.4,.128,1.6,8.3
+2021,18,OKC,Tre Mann,manntr01,Florida,5,234,4525,1.9,.020,-3.6,-1.8
+2021,19,NYK,Kai Jones,joneska01,Texas,3,107,1081,2.8,.126,-1.2,0.2
+2021,20,ATL,Jalen Johnson,johnsja05,Duke,5,256,6867,15.9,.111,2.2,7.2
+2021,21,NYK,Keon Johnson,johnske07,Tennessee,4,161,3098,-0.3,-.005,-4.2,-1.7
+2021,22,LAL,Isaiah Jackson,jacksis01,Kentucky,5,219,3346,10.3,.148,-0.4,1.3
+2021,23,HOU,Usman Garuba,garubus01,,3,105,1228,2.3,.090,-1.4,0.2
+2021,24,HOU,Josh Christopher,chrisjo01,Arizona State,3,152,2189,0.2,.003,-3.9,-1.1
+2021,25,LAC,Quentin Grimes,grimequ01,Houston,5,318,8151,14.4,.085,-0.7,2.7
+2021,26,DEN,Bones Hyland,hylanbo01,VCU,5,257,4351,7.4,.082,-0.2,2.0
+2021,27,BRK,Cam Thomas,thomaca02,LSU,5,257,5861,5.0,.041,-2.3,-0.4
+2021,28,PHI,Jaden Springer,sprinja01,Tennessee,4,110,967,1.4,.068,-2.7,-0.2
+2021,29,PHO,Day'Ron Sharpe,sharpda01,UNC,5,253,3932,11.9,.145,0.0,2.0
+2021,30,UTA,Santi Aldama,aldamsa01,Loyola (MD),5,278,6518,14.5,.107,0.9,4.7
+2021,31,MIL,Isaiah Todd,toddis01,,2,18,135,-0.3,-.124,-10.2,-0.3
+2021,32,NYK,Jeremiah Robinson-Earl,robinje02,Villanova,5,219,3835,5.9,.074,-2.4,-0.4
+2021,33,ORL,Jason Preston,prestja01,Ohio University,2,21,195,0.1,.023,-2.6,0.0
+2021,34,OKC,Rokas Jokubaitis,jokubro01,,,,,,,,
+2021,35,NOP,Herbert Jones,joneshe01,Alabama,5,296,8843,16.4,.089,-0.9,2.6
+2021,36,OKC,Miles McBride,mcbrimi01,West Virginia,5,277,5133,10.5,.099,-0.4,2.0
+2021,37,DET,JT Thor,thorjt01,Auburn,4,185,2261,1.2,.026,-4.5,-1.5
+2021,38,CHI,Ayo Dosunmu,dosunay01,Illinois,5,348,9695,17.5,.086,-1.2,2.0
+2021,39,SAC,Neemias Queta,quetane01,Utah State University,5,186,3271,14.2,.209,1.4,2.8
+2021,40,NOP,Jared Butler,butleja02,Baylor,4,148,2047,2.5,.059,-1.5,0.3
+2021,41,SAS,Joe Wieskamp,wieskjo01,Iowa,2,38,255,0.1,.013,-5.3,-0.2
+2021,42,DET,Isaiah Livers,liveris01,Michigan,4,130,2398,2.0,.039,-3.1,-0.7
+2021,43,NOP,Greg Brown III,browngr01,Texas,3,70,773,0.2,.015,-5.1,-0.6
+2021,44,BRK,Kessler Edwards,edwarke02,Pepperdine,4,178,2255,2.7,.058,-2.9,-0.5
+2021,45,BOS,Juhann Begarin,begarju01,,,,,,,,
+2021,46,TOR,Dalano Banton,bantoda01,Nebraska,5,222,3204,2.0,.030,-1.5,0.4
+2021,47,TOR,David Johnson,johnsda08,Louisville,1,2,2,0.0,-.495,-27.7,0.0
+2021,48,ATL,Sharife Cooper,coopesh01,Auburn,2,54,739,0.4,.023,-4.6,-0.5
+2021,49,BRK,Marcus Zegarowski,zegarma01,Creighton,,,,,,,
+2021,50,PHI,Filip Petrušev,petrufi01,Gonzaga,1,3,10,0.0,.029,-8.0,0.0
+2021,51,MEM,Brandon Boston Jr.,bostobr01,Kentucky,4,147,2346,1.0,.021,-3.7,-1.0
+2021,52,DET,Luka Garza,garzalu01,Iowa,5,193,2091,8.2,.187,0.4,1.3
+2021,53,PHI,Charles Bassey,bassech01,Western Kentucky,5,126,1410,4.5,.152,0.6,0.9
+2021,54,IND,Sandro Mamukelashvili,mamuksa01,Seton Hall,5,271,3950,11.4,.138,1.1,3.2
+2021,55,OKC,Aaron Wiggins,wiggiaa01,Maryland,5,339,6892,15.0,.105,-0.9,1.9
+2021,56,CHO,Scottie Lewis,lewissc01,Florida,1,2,7,0.0,.164,6.0,0.0
+2021,57,CHO,Balša Koprivica,kopriba01,Florida State,,,,,,,
+2021,58,NYK,Jericho Sims,simsje01,Texas,5,258,3902,10.1,.124,-2.1,-0.1
+2021,59,BRK,RaiQuan Gray,grayra01,Florida State,2,4,74,0.2,.149,2.9,0.1
+2021,60,IND,Georgios Kalaitzakis,kalaige01,,1,13,213,-0.1,-.024,-7.0,-0.3

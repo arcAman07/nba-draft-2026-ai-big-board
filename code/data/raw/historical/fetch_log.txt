@@ -1,0 +1,111 @@
+2026-06-10 04:01:52,744 WARNING HTTP 403 on https://www.basketball-reference.com/draft/NBA_2000.html, backing off 15s (attempt 1)
+2026-06-10 04:02:07,938 INFO fetched https://www.basketball-reference.com/draft/NBA_2000.html -> bbr_draft_2000.html (240348 bytes)
+2026-06-10 04:02:11,557 INFO parsed 2000: 58 picks, draft date June 28, 2000
+2026-06-10 04:02:11,931 INFO fetched https://www.basketball-reference.com/draft/NBA_2001.html -> bbr_draft_2001.html (239443 bytes)
+2026-06-10 04:02:15,510 INFO parsed 2001: 57 picks, draft date June 27, 2001
+2026-06-10 04:02:16,040 INFO fetched https://www.basketball-reference.com/draft/NBA_2002.html -> bbr_draft_2002.html (238980 bytes)
+2026-06-10 04:02:19,607 INFO parsed 2002: 57 picks, draft date June 26, 2002
+2026-06-10 04:02:20,146 INFO fetched https://www.basketball-reference.com/draft/NBA_2003.html -> bbr_draft_2003.html (239770 bytes)
+2026-06-10 04:02:23,744 INFO parsed 2003: 58 picks, draft date June 26, 2003
+2026-06-10 04:02:24,030 INFO fetched https://www.basketball-reference.com/draft/NBA_2004.html -> bbr_draft_2004.html (241570 bytes)
+2026-06-10 04:02:27,592 INFO parsed 2004: 59 picks, draft date June 24, 2004
+2026-06-10 04:02:27,874 INFO fetched https://www.basketball-reference.com/draft/NBA_2005.html -> bbr_draft_2005.html (242693 bytes)
+2026-06-10 04:02:31,442 INFO parsed 2005: 60 picks, draft date June 28, 2005
+2026-06-10 04:02:31,545 INFO fetched https://www.basketball-reference.com/draft/NBA_2006.html -> bbr_draft_2006.html (243127 bytes)
+2026-06-10 04:02:35,142 INFO parsed 2006: 60 picks, draft date June 28, 2006
+2026-06-10 04:02:35,420 INFO fetched https://www.basketball-reference.com/draft/NBA_2007.html -> bbr_draft_2007.html (243202 bytes)
+2026-06-10 04:02:38,982 INFO parsed 2007: 60 picks, draft date June 28, 2007
+2026-06-10 04:02:39,252 INFO fetched https://www.basketball-reference.com/draft/NBA_2008.html -> bbr_draft_2008.html (243492 bytes)
+2026-06-10 04:02:42,854 INFO parsed 2008: 60 picks, draft date June 26, 2008
+2026-06-10 04:02:43,150 INFO fetched https://www.basketball-reference.com/draft/NBA_2009.html -> bbr_draft_2009.html (243388 bytes)
+2026-06-10 04:02:46,753 INFO parsed 2009: 60 picks, draft date June 25, 2009
+2026-06-10 04:02:47,102 INFO fetched https://www.basketball-reference.com/draft/NBA_2010.html -> bbr_draft_2010.html (243574 bytes)
+2026-06-10 04:02:50,673 INFO parsed 2010: 60 picks, draft date June 24, 2010
+2026-06-10 04:02:51,224 INFO fetched https://www.basketball-reference.com/draft/NBA_2011.html -> bbr_draft_2011.html (243472 bytes)
+2026-06-10 04:02:54,806 INFO parsed 2011: 60 picks, draft date June 23, 2011
+2026-06-10 04:02:55,145 INFO fetched https://www.basketball-reference.com/draft/NBA_2012.html -> bbr_draft_2012.html (243767 bytes)
+2026-06-10 04:02:58,703 INFO parsed 2012: 60 picks, draft date June 28, 2012
+2026-06-10 04:02:58,984 INFO fetched https://www.basketball-reference.com/draft/NBA_2013.html -> bbr_draft_2013.html (243281 bytes)
+2026-06-10 04:03:02,541 INFO parsed 2013: 60 picks, draft date June 27, 2013
+2026-06-10 04:03:02,836 INFO fetched https://www.basketball-reference.com/draft/NBA_2014.html -> bbr_draft_2014.html (243190 bytes)
+2026-06-10 04:03:06,406 INFO parsed 2014: 60 picks, draft date June 26, 2014
+2026-06-10 04:03:06,406 INFO cached  bbr_draft_2015.html (https://www.basketball-reference.com/draft/NBA_2015.html)
+2026-06-10 04:03:06,461 INFO parsed 2015: 60 picks, draft date June 25, 2015
+2026-06-10 04:03:07,030 INFO fetched https://www.basketball-reference.com/draft/NBA_2016.html -> bbr_draft_2016.html (243227 bytes)
+2026-06-10 04:03:10,627 INFO parsed 2016: 60 picks, draft date June 23, 2016
+2026-06-10 04:03:10,743 INFO fetched https://www.basketball-reference.com/draft/NBA_2017.html -> bbr_draft_2017.html (243372 bytes)
+2026-06-10 04:03:14,313 INFO parsed 2017: 60 picks, draft date June 22, 2017
+2026-06-10 04:03:14,429 INFO fetched https://www.basketball-reference.com/draft/NBA_2018.html -> bbr_draft_2018.html (243651 bytes)
+2026-06-10 04:03:17,997 INFO parsed 2018: 60 picks, draft date June 21, 2018
+2026-06-10 04:03:18,460 INFO fetched https://www.basketball-reference.com/draft/NBA_2019.html -> bbr_draft_2019.html (243623 bytes)
+2026-06-10 04:03:22,033 INFO parsed 2019: 60 picks, draft date June 20, 2019
+2026-06-10 04:03:22,392 INFO fetched https://www.basketball-reference.com/draft/NBA_2020.html -> bbr_draft_2020.html (243555 bytes)
+2026-06-10 04:03:25,963 INFO parsed 2020: 60 picks, draft date November 18, 2020
+2026-06-10 04:03:26,319 INFO fetched https://www.basketball-reference.com/draft/NBA_2021.html -> bbr_draft_2021.html (243601 bytes)
+2026-06-10 04:03:29,911 INFO parsed 2021: 60 picks, draft date July 29, 2021
+2026-06-10 04:03:29,914 INFO wrote 1309 rows to /Users/arcaman07/Documents/Robotics/Imitation learning/nba_draft_claude/data/raw/historical/bbr_draft_2000_2021.csv; failures: []
+2026-06-10 04:03:37,369 INFO fetched https://www.basketball-reference.com/players/a/ -> bbr_players_a.html (238770 bytes)
+2026-06-10 04:03:40,930 INFO letter a: 179 players
+2026-06-10 04:03:41,332 INFO fetched https://www.basketball-reference.com/players/b/ -> bbr_players_b.html (454537 bytes)
+2026-06-10 04:03:44,977 INFO letter b: 517 players
+2026-06-10 04:03:45,354 INFO fetched https://www.basketball-reference.com/players/c/ -> bbr_players_c.html (344098 bytes)
+2026-06-10 04:03:48,956 INFO letter c: 342 players
+2026-06-10 04:03:49,333 INFO fetched https://www.basketball-reference.com/players/d/ -> bbr_players_d.html (294414 bytes)
+2026-06-10 04:03:52,919 INFO letter d: 267 players
+2026-06-10 04:03:53,299 INFO fetched https://www.basketball-reference.com/players/e/ -> bbr_players_e.html (201395 bytes)
+2026-06-10 04:03:56,900 INFO letter e: 119 players
+2026-06-10 04:03:57,262 INFO fetched https://www.basketball-reference.com/players/f/ -> bbr_players_f.html (229857 bytes)
+2026-06-10 04:04:00,811 INFO letter f: 164 players
+2026-06-10 04:04:01,184 INFO fetched https://www.basketball-reference.com/players/g/ -> bbr_players_g.html (298276 bytes)
+2026-06-10 04:04:04,761 INFO letter g: 271 players
+2026-06-10 04:04:05,156 INFO fetched https://www.basketball-reference.com/players/h/ -> bbr_players_h.html (368771 bytes)
+2026-06-10 04:04:08,775 INFO letter h: 382 players
+2026-06-10 04:04:09,153 INFO fetched https://www.basketball-reference.com/players/i/ -> bbr_players_i.html (143674 bytes)
+2026-06-10 04:04:12,682 INFO letter i: 29 players
+2026-06-10 04:04:13,056 INFO fetched https://www.basketball-reference.com/players/j/ -> bbr_players_j.html (299500 bytes)
+2026-06-10 04:04:16,658 INFO letter j: 270 players
+2026-06-10 04:04:17,011 INFO fetched https://www.basketball-reference.com/players/k/ -> bbr_players_k.html (244197 bytes)
+2026-06-10 04:04:20,578 INFO letter k: 188 players
+2026-06-10 04:04:20,983 INFO fetched https://www.basketball-reference.com/players/l/ -> bbr_players_l.html (260691 bytes)
+2026-06-10 04:04:24,583 INFO letter l: 212 players
+2026-06-10 04:04:24,968 INFO fetched https://www.basketball-reference.com/players/m/ -> bbr_players_m.html (449482 bytes)
+2026-06-10 04:04:28,608 INFO letter m: 509 players
+2026-06-10 04:04:28,952 INFO fetched https://www.basketball-reference.com/players/n/ -> bbr_players_n.html (198965 bytes)
+2026-06-10 04:04:32,495 INFO letter n: 115 players
+2026-06-10 04:04:32,857 INFO fetched https://www.basketball-reference.com/players/o/ -> bbr_players_o.html (189709 bytes)
+2026-06-10 04:04:36,401 INFO letter o: 101 players
+2026-06-10 04:04:36,754 INFO fetched https://www.basketball-reference.com/players/p/ -> bbr_players_p.html (281129 bytes)
+2026-06-10 04:04:40,325 INFO letter p: 245 players
+2026-06-10 04:04:40,694 INFO fetched https://www.basketball-reference.com/players/q/ -> bbr_players_q.html (131934 bytes)
+2026-06-10 04:04:44,231 INFO letter q: 10 players
+2026-06-10 04:04:44,602 INFO fetched https://www.basketball-reference.com/players/r/ -> bbr_players_r.html (300231 bytes)
+2026-06-10 04:04:48,287 INFO letter r: 274 players
+2026-06-10 04:04:48,704 INFO fetched https://www.basketball-reference.com/players/s/ -> bbr_players_s.html (425167 bytes)
+2026-06-10 04:04:52,442 INFO letter s: 472 players
+2026-06-10 04:04:52,882 INFO fetched https://www.basketball-reference.com/players/t/ -> bbr_players_t.html (262417 bytes)
+2026-06-10 04:04:56,525 INFO letter t: 215 players
+2026-06-10 04:04:56,869 INFO fetched https://www.basketball-reference.com/players/u/ -> bbr_players_u.html (133083 bytes)
+2026-06-10 04:05:00,427 INFO letter u: 12 players
+2026-06-10 04:05:00,808 INFO fetched https://www.basketball-reference.com/players/v/ -> bbr_players_v.html (163448 bytes)
+2026-06-10 04:05:04,379 INFO letter v: 61 players
+2026-06-10 04:05:04,738 INFO fetched https://www.basketball-reference.com/players/w/ -> bbr_players_w.html (392850 bytes)
+2026-06-10 04:05:08,958 INFO letter w: 418 players
+2026-06-10 04:05:09,369 INFO fetched https://www.basketball-reference.com/players/x/ -> bbr_players_x.html (125498 bytes)
+2026-06-10 04:05:12,896 INFO letter x: 0 players
+2026-06-10 04:05:13,245 INFO fetched https://www.basketball-reference.com/players/y/ -> bbr_players_y.html (140141 bytes)
+2026-06-10 04:05:16,779 INFO letter y: 23 players
+2026-06-10 04:05:17,132 INFO fetched https://www.basketball-reference.com/players/z/ -> bbr_players_z.html (138758 bytes)
+2026-06-10 04:05:20,662 INFO letter z: 21 players
+2026-06-10 04:05:20,687 INFO wrote 5416 player-index rows; failed letters: []
+2026-06-10 04:05:21,291 INFO fetched https://raw.githubusercontent.com/BryanDfor3/nba-draft-combine-command-center/HEAD/data/nba_draft_combine_data.csv -> nba_draft_combine_anthro.csv (297960 bytes)
+2026-06-10 04:05:22,579 INFO fetched https://en.wikipedia.org/wiki/List_of_NBA_All-Stars -> wikipedia_allstars.html (1237872 bytes)
+2026-06-10 04:05:24,752 INFO parsed 466 distinct All-Star names
+2026-06-10 04:06:42,913 INFO wrote 1309 rows to /Users/arcaman07/Documents/Robotics/Imitation learning/nba_draft_claude/data/processed/historical.csv
+2026-06-10 04:06:42,913 INFO match stats: {'birthdate': 1148, 'combine': 821, 'combine_prev_year': 16, 'listed_htwt': 387, 'allstar': 121}
+2026-06-10 04:06:42,970 INFO wrote coverage report
+2026-06-10 04:07:58,448 INFO cached  nba_draft_combine_anthro.csv (https://raw.githubusercontent.com/BryanDfor3/nba-draft-combine-command-center/HEAD/data/nba_draft_combine_data.csv)
+2026-06-10 04:07:58,448 INFO cached  wikipedia_allstars.html (https://en.wikipedia.org/wiki/List_of_NBA_All-Stars)
+2026-06-10 04:07:58,746 INFO parsed 466 All-Star entries
+2026-06-10 04:07:59,352 INFO wrote 1309 rows to /Users/arcaman07/Documents/Robotics/Imitation learning/nba_draft_claude/data/processed/historical.csv
+2026-06-10 04:07:59,352 INFO match stats: {'birthdate': 1148, 'combine': 821, 'combine_prev_year': 16, 'listed_htwt': 387, 'allstar': 119}
+2026-06-10 04:07:59,397 INFO wrote coverage report

@@ -1,0 +1,46 @@
+player,position,team_school,espn_rank,ringer_rank,yahoo_rank,tankathon_rank,cbs_rank,bleacher_report_rank,mean_rank,median_rank,min_rank,max_rank,spread
+AJ Dybantsa,SF,BYU,1,1,1,3,1,1,1.33,1.0,1,3,2
+Darryn Peterson,SG/PG,Kansas,2,2,2,2,2,2,2,2.0,2,2,0
+Cameron Boozer,PF,Duke,3,3,3,1,3,3,2.67,3.0,1,3,2
+Caleb Wilson,PF,North Carolina,4,4,4,4,4,4,4,4.0,4,4,0
+Keaton Wagler,PG/SG,Illinois,5,9,8,5,5,5,6.17,5.0,5,9,4
+Darius Acuff Jr.,PG,Arkansas,6,6,7,6,6,6,6.17,6.0,6,7,1
+Mikel Brown Jr.,PG,Louisville,7,7,5,9,8,8,7.33,7.5,5,9,4
+Kingston Flemings,PG,Houston,8,8,10,7,7,7,7.83,7.5,7,10,3
+Brayden Burries,SG,Arizona,11,5,9,8,9,9,8.5,9.0,5,11,6
+Nate Ament,SF/PF,Tennessee,9,10,6,10,10,10,9.17,10.0,6,10,4
+Aday Mara,C,Michigan,10,12,11,18,11,12,12.33,11.5,10,18,8
+Yaxel Lendeborg,PF,Michigan,12,14,13,12,12,13,12.67,12.5,12,14,2
+Karim Lopez,SF/PF,New Zealand Breakers,13,27,12,13,15,11,15.17,13.0,11,27,16
+Labaron Philon Jr.,PG,Alabama,16,11,19,11,14,14,14.17,14.0,11,19,8
+Cameron Carr,SG/SF,Baylor,20,15,15,14,20,15,16.5,15.0,14,20,6
+Hannes Steinbach,PF/C,Washington,15,17,18,15,16,18,16.5,16.5,15,18,3
+Morez Johnson Jr.,PF/C,Michigan,14,26,14,17,17,17,17.5,17.0,14,26,12
+Bennett Stirtz,PG,Iowa,19,19,28,20,19,21,21,19.5,19,28,9
+Ebuka Okorie,PG,Stanford,27,16,16,24,24,16,20.5,20.0,16,27,11
+Allen Graves,PF,Santa Clara,17,20,20,23,28,20,21.33,20.0,17,28,11
+Jayden Quaintance,PF/C,Kentucky,22,18,24,19,13,23,19.83,20.5,13,24,11
+Christian Anderson,PG,Texas Tech,18,21,26,22,21,19,21.17,21.0,18,26,8
+Chris Cenac Jr.,PF/C,Houston,21,25,22,16,22,22,21.33,22.0,16,25,9
+Dailyn Swain,SG/SF,Texas,23,13,23,21,25,25,21.67,23.0,13,25,12
+Amari Allen,SF/PF,Alabama,,24,,,,,24,24,24,24,0
+Koa Peat,PF,Arizona,25,29,29,25,18,27,25.5,26.0,18,29,11
+Meleek Thomas,SG/PG,Arkansas,26,30,21,28,,24,25.8,26,21,30,9
+Isaiah Evans,SG/SF,Duke,24,28,34,26,26,28,27.67,27.0,24,34,10
+Henri Veesaar,C,North Carolina,28,23,32,29,23,30,27.5,28.5,23,32,9
+Luigi Suigo,C,Mega Basket,32,,17,34,,26,27.25,29.0,17,34,17
+Zuby Ejiofor,PF/C,St. John's,29,,25,33,,31,29.5,30.0,25,33,8
+Sergio de Larrea,PG/SG,Valencia,34,,27,31,,29,30.25,30.0,27,34,7
+Joshua Jefferson,SF/PF,Iowa State,31,22,35,27,,33,29.6,31,22,35,13
+Alex Karaban,SF/PF,UConn,30,,31,32,,34,31.75,31.5,30,34,4
+Tarris Reed Jr.,C,UConn,33,,33,30,27,32,31,32,27,33,6
+Richie Saunders,SG,BYU,,,,35,,,35,35,35,35,0
+Ryan Conwell,SG,Louisville,35,,37,36,,,36,36,35,37,2
+Maliq Brown,PF,Duke,,,36,,,,36,36,36,36,0
+Baba Miller,PF,Cincinnati,36,,,40,,35,37,36,35,40,5
+Jack Kayil,PG/SG,Alba Berlin,37,,30,,,37,34.67,37,30,37,7
+Braden Smith,PG,Purdue,38,,39,,,38,38.33,38,38,39,1
+Jaden Bradley,PG,Arizona,39,,38,38,,,38.33,38,38,39,1
+Trevon Brazile,PF,Arkansas,40,,,39,,36,38.33,39,36,40,4
+Ugonna Onyenso,C,Virginia,,,40,37,,39,38.67,39,37,40,3
+Izaiyah Nelson,PF,South Florida,,,,,,40,40,40,40,40,0
