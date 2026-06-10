@@ -1,0 +1,22 @@
+{
+  "draft_order_rows": 30,
+  "tankathon_prospects": 71,
+  "consensus_prospects": 108,
+  "combine_rows": 89,
+  "team_context_rows": 30,
+  "rank_sources_used": [
+    "Bleacher Report mock",
+    "CBS mock",
+    "CBS prospect rankings",
+    "NBA Draft Room big board",
+    "Rookie Scale consensus",
+    "Tankathon",
+    "Tankathon mock",
+    "The Ringer big board",
+    "Yahoo/KOC big board"
+  ],
+  "rank_sources_excluded": [
+    "ESPN big board - static fetch returned HTTP 202 shell",
+    "NBA Draft.net measurements - HTTP 403"
+  ]
+}

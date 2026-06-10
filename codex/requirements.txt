@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+joblib
+requests
+beautifulsoup4
+lxml
+Pillow
+yt-dlp
+reportlab

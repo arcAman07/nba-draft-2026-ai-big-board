@@ -1,0 +1,109 @@
+norm_name,name,sources_count,consensus_mean,consensus_median,consensus_std,consensus_min,consensus_max,sources,rank_tankathon,rank_rookie_scale_consensus,rank_cbs_prospect_rankings,rank_bleacher_report_mock,rank_nba_draft_room_big_board,rank_tankathon_mock,rank_cbs_mock,rank_yahoo_koc_big_board,rank_the_ringer_big_board
+aj dybantsa,AJ Dybantsa,9,1.3333333333333333,1.0,0.6666666666666667,1,3,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,3.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0
+darryn peterson,Darryn Peterson,9,2.111111111111111,2.0,0.3142696805273545,2,3,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,2.0,2.0,2.0,2.0,2.0,2.0,2.0,3.0,2.0
+cameron boozer,Cameron Boozer,9,2.6666666666666665,3.0,0.9428090415820634,1,4,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,1.0,3.0,3.0,3.0,4.0,3.0,3.0,1.0,3.0
+caleb wilson,Caleb Wilson,9,3.888888888888889,4.0,0.3142696805273545,3,4,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,4.0,4.0,4.0,4.0,3.0,4.0,4.0,4.0,4.0
+keaton wagler,Keaton Wagler,9,5.444444444444445,5.0,0.9558139185602919,5,8,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,5.0,5.0,5.0,5.0,8.0,5.0,5.0,6.0,5.0
+darius acuff,Darius Acuff Jr.,9,6.222222222222222,6.0,0.41573970964154905,6,7,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,6.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,7.0
+kingston flemings,Kingston Flemings,8,7.5,7.0,1.5811388300841898,5,11,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,7.0,8.0,7.0,7.0,5.0,7.0,8.0,,11.0
+mikel brown,Mikel Brown Jr.,9,7.888888888888889,8.0,1.5234788000891208,5,10,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,9.0,7.0,8.0,8.0,7.0,10.0,7.0,5.0,10.0
+brayden burries,Brayden Burries,9,8.555555555555555,9.0,1.0657403385139377,6,10,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,8.0,10.0,9.0,9.0,9.0,9.0,9.0,8.0,6.0
+yaxel lendeborg,Yaxel Lendeborg,7,11.571428571428571,12.0,1.498298354528788,8,13,Bleacher Report mock;CBS mock;CBS prospect rankings;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,12.0,12.0,12.0,13.0,,12.0,12.0,,8.0
+aday mara,Aday Mara,9,11.666666666666666,11.0,2.748737083745107,8,18,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,18.0,11.0,11.0,12.0,11.0,8.0,11.0,9.0,14.0
+nate ament,Nate Ament,9,11.777777777777779,10.0,3.392075004994166,9,19,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board;Yahoo/KOC big board,10.0,9.0,10.0,10.0,17.0,11.0,10.0,10.0,19.0
+labaron philon,Labaron Philon Jr.,8,12.5,13.0,1.6583123951777,9,14,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,11.0,14.0,14.0,14.0,12.0,13.0,13.0,,9.0
+karim lopez,Karim López,6,15.166666666666666,13.0,5.367080729368206,11,27,Bleacher Report mock;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,13.0,13.0,,11.0,13.0,14.0,,,27.0
+cameron carr,Cameron Carr,6,15.5,15.0,1.2583057392117916,14,18,Bleacher Report mock;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,14.0,18.0,,15.0,16.0,15.0,,,15.0
+hannes steinbach,Hannes Steinbach,8,16.125,16.0,2.9764702249476644,10,21,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,15.0,15.0,16.0,18.0,10.0,18.0,16.0,,21.0
+morez johnson,Morez Johnson Jr.,6,18.166666666666668,17.0,3.2360813064912666,14,23,Bleacher Report mock;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,17.0,16.0,,17.0,14.0,22.0,,,23.0
+jayden quaintance,Jayden Quaintance,6,19.166666666666668,18.0,5.145116346811044,12,28,Bleacher Report mock;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,19.0,17.0,,23.0,28.0,16.0,,,12.0
+bennett stirtz,Bennett Stirtz,8,19.75,19.5,1.920286436967152,16,23,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,20.0,19.0,19.0,21.0,23.0,19.0,21.0,,16.0
+chris cenac,Chris Cenac Jr.,7,19.857142857142858,21.0,2.8996833043120627,15,23,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,16.0,21.0,22.0,22.0,15.0,20.0,23.0,,
+dailyn swain,Dailyn Swain,8,20.0,20.0,3.840572873934304,13,25,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,21.0,22.0,25.0,25.0,19.0,17.0,18.0,,13.0
+ebuka okorie,Ebuka Okorie,8,22.5,23.5,2.8284271247461903,16,26,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,24.0,24.0,24.0,16.0,21.0,23.0,26.0,,22.0
+allen graves,Allen Graves,8,22.625,23.0,3.5333235062756425,18,28,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,23.0,23.0,28.0,20.0,18.0,24.0,27.0,,18.0
+christian anderson,Christian Anderson,6,22.833333333333332,21.5,3.435921354681384,19,28,Bleacher Report mock;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,22.0,20.0,,19.0,27.0,21.0,,,28.0
+koa peat,Koa Peat,8,24.375,25.0,2.8256636388643286,18,27,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,25.0,25.0,18.0,27.0,25.0,27.0,22.0,,26.0
+henri veesaar,Henri Veesaar,8,24.75,25.0,3.897114317029974,17,30,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,29.0,27.0,23.0,30.0,22.0,25.0,25.0,,17.0
+isaiah evans,Isaiah Evans,6,27.166666666666668,26.0,2.852873794770615,24,33,Bleacher Report mock;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,26.0,26.0,,28.0,33.0,26.0,,,24.0
+meleek thomas,Meleek Thomas,8,27.5,28.0,2.345207879911715,24,32,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,28.0,28.0,32.0,24.0,26.0,28.0,29.0,,25.0
+tarris reed,Tarris Reed Jr.,8,28.125,30.0,3.9191038516477206,20,32,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,30.0,31.0,27.0,32.0,20.0,31.0,24.0,,30.0
+joshua jefferson,Joshua Jefferson,7,29.142857142857142,30.0,4.15515416349971,20,33,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,27.0,32.0,30.0,33.0,32.0,30.0,,,20.0
+luigi suigo,Luigi Suigo,6,30.333333333333332,31.5,4.268749491621899,24,35,Bleacher Report mock;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock;The Ringer big board,34.0,35.0,,26.0,24.0,34.0,,,29.0
+zuby ejiofor,Zuby Ejiofor,7,30.714285714285715,30.0,1.577908716741037,29,33,Bleacher Report mock;CBS mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,33.0,30.0,29.0,31.0,29.0,33.0,30.0,,
+alex karaban,Alex Karaban,6,31.5,31.5,2.0615528128088303,29,34,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,32.0,29.0,31.0,34.0,34.0,29.0,,,
+baba miller,Baba Miller,6,37.0,37.0,2.0816659994661326,34,40,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,40.0,34.0,37.0,35.0,39.0,37.0,,,
+ryan conwell,Ryan Conwell,6,37.0,36.0,4.281744192888376,32,46,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,36.0,36.0,36.0,46.0,36.0,32.0,,,
+sergio de larrea,Sergio de Larrea,5,37.2,33.0,8.726969691708572,29,53,Bleacher Report mock;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,31.0,33.0,,29.0,53.0,40.0,,,
+trevon brazile,Trevon Brazile,6,37.666666666666664,38.0,1.699673171197595,35,40,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,39.0,40.0,38.0,36.0,35.0,38.0,,,
+richie saunders,Richie Saunders,6,38.666666666666664,36.5,4.714045207910317,35,48,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,35.0,38.0,35.0,41.0,48.0,35.0,,,
+jaden bradley,Jaden Bradley,6,39.166666666666664,40.0,4.13991411612474,31,44,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,38.0,39.0,41.0,44.0,31.0,42.0,,,
+jakobi gillespie,Ja’kobi Gillespie,1,40.0,40.0,0.0,40,40,NBA Draft Room big board,,,,,40.0,,,,
+jack kayil,Jack Kayil,5,41.6,41.0,4.8,37,50,Bleacher Report mock;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,41.0,50.0,,37.0,37.0,43.0,,,
+braden smith,Braden Smith,6,42.0,41.0,6.082762530298219,34,50,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,50.0,37.0,34.0,38.0,49.0,44.0,,,
+otega oweh,Otega Oweh,6,42.333333333333336,42.5,2.3570226039551585,39,46,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,42.0,46.0,40.0,43.0,44.0,39.0,,,
+ugonna onyenso,Ugonna Onyenso,6,43.5,40.0,8.88350531415762,36,62,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,37.0,41.0,46.0,39.0,62.0,36.0,,,
+emanuel sharp,Emanuel Sharp,5,44.2,45.0,1.16619037896906,42,45,Bleacher Report mock;CBS prospect rankings;Rookie Scale consensus;Tankathon;Tankathon mock,45.0,44.0,42.0,45.0,,45.0,,,
+ja kobi gillespie,Ja'Kobi Gillespie,5,44.8,45.0,1.7204650534085253,42,47,Bleacher Report mock;CBS prospect rankings;Rookie Scale consensus;Tankathon;Tankathon mock,44.0,42.0,45.0,47.0,,46.0,,,
+nick martinelli,Nick Martinelli,6,49.5,46.5,9.945685831890462,41,70,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,43.0,51.0,70.0,42.0,50.0,41.0,,,
+izaiyah nelson,Izaiyah Nelson,6,49.666666666666664,50.0,5.647024782032472,40,57,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,46.0,49.0,57.0,40.0,55.0,51.0,,,
+tyler bilodeau,Tyler Bilodeau,5,49.8,52.0,6.273754856543249,42,58,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,52.0,54.0,43.0,,42.0,58.0,,,
+bruce thornton,Bruce Thornton,6,49.833333333333336,47.5,5.580223014261069,44,58,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,47.0,45.0,44.0,57.0,58.0,48.0,,,
+dillon mitchell,Dillon Mitchell,6,50.0,49.5,6.831300510639732,41,60,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,60.0,43.0,49.0,50.0,41.0,57.0,,,
+tyler nickel,Tyler Nickel,5,51.4,49.0,4.841487374764082,48,61,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,49.0,48.0,50.0,,61.0,49.0,,,
+milos uzan,Milos Uzan,6,51.5,49.5,5.439056290693573,47,63,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,48.0,52.0,48.0,51.0,63.0,47.0,,,
+tobi lawal,Tobi Lawal,6,52.166666666666664,53.0,3.3374973990834644,47,57,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,57.0,47.0,52.0,49.0,54.0,54.0,,,
+wyatt fricks,Wyatt Fricks,1,53.0,53.0,0.0,53,53,Bleacher Report mock,,,,53.0,,,,,
+keyshawn hall,Keyshawn Hall,6,53.666666666666664,55.5,7.2033942616581035,38,59,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,59.0,56.0,55.0,59.0,38.0,55.0,,,
+felix okpara,Felix Okpara,6,54.333333333333336,54.5,2.4267032964268394,50,57,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,53.0,57.0,54.0,55.0,57.0,50.0,,,
+maliq brown,Maliq Brown,6,55.833333333333336,53.5,6.618576550554927,51,70,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,51.0,55.0,51.0,56.0,70.0,52.0,,,
+kylan boswell,Kylan Boswell,6,56.0,54.5,6.879922480183431,47,69,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,56.0,53.0,47.0,52.0,69.0,59.0,,,
+emanuel sharpe,Emanuel Sharpe,1,56.0,56.0,0.0,56,56,NBA Draft Room big board,,,,,56.0,,,,
+aaron nkrumah,Aaron Nkrumah,5,56.6,53.0,9.76933979345585,46,71,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon,65.0,71.0,53.0,48.0,46.0,,,,
+pavle backo,Pavle Backo,4,56.75,57.5,18.48479104561369,30,82,NBA Draft Room big board;Rookie Scale consensus;Tankathon;Tankathon mock,55.0,82.0,,,30.0,60.0,,,
+tamin lipsey,Tamin Lipsey,4,57.5,57.5,4.031128874149275,53,62,CBS prospect rankings;Rookie Scale consensus;Tankathon;Tankathon mock,54.0,61.0,62.0,,,53.0,,,
+quadir copeland,Quadir Copeland,4,57.75,61.0,8.757139944068497,43,66,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon,61.0,66.0,61.0,,43.0,,,,
+rafael castro,Rafael Castro,5,58.6,58.0,2.3323807579381204,56,63,Bleacher Report mock;CBS prospect rankings;Rookie Scale consensus;Tankathon;Tankathon mock,58.0,63.0,58.0,58.0,,56.0,,,
+nate bittle,Nate Bittle,3,60.0,60.0,3.265986323710904,56,64,CBS prospect rankings;Rookie Scale consensus;Tankathon,64.0,60.0,56.0,,,,,,
+bryce hopkins,Bryce Hopkins,4,61.0,59.5,3.5355339059327378,58,67,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon,67.0,58.0,60.0,,59.0,,,,
+trey kaufman renn,Trey Kaufman-Renn,5,61.8,62.0,8.818163074019441,47,74,Bleacher Report mock;CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon,66.0,62.0,74.0,60.0,47.0,,,,
+lamar wilkerson,Lamar Wilkerson,3,64.0,69.0,9.273618495495704,51,72,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus,,69.0,72.0,,51.0,,,,
+nick boyd,Nick Boyd,4,65.75,64.0,6.417748826496718,59,76,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon,62.0,76.0,59.0,,66.0,,,,
+tucker devries,Tucker DeVries,3,66.0,65.0,2.160246899469287,64,69,CBS prospect rankings;Rookie Scale consensus;Tankathon,69.0,64.0,65.0,,,,,,
+jaron pierre,Jaron Pierre Jr.,2,67.0,67.0,3.0,64,70,CBS prospect rankings;Rookie Scale consensus,,70.0,64.0,,,,,,
+malik reneau,Malik Reneau,4,67.25,66.5,3.766629793329841,63,73,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus;Tankathon,68.0,73.0,63.0,,65.0,,,,
+darrion williams,Darrion Williams,3,67.33333333333333,70.0,6.018490028422596,59,73,CBS prospect rankings;Rookie Scale consensus;Tankathon,70.0,59.0,73.0,,,,,,
+duke miles,Duke Miles,3,67.33333333333333,65.0,11.953614051360738,54,83,Bleacher Report mock;CBS prospect rankings;Rookie Scale consensus,,65.0,83.0,54.0,,,,,
+malique lewis,Malique Lewis,2,67.5,67.5,0.5,67,68,NBA Draft Room big board;Rookie Scale consensus,,68.0,,,67.0,,,,
+tobe awaka,Tobe Awaka,3,70.0,68.0,3.559026084010437,67,75,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus,,67.0,75.0,,68.0,,,,
+peter suder,Peter Suder,3,71.0,66.0,9.273618495495704,63,84,CBS prospect rankings;Rookie Scale consensus;Tankathon,63.0,84.0,66.0,,,,,,
+cade tyson,Cade Tyson,2,71.0,71.0,4.0,67,75,CBS prospect rankings;Rookie Scale consensus,,75.0,67.0,,,,,,
+jaden henley,Jaden Henley,2,73.0,73.0,4.0,69,77,CBS prospect rankings;Rookie Scale consensus,,77.0,69.0,,,,,,
+michael ajayi,Michael Ajayi,1,74.0,74.0,0.0,74,74,Rookie Scale consensus,,74.0,,,,,,,
+seth trimble,Seth Trimble,3,74.33333333333333,80.0,10.208928554075703,60,83,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus,,83.0,80.0,,60.0,,,,
+melvin council,Melvin Council Jr.,3,76.0,82.0,17.663521732655695,52,94,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus,,94.0,82.0,,52.0,,,,
+noam yaacov,Noam Yaacov,1,76.0,76.0,0.0,76,76,Rookie Scale consensus,,76.0,,,,,,,
+fletcher loyer,Fletcher Loyer,3,76.66666666666667,88.0,22.691163233490013,45,97,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus,,88.0,97.0,,45.0,,,,
+mark mitchell,Mark Mitchell,3,77.0,72.0,7.788880963698615,71,88,CBS prospect rankings;Rookie Scale consensus;Tankathon,71.0,72.0,88.0,,,,,,
+graham ike,Graham Ike,2,78.0,78.0,1.0,77,79,CBS prospect rankings;Rookie Scale consensus,,79.0,77.0,,,,,,
+jaxon kohler,Jaxon Kohler,3,81.0,86.0,12.355835328567093,64,93,CBS prospect rankings;NBA Draft Room big board;Rookie Scale consensus,,93.0,86.0,,64.0,,,,
+chris bell,Chris Bell,1,81.0,81.0,0.0,81,81,CBS prospect rankings,,,81.0,,,,,,
+elijah mahi,Elijah Mahi,2,82.0,82.0,3.0,79,85,CBS prospect rankings;Rookie Scale consensus,,85.0,79.0,,,,,,
+ernest udeh,Ernest Udeh Jr.,2,85.5,85.5,9.5,76,95,CBS prospect rankings;Rookie Scale consensus,,95.0,76.0,,,,,,
+oscar cluff,Oscar Cluff,2,86.0,86.0,6.0,80,92,CBS prospect rankings;Rookie Scale consensus,,80.0,92.0,,,,,,
+vsevolod ishchenko,Vsevolod Ishchenko,1,86.0,86.0,0.0,86,86,Rookie Scale consensus,,86.0,,,,,,,
+xaivian lee,Xaivian Lee,2,88.0,88.0,10.0,78,98,CBS prospect rankings;Rookie Scale consensus,,78.0,98.0,,,,,,
+josh dix,Josh Dix,2,88.5,88.5,1.5,87,90,CBS prospect rankings;Rookie Scale consensus,,90.0,87.0,,,,,,
+tre donaldson,Tre Donaldson,1,89.0,89.0,0.0,89,89,CBS prospect rankings,,,89.0,,,,,,
+donovan atwell,Donovan Atwell,2,91.0,91.0,1.0,90,92,CBS prospect rankings;Rookie Scale consensus,,92.0,90.0,,,,,,
+william kyle,William Kyle III,2,91.0,91.0,4.0,87,95,CBS prospect rankings;Rookie Scale consensus,,87.0,95.0,,,,,,
+ben humrichous,Ben Humrichous,1,91.0,91.0,0.0,91,91,CBS prospect rankings,,,91.0,,,,,,
+jalen washington,Jalen Washington,1,91.0,91.0,0.0,91,91,Rookie Scale consensus,,91.0,,,,,,,
+lajae jones,Lajae Jones,2,92.0,92.0,8.0,84,100,CBS prospect rankings;Rookie Scale consensus,,100.0,84.0,,,,,,
+tre white,Tre White,2,92.5,92.5,3.5,89,96,CBS prospect rankings;Rookie Scale consensus,,89.0,96.0,,,,,,
+chase ross,Chase Ross,1,93.0,93.0,0.0,93,93,CBS prospect rankings,,,93.0,,,,,,
+kowacie reeves,Kowacie Reeves Jr.,1,97.0,97.0,0.0,97,97,Rookie Scale consensus,,97.0,,,,,,,
+isaac mckneely,Isaac McKneely,2,98.0,98.0,2.0,96,100,CBS prospect rankings;Rookie Scale consensus,,96.0,100.0,,,,,,
+tre carroll,Tre Carroll,1,98.0,98.0,0.0,98,98,Rookie Scale consensus,,98.0,,,,,,,
+kashie natt,Kashie Natt,1,99.0,99.0,0.0,99,99,Rookie Scale consensus,,99.0,,,,,,,
+nimari burnett,Nimari Burnett,1,99.0,99.0,0.0,99,99,CBS prospect rankings,,,99.0,,,,,,

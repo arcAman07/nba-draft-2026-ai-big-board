@@ -1,0 +1,28 @@
+{
+  "url": "https://combine.nba.com/config.json",
+  "source_id": "combine_data_hub_config_2026",
+  "provided": "NBA/AWS Draft Combine Data Hub configuration showing embedded QuickSight dashboard metadata.",
+  "status_code": 200,
+  "headers": {
+    "Content-Type": "binary/octet-stream",
+    "Content-Length": "1177",
+    "Connection": "keep-alive",
+    "Date": "Wed, 10 Jun 2026 08:43:03 GMT",
+    "Last-Modified": "Fri, 15 May 2026 19:42:58 GMT",
+    "ETag": "\"678b02002e57d324f932b5616c255635\"",
+    "x-amz-server-side-encryption": "AES256",
+    "Accept-Ranges": "bytes",
+    "Server": "AmazonS3",
+    "X-Cache": "Hit from cloudfront",
+    "Via": "1.1 d73fe43a0a2e6638e0427bc7769f5c74.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "BOM78-P10",
+    "X-Amz-Cf-Id": "GNY_9nUquQN_OF6tEVnH_w54pZE1yyBdOY4x8lm8OxIPXs7BtU3SIA==",
+    "Age": "487",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Strict-Transport-Security": "max-age=31536000"
+  },
+  "fetched_at": "2026-06-10T14:21:10+05:30"
+}

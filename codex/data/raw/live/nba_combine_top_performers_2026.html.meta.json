@@ -1,0 +1,32 @@
+{
+  "url": "https://www.nba.com/news/2026-nba-draft-combine-top-performers",
+  "source_id": "nba_combine_top_performers_2026",
+  "provided": "NBA.com combine article with official context, drill leaders, selected measurements, and shooting drill results.",
+  "status_code": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Set-Cookie": "bm_ss=ab8e18ef4e; Secure; SameSite=None; Domain=.nba.com; Path=/; HttpOnly; Max-Age=3600, _abck=A150134FF4A6958B8351795282C19086~-1~YAAQhdcLF3GRjayeAQAAyme6sBDj4AHGtHKTm6Mbx4MuDfmcVFJ9fwSP2pPCxxZkWSaoYgNSJb64wpvvIxPjEpgA75gb+qv7OTbMG19ara+RWKoUpoRN+v1peO60EplIAZAuX0P2iBoC+LheNYYy9Yx5MFo9uxMN0zQIRVTzYPDQmQ99+GtoCArSMHS8aAzR7cvEalmcdDgufevYE/4OOByTgEbiyC6xBO4cvKO6IW8hvvGd9jVv/6MubyJwwjU5lRVmx28Ztk3h05JS9Saky1SQpwPDVFUub8sTHVkKwdIFh4l/Y1OCFQM1GVkNDhtytHNS3LDtuVeVYWVVQyM/PoMYAh7fJf6yL7cvl1dKxZ4oaYM5H5ETJ0H0f53gPhOe42toRdmJOyi6U+AnaORzhoSl41FDmzTJzh+kGTsutkwmIaZIT//fE9hdMTHruZbjMJb7kss=~-1~-1~-1~-1~-1; Domain=.nba.com; Path=/; Expires=Thu, 10 Jun 2027 08:51:06 GMT; Max-Age=31536000; Secure, bm_s=YAAQhdcLF3KRjayeAQAAyme6sAUXDGoRGr8Ji26Jc2y/1RjL/7vDrJKwPub5HcE8PHqY0t50MU/eOucJhJVNZXgAjrEik3vSEE94NKKBkJGTHdNJ64+DAKZ+PYSoI24ISuKW2qUJM6T/ZiU2cHrwoULCiLE0sH0i4IVql+GeZ7BcGAKPR+UFHBkUfv7TmS5erPujllFKklG6u27Wrmi68T3DePPDjnhPJCDojDN5BxpDYHY6WUdNfivuE/FxJ7bab4os+RvLUROyMHzGG3QS/gspqDUh8fR5NrimAwkVQ2orhU4PX6+2BKsd5dIUY8oe2g9C5wQ/2Ce+Fl2tQelim6JXFe6LwGy0QRBZxzvaR7QbsDo3XbH72/1Qwt8IF1INBnigogibDKtvhj3ESX2Dx1p9Z+8fEGEOQVEAEXcvWFX+1ZFSk7R4B3W4yGecI1sSV9PEAc10dbkfsKc9t19T3oUR4PNU29MgNopytGjFHIRhB5YcriP37ELvx6zF64f/RlZaV8k6lGeB2epi9CX7iGFBTw/k6tT3OM4u6R3MZJB5nCkQGpWnCwSQJKKKbVXwrBftdvAt9SkxGTvZ4k8x7cUN9v/rmkQKFCCl9sqoFL5dwNYFdXEgW2+llIp+UCZL7W9FRuLVdsgDAA1SIBZs9jkljSPWcjU/dHbU9IWWT0YRAfO2xxDIFIEqEh+ZPPWk5gY/9KFOSu6Ke6gvK+lH73sSnWc6wJvpuvDudP0E57Nv725MaLbKiQbfRoD8FGoOcgN+JLemggMK2Pk0EFvm3g4iF8ykmMyriZNbelJYmbdFhrs4bVnmjTCdDGGUVQ04etuE6k5VWLt4vWNFxOeFVBaNhMzyDg==; Domain=.nba.com; Path=/; Expires=Sat, 11 Jul 2026 08:51:06 GMT; Max-Age=2678400; Secure; HttpOnly, bm_so=5B0F5558D0A98F5807751E16B4B1D335A3962456AD3571C25BE8BEE18406CA3B~YAAQhdcLF3ORjayeAQAAyme6sAfw3SUImYeaTMCTUN0bdAfsiMt+JOFaj0vp4FInizncbMwPar72yzCzIzEHV0AA7CPaFVpRdCKEmbDOzkdaGPEGM77ZklHkfNHz1DopA+Cdn4ZptHJwiePOH1cJIh3WFpE4x/m8tdPdLZnyYjvDsdbUOephNQtlyQ1Y17NGWE3xuXA7l6k+lsqWcgRy3sonzjHIjpZpySsOPidoFEjomGn+eNFJdOuIzjtZT4Qjnht9Rcd5mF6HhcVaR/nvGCRkHekoB3A7AjJSs8EkXQS+kJhmOYeKlfMbTkvrvm2L3i4ID+xFnPKQdMaERWc3pM2IETgwNFMJ9nHeskkx634yhzyNXW24LvKWf31dNrVffhI1jmVMCZ2jhzWn1riPMH8ukVpH+qa7Q0dfO68gY/qEd6FgA3xZny3zzvEQFjeUKv7rLgEtlZbS2KXKFwZIfCc=; Domain=.nba.com; Path=/; Expires=Thu, 11 Jun 2026 08:51:06 GMT; Max-Age=86400; Secure, bm_sz=BEC6F15F80D90B80FFFC8CDAB92C4FE0~YAAQhdcLF3SRjayeAQAAyme6sAB9rLF3mLmnDP+CtIJu3gEMCFFoN/8QCWb3TCB46uH0cC2qRJp1Bopr9rEaGZ2szjGOLmdjoq+z0iRLkMikFMRoR0T3TeLK+ipi28wFI/9bI5vbctLvXp2rZgBNvorb6jS58uS2XYOugYSKBEhrSVAd0iSQJR+ILFt3XbWIDo4vfjvAHwLLAW/bEqgmoUPKvL3G0XkldYkmm0+O65oI8kSq9oOYXS7Zc6sKZSAoTFcPDb0+jufVJHUGP1PAh/twdToMpLUhFWTxskrUz+NNc2U+1ZvRzq1HZdbGt7v6and5OsBfGFie0x35bfKGNDZo3/pj47TGwSeeEjNlbwYqYPE/5tsIc02/KUkOuxOk3lpM~3683126~4535093; Domain=.nba.com; Path=/; Expires=Wed, 10 Jun 2026 12:51:05 GMT; Max-Age=14399",
+    "ETag": "\"17x9oqqr7wq7oc0\"",
+    "Strict-Transport-Security": "max-age=86400",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Frame-Options": "sameorigin",
+    "Vary": "Accept-Encoding",
+    "x-envoy-upstream-service-time": "141",
+    "x-cache-ability": "uncacheable",
+    "x-hits": "0",
+    "x-status": "miss",
+    "x-vcl-version": "NBA.com prod 1.7b",
+    "x-varnish": "758727592",
+    "x-full-ttl": "300.000",
+    "X-Akamai-Transformed": "0 356852 0 -",
+    "Content-Encoding": "gzip",
+    "Expires": "Wed, 10 Jun 2026 08:51:06 GMT",
+    "Cache-Control": "max-age=0, no-cache, no-store",
+    "Pragma": "no-cache",
+    "Date": "Wed, 10 Jun 2026 08:51:06 GMT",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive, Transfer-Encoding"
+  },
+  "fetched_at": "2026-06-10T14:21:06+05:30"
+}

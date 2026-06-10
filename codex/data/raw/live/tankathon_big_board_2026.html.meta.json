@@ -1,0 +1,30 @@
+{
+  "url": "https://www.tankathon.com/big-board",
+  "source_id": "tankathon_big_board_2026",
+  "provided": "External big board, prospect biographical fields, per-game/per-36 and advanced stat display.",
+  "status_code": 200,
+  "headers": {
+    "Cache-Control": "max-age=0, private, must-revalidate",
+    "Content-Length": "1000790",
+    "Content-Type": "text/html; charset=utf-8",
+    "Etag": "W/\"5124f48364695f0c26f2da3124887584\"",
+    "Link": "<https://d13084n5ydpt71.cloudfront.net/assets/big_board-a46efd75ac18487c63d93e25164473de548312a51faa323d4787b3c9479e1b52.js>; rel=preload; as=script; nopush,<https://d13084n5ydpt71.cloudfront.net/assets/nba-ec881797bb4a76ea39855b5f20546fcc7c1e3a49016ff5638b9f5c6b7deb5db3.css>; rel=preload; as=style; nopush,<https://d13084n5ydpt71.cloudfront.net/assets/freestar_cls-860896f4ca52365e9958cd175338a83c7ac2a8ba5e64e4ce50df8a2372be69fb.css>; rel=preload; as=style; nopush,<https://d13084n5ydpt71.cloudfront.net/assets/application-e078cf9ef483988a1d5ff7bf62c1497f2fecaba8d9cb7b1e8074100a36e1bc7b.js>; rel=preload; as=script; nopush,<https://d13084n5ydpt71.cloudfront.net/assets/ads-c6e1a97d21219a750d77faab8056281e8dd110dff7e88aaac4c4fba1fa7db9ec.js>; rel=preload; as=script; nopush",
+    "Nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Report-To": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=aOvM0jGRm7akY%2BXiMFiHkiY2apkGRK0wJ9biz12Z8YM%3D\\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\\u0026ts=1781044205\"}],\"max_age\":3600}",
+    "Reporting-Endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=aOvM0jGRm7akY%2BXiMFiHkiY2apkGRK0wJ9biz12Z8YM%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1781044205\"",
+    "Server": "Heroku",
+    "Set-Cookie": "_tankathon_session=zUbTMY02vh2dWCwl7W0%2Ff3S3XcSYuIVohJFUqJP2MsFwWkRKdRW6PcsAeTAHMe%2B7LtNEykFkmnjxyOssYbfBUL3rSnlKZ3S9fWhRsMiEOYDVC3nXPFvy6q4lm%2B%2F%2BnWcR7x8KDZG3XgVtTnZpyZXI2W%2FQXEqhV%2F%2FJn7hJOGevJypl48zIghBr7b%2FXIle%2BJ9ruowaY8e4MotYXeuXWPFXiNUdgklaCAvZVrOFLuGj5ikdh5Vy0MenotYL7b1NuqZFjskwn1YDqXeT3hDBr7YM6gbhhg4Asm5vWzIQ%3D--y2s8FQQueRcTtQ7C--eawbWZNYbGjiGOtUDxwXXA%3D%3D; path=/; secure; httponly; samesite=lax",
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+    "Via": "1.1 heroku-router",
+    "X-Content-Type-Options": "nosniff",
+    "X-Download-Options": "noopen",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Permitted-Cross-Domain-Policies": "none",
+    "X-Request-Id": "9792ca2e-a7e7-f31b-a03f-1d43a9825a19",
+    "X-Runtime": "0.130403",
+    "X-Xss-Protection": "0",
+    "Date": "Tue, 09 Jun 2026 22:30:05 GMT"
+  },
+  "fetched_at": "2026-06-10T04:00:07+05:30"
+}

@@ -1,0 +1,11 @@
+{
+  "url": "https://stats.nba.com/stats/draftcombineplayeranthro",
+  "source_id": "nba_stats_draftcombineplayeranthro_2026-27",
+  "provided": "NBA combine anthropometrics",
+  "params": {
+    "LeagueID": "00",
+    "SeasonYear": "2026-27"
+  },
+  "error": "HTTPSConnectionPool(host='stats.nba.com', port=443): Read timed out. (read timeout=45)",
+  "fetched_at": "2026-06-10T04:01:13+05:30"
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://www.nba.com/news/nba-announces-73-players-invited-to-2026-nba-draft-combine",
+  "source_id": "nba_combine_invitees_2026",
+  "provided": "NBA.com official list of 73 players invited to the 2026 NBA Draft Combine.",
+  "status_code": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "ETag": "\"waxtpv8a0l7976\"",
+    "Strict-Transport-Security": "max-age=86400",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Frame-Options": "sameorigin",
+    "Vary": "Accept-Encoding",
+    "x-envoy-upstream-service-time": "220",
+    "x-cache-ability": "uncacheable",
+    "x-hits": "0",
+    "x-status": "miss",
+    "x-vcl-version": "NBA.com prod 1.7b",
+    "x-varnish": "766549083",
+    "x-full-ttl": "300.000",
+    "X-Akamai-Transformed": "0 336866 0 -",
+    "Content-Encoding": "gzip",
+    "Expires": "Wed, 10 Jun 2026 08:51:09 GMT",
+    "Cache-Control": "max-age=0, no-cache, no-store",
+    "Pragma": "no-cache",
+    "Date": "Wed, 10 Jun 2026 08:51:09 GMT",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive, Transfer-Encoding",
+    "Set-Cookie": "bm_s=YAAQhdcLF+6WjayeAQAAaHC6sAVPXBZlJJe2Gu5vHO/mFnK2idH63BVQdYw09X1H+i+9Gg+e6Ccdc74cpFiTntatNyOogHhmBtxv3/Q58h3DW+fBuHZU4PuQkNvemUhSkJugPX1Ih1h9p21B6xYp5AtCdaOAQxbBjFqtoRy7/TyUJZzuB9lWBdh83GN1SIE2GKNDf8YJ6fleiHU8MU+8J6SlNx+R5/ziD+ssGFMsMXDQP+gblvdb6SQJXQpPVufobFJ8KFsqeIJXtFSFQoS1Q4lDsVkfXObnbPcoEQBxYRGhhtXqyl5J2qR20te1jtqaqmRt3Vy/YqxT5LDftTbGMKoHJr51+dyQG7v1nyYuREnhcwNKGvxG6Hc5kTyygBA8SnkVPeOxTCbSrewV09sIZHR8g0kW54GgY+Sv55T7znBEK0+tGuXG6kl3KvFXAUmPP7FVlnY8/lV901Oh58hrOMewWfjLr2uRFNoa8ZVqa2Wm+zxdG6RxWfeXTSY4jTKcnCjBVjltbtiZMXSoa2AWAkVK+XaD15sqqJcWPCS6fxLf2QzknshySfOBZ25KwprSLgFwMYsEj+1e9qHuT7Y4MfHtlayImynmNaxePeFUBgVbO5wPNUwDfY4V+hQxATN0mDLo8T2U73ncw/IouRD9CHM0iHU/NU/boONyczfGw1AAaS8/VJht4DqH6Ho7fUrqah9nbESpnZ8XEQlvfhzXFp4QvXlDLr+5gV7Sxb0owo3fxCtU9d3qYp9BAtPMid0E4Q7U2HJDLU8ZEexsg08Gl9fbtgY82rvUaP7ntPp/EIx06f88eOVYvLH9CoBaXChZjwEdhhnpT9LeEP0oPkbQ40vzgLKZaQ==; Domain=.nba.com; Path=/; Expires=Sat, 11 Jul 2026 08:51:09 GMT; Max-Age=2678400; Secure; HttpOnly, bm_sz=BEC6F15F80D90B80FFFC8CDAB92C4FE0~YAAQhdcLF++WjayeAQAAaHC6sADlgSwaCssT13AyJKKENAwFy8zqR1dmpPFiMgM86rAvslVD5LUO+E4zDMbW5A23SqBd7bVxKwJSH5SaOxtNjfyJL51TtmM5mRG/COmQuC/wSWV5uZt+kL/LGMyRdA0CZ8ITv8CrsPy2STgSeeg01Ky2QddATgWOwxfOD++s2Z0fzJpR27vCfeRpHHaPSuyHNeMpfB0n7Ee/GCcxw218mkyOw72zYfUSUrHos/KDjgwERxCTWy9ytp80PbVSWhHpsCIcg0jyWLlS4u+81YvHFDJFZiUrlX2hwCXWtXATsfd4pTqHh6MFPYelfiU2MBdU1hwTQkOkjJwMyed8T3E3SsVfl9tQXiH6Zq3gBw0tdNjX8a9TyPM=~3683126~4535093; Domain=.nba.com; Path=/; Expires=Wed, 10 Jun 2026 12:51:05 GMT; Max-Age=14396"
+  },
+  "fetched_at": "2026-06-10T14:21:09+05:30"
+}

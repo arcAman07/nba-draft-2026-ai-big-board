@@ -1,0 +1,31 @@
+{
+  "url": "https://www.noceilingsnba.com/p/the-2026-nba-combine-week-recap",
+  "source_id": "noceilings_combine_recap_2026",
+  "provided": "No Ceilings combine recap and sourced scouting notes where accessible.",
+  "status_code": 200,
+  "headers": {
+    "Date": "Tue, 09 Jun 2026 22:30:27 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a09394b658de4720-BOM",
+    "CF-Cache-Status": "HIT",
+    "Cache-Control": "no-cache",
+    "Server-Timing": "cfCacheStatus;desc=\"HIT\", cfEdge;dur=7,cfOrigin;dur=0,cfWorker;dur=210",
+    "Set-Cookie": "ab_experiment_sampled=%22false%22; Max-Age=31536000; Domain=www.noceilingsnba.com; Path=/; Expires=Wed, 09 Jun 2027 22:30:27 GMT; HttpOnly; Secure; SameSite=Lax, ab_testing_id=%221ee3550c-dc43-474e-83a8-f4d903e3297e%22; Max-Age=31536000; Domain=www.noceilingsnba.com; Path=/; Expires=Wed, 09 Jun 2027 22:30:27 GMT; HttpOnly; Secure; SameSite=Lax, __cf_bm=jp18eGR24ARoKKVBRWE.AHuLCOgQIvdWSCkaDyeDGKA-1781044227.57368-1.0.1.1-uTHVTk29V8rSSOAEoOwN0qCkIWPb7nIbDhrJOH1tq4QcHTxDaI13OXg7NSHUqrgcpNorCTMK4IjlZjpezc1UVHlVpKiXCuX9mn0CKonlREPuwi0y_LhZJt.DU0vkcDai; HttpOnly; SameSite=None; Secure; Path=/; Domain=www.noceilingsnba.com; Expires=Tue, 09 Jun 2026 23:00:27 GMT",
+    "Link": "<https://substackcdn.com>; rel=preconnect",
+    "Server": "cloudflare",
+    "x-sub": "noceilings",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Vary": "Accept-Encoding",
+    "content-security-policy": "frame-ancestors 'self' https://*.substack.com https://substack.com",
+    "x-cluster": "substack",
+    "x-deploy": "61c603d6f0",
+    "x-powered-by": "Express",
+    "x-served-by": "Substack",
+    "x-service": "web",
+    "Content-Encoding": "gzip",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "fetched_at": "2026-06-10T04:00:27+05:30"
+}

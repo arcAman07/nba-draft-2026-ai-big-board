@@ -1,0 +1,30 @@
+{
+  "url": "https://www.basketball-reference.com/leagues/NBA_2026_standings.html",
+  "source_id": "basketball_reference_2026_standings",
+  "provided": "2025-26 team records/standings context.",
+  "status_code": 403,
+  "headers": {
+    "Date": "Tue, 09 Jun 2026 22:30:28 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Accept-Ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+    "Cf-Mitigated": "challenge",
+    "Content-Security-Policy": "default-src 'none'; script-src 'nonce-rUqi3phENAaNIu3z5Mm50S' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'",
+    "Server": "cloudflare",
+    "Critical-Ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+    "Cross-Origin-Embedder-Policy": "require-corp",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Cross-Origin-Resource-Policy": "same-origin",
+    "Origin-Agent-Cluster": "?1",
+    "Permissions-Policy": "accelerometer=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=(),xr-spatial-tracking=*",
+    "Referrer-Policy": "same-origin",
+    "Server-Timing": "chlray;desc=\"a09394bb8aeeda50\"",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "set-cookie": "__cf_bm=W_SVXJb9abeDCgRMj7UnawuGigW.zj2CbDJjTa8yAoY-1781044228.4078333-1.0.1.1-fxfo1c5KwjTLqoEtjKyoUblzCqQyBewbCPmJWmXiaVycvuAnoQ3xe5MwxVPUbDAbq8rvAc48.Fiwwn5aQcs1..fAb8wekLrewstoaM65PTbCUYij0B2jE.UB9A5qI0BP; HttpOnly; SameSite=None; Secure; Path=/; Domain=basketball-reference.com; Expires=Tue, 09 Jun 2026 23:00:28 GMT",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a09394bb8aeeda50-BOM"
+  },
+  "fetched_at": "2026-06-10T04:00:28+05:30"
+}

@@ -1,6 +1,8 @@
-code/film/clips/
-code/film/frames/*
-!code/film/frames/_report_picks/
+claude/code/film/clips/
+claude/code/film/frames/*
+!claude/code/film/frames/_report_picks/
+codex/film/clips/
+codex/film/frames/
 __pycache__/
 .DS_Store
 *.aux

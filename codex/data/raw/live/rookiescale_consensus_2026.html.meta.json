@@ -1,0 +1,28 @@
+{
+  "url": "https://www.rookiescale.com/2026-consensus-board/",
+  "source_id": "rookiescale_consensus_2026",
+  "provided": "External consensus board with ranks, ages, positions, listed measurements and agencies.",
+  "status_code": 200,
+  "headers": {
+    "Date": "Tue, 09 Jun 2026 22:30:09 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "Link": "<https://www.rookiescale.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.rookiescale.com/wp-json/wp/v2/pages/5745>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.rookiescale.com/?p=5745>; rel=shortlink",
+    "X-Powered-By": "WP Engine",
+    "X-Cacheable": "SHORT",
+    "Cache-Control": "max-age=600, must-revalidate",
+    "X-Cache": "HIT: 5",
+    "X-Cache-Group": "normal",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ibDNgQ9qucHVjBBqFcbt4YbRMDgVQVxWDelz4UdZabCR2mPOY0tiGrgX7L8W7pRwKyZtLJyPRScBUFEZIn83AS3peNxVd6gMxtwT0oQdiUb02ROKHhSPJb8feqmEL1TvL%2BplXMmM\"}]}",
+    "Cf-Cache-Status": "DYNAMIC",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=7,cfOrigin;dur=1024",
+    "Content-Encoding": "gzip",
+    "CF-RAY": "a093943f9f54c5da-BOM",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "fetched_at": "2026-06-10T04:00:09+05:30"
+}

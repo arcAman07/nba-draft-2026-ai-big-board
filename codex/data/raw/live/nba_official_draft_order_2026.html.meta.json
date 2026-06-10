@@ -1,0 +1,32 @@
+{
+  "url": "https://www.nba.com/news/2026-nba-draft-order",
+  "source_id": "nba_official_draft_order_2026",
+  "provided": "Official 2026 draft order, pick owners, traded-pick notes, lottery date/order.",
+  "status_code": 200,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Set-Cookie": "bm_ss=ab8e18ef4e; Secure; SameSite=None; Domain=.nba.com; Path=/; HttpOnly; Max-Age=3600, _abck=7F714FD25DB9A24487F95B9D51EC75DC~-1~YAAQjdcLFws9H5meAQAAedGBrhCppFasD3lMGLjK4zhWCU6re+S/Kv2G9hQm3/gEnAGcvMcJKwD7OYzfdZWF2O4wh8QUP18p20u7StUaR3TJb7ay7EJYR4zNZhfdQeDa/FBoq8E4dv7jxUzdfBAeHpOmVXKws9J+ovSuRtSeSAmNJnohEr4wQNYPAGGZb4rBZombl5E/D1n4kQl5Y1k0flCmJ3QVbvHlF2gkrPfJfKF6qT5dlnGg7gGi/ApA8/hzaKGSfd6AyQnUEDbBbcaAujq2/0jG18J0hclbTX5MvrFt/iaa0+iRDlnfegWkJfESJN81scMh1ZbNIjt97Qmi4aWY0r5M2DCTC2G2Rnedsor9W251wj35PWzw7rp3HDvTGR+pEL1nl51XTmnoqKG5Cc6qYG9tpU5PjurW47HLDEhkLA09/dc/D+ThicJpjD1hP0BC0Os=~-1~-1~-1~-1~-1; Domain=.nba.com; Path=/; Expires=Wed, 09 Jun 2027 22:30:03 GMT; Max-Age=31536000; Secure, bm_s=YAAQjdcLFww9H5meAQAAedGBrgX71qNHXnXKfQ7K9Qqc9lDAxOLrbkGbhxFTXtemO4Xbaz+WPgiW1P3IoHnHfJ/isUqI7HOb1d76XzJauAa8t5L1JerKqhAzx+8FYKHXfnj3W1eGQhc75I1Kw70/x6fj2CNLCWTE8zf17sqFLFNUYwMm/bcgX/bzvZYtHBtccP2CVLOesg5Hu60JvxrsFt6iH0b3ZzpmcAuP2Mw+fUtqeWvKArFNKgsOYdvfB84aLVqkcT4R6l5J2HWMQ85T8Xr0g1qQnpfLq50nkuZhwisviKhq8ovRqDJUpohOgKiVw6Sk+Du5rwm1Gk8CH5bleALW6tl5NrZdQdNsLZi9RXJdeyS00Bf+h0yx1S52RiF6y5wHbzBgLW1aHVqG55hA7ucugF11A6FeQ4wswo0UXshSuaDzKNGBLDjzn0Ud0h+/jJXk/uWRL4q+yNnnGEYEwL9zg5DvFHLYo2kA2Ew5aq6VLOLpx+URWl1v8v4aH3ixJ4lBeofsXiQ30bIqoUGf+GMVnTd1ENpF2Yd4MMTPRUkA79koFAFGh6/YRCrvn+YiA6GTUhz+ogf5WCL/xDdyPI5xtq3n3cmQn99TOu/InAHZKjUbD1oJW4HUGl8fFieUF134ZoyWekST8CIkv/1PYpamlGcBIj4oU6WhTr70KPMKexh4twxKTYKd7esBaBS+rTqZBxRuekFuyi56aSlIGOBK4htNfLeblIW7QE9A+hGyumVChSWEhgrvSXsDGVmmYxNrdJ9gYV6sA2yHY0fX+soEXvy7GVrqa99KunPSfjkUVxiQ48BeNGgBkiC/ZbNLS+D/qJopnK6Apj+jqZhbpOhPc0VwTg==; Domain=.nba.com; Path=/; Expires=Fri, 10 Jul 2026 22:30:03 GMT; Max-Age=2678400; Secure; HttpOnly, bm_so=E0F1693A9E7827F6572AC475A75EB05D7F4738AED221E130E2B74FEAB2B7779C~YAAQjdcLFw09H5meAQAAedGBrgdlPC90VvZz5n9xMnZI/6Tq5K7srWu/WenVgn60rJmd0sYkS+MJPz5GdjYxyaG7PGkgWnUHq8Ccb9ejf/1hG9s8aEJ6/tEzOxtBTf8coLSnhSa+qqW1fUMLemaHtEGR6K4QyBqRnb+eAitQ+V2jUruPVrpDMaQYVKFF6MKpUV2NhfuPQOk5I4UskfObNA+pL1/4Z9w4aYSkiUIvnxraSD2Uzi0rkxuIF4DlR4q/bDJNQrfLLbugx57nuZK/+KuURkvU7opw4DakRVY2wRgMzVYpMh1z7yWmUwEUvjXoH/JGKpo+qo5Z+dS8l0nq+sUoNimPZ/9efI4RAP3QembpKP9UgYs14DEa7I563Zz84MbeDjfHhlp8av0tSlVJJ8ttVF9WUy8iK8RK3D+E4OggZwDRam6xRs98ylwrG8je7SPZSNhK5wdqT3wGjDSGv24=; Domain=.nba.com; Path=/; Expires=Wed, 10 Jun 2026 22:30:03 GMT; Max-Age=86400; Secure, bm_sz=37DBD37B5848A4FDC239DE7E2962D593~YAAQjdcLFw49H5meAQAAedGBrgAmA114PDjmG9wbLG9d9qwPPOywAFxJzaoKckaMhsHuxecLlSFME4FORWEgTquLBRBRojvjJN6wSkfVz8G1TPoA81ZIEsalITAaSCvG5mMFTJgprgEkBTu3qiDSWUJ/oOE6H/ykaSH6F/IAB5nAP71YZ4tfMhu+HDYK8frKyG3RNu8yK34iqCPXHzCMl5CSPllKoLHc6Ei6Azd/dLJupVKHTIAv3EBjnRqJNEdLmyfeoniyidvkOaAClKlbEXU6Pj61DWdOvWRMFMh3uhlIi1hG9s2Dv0IWjJA2IjQKgtWsUrOSXHnCNkoMD8aVrVQc06D6GDFGKPCZ+439SjaXm7qeCnU6hcsuVNjDNoqXx/c2~3683120~3748150; Domain=.nba.com; Path=/; Expires=Wed, 10 Jun 2026 02:30:03 GMT; Max-Age=14400",
+    "ETag": "\"mal4kfhg6s7vh6\"",
+    "Strict-Transport-Security": "max-age=86400",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "1; mode=block",
+    "X-Frame-Options": "sameorigin",
+    "Vary": "Accept-Encoding",
+    "x-envoy-upstream-service-time": "151",
+    "x-cache-ability": "uncacheable",
+    "x-hits": "0",
+    "x-status": "miss",
+    "x-vcl-version": "NBA.com prod 1.7b",
+    "x-varnish": "725187094",
+    "x-full-ttl": "300.000",
+    "X-Akamai-Transformed": "0 365738 0 -",
+    "Content-Encoding": "gzip",
+    "Expires": "Tue, 09 Jun 2026 22:30:03 GMT",
+    "Cache-Control": "max-age=0, no-cache, no-store",
+    "Pragma": "no-cache",
+    "Date": "Tue, 09 Jun 2026 22:30:03 GMT",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive, Transfer-Encoding"
+  },
+  "fetched_at": "2026-06-10T04:00:03+05:30"
+}

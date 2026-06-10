@@ -1,0 +1,31 @@
+{
+  "url": "https://www.cbssports.com/nba/draft/prospect-rankings/",
+  "source_id": "cbs_prospect_rankings_2026",
+  "provided": "CBS prospect rankings attempt; used only if HTML exposes ranking data.",
+  "status_code": 200,
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "104959",
+    "content-type": "text/html; charset=UTF-8",
+    "x-media": "site-sportsmedia-prod-c4f8cdd58-zsz49",
+    "content-encoding": "gzip",
+    "etag": "W/\"2e1c8f89a97b11ff79e3dfa9753fbe29\"",
+    "X-BE-Age": "214",
+    "X-Assigned-TTL": "86.000",
+    "X-Cacheable": "1",
+    "Accept-Ranges": "bytes",
+    "Date": "Tue, 09 Jun 2026 22:30:12 GMT",
+    "Access-Control-Allow-Origin": "*",
+    "Server": "ContentServer",
+    "Set-Cookie": "fly_device=desktop; path=/; domain=.cbssports.com;, fly_geo={\"countryCode\":\"in\",\"region\":\"ka\",\"dma\":\"356004\"}; path=/; domain=.cbssports.com;, fly_ab_uid=916d28bb-80b6-4e14-952d-b5dbf5c497f3; max-age=(null); path=/; domain=.cbssports.com;",
+    "Content-Security-Policy": "frame-ancestors 'self' *.cbssports.com *.sportsline.com popculture.com comicbook.com 247sports.com *.247sports.com *.maxpreps.com *.ampproject.org; default-src https: blob: wss: 'unsafe-inline' 'unsafe-eval'; font-src https: blob: data:; media-src https: blob: data:; img-src https: blob: data: android-webview: android-webview-video-poster:; object-src 'none'; block-all-mixed-content;",
+    "X-Final-Cache-Control": "max-age=300, public",
+    "X-Cache-State": "MISS-CLUSTER",
+    "X-Age": "0.000",
+    "X-Remaining-TTL": "86.000",
+    "X-Auth-Present": "false",
+    "Vary": "Accept-Encoding",
+    "Cache-Control": "private, max-age=0"
+  },
+  "fetched_at": "2026-06-10T04:00:13+05:30"
+}

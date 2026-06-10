@@ -1,0 +1,26 @@
+# Caleb Wilson, PF, North Carolina (2025-26), consensus top-10 (No. 4)
+Film source, ACC Digital Network season highlight compilation, Wilson is #8 in UNC white/blue, lower-third reads "Caleb Wilson, 20.0 PPG, 9.8 RPG". Clips span Central Arkansas, Kansas, NC Central, Navy, St. Bonaventure, Georgetown, ETSU, Florida State, Wake Forest, Stanford, Notre Dame, Virginia, Georgia Tech, Syracuse. Reconstructed source video, https://www.youtube.com/watch?v=QVZgBTs4gMg (file wilson_QVZgBTs4gMg.webm). 724 frames at roughly 1 fps. Frame sample read for these notes, 31 frames.
+
+## Frame-based observations (mine)
+
+- Turnaround jumper over a rim protector, vs Kansas (frame_0060.jpg through frame_0064.jpg). He backs down Kansas freshman Flory Bidunga on the right block with a wide, low base and the ball kept away from the defender (frame_0060, frame_0061), then rises into a turnaround with the ball released above his head, shooting arm fully extended at the top (frame_0062). Frames 0063-0064 show the aftermath with the ball at the rim. The 1 fps sampling skips the dip and set point, so only the high release and balanced rise are supported, not the speed of the move.
+- Face-up drive and finish, vs Georgetown (frame_0258.jpg through frame_0262.jpg). He catches near the foul-line area holding the ball high at his chest/chin away from the defender (frame_0258), attacks the lane with a forward-leaning posture (frame_0259), and elevates in the paint with the ball raised above the contest (frame_0260), play resolving at the rim in frame_0261 and the landing in frame_0262. Supports comfort catching at the elbow and finishing through traffic; nothing about burst or how quickly he beat his man.
+- Finishing extension at the rim (frame_0360.jpg). Under-rim camera angle of a two-handed dunk, both arms fully extended above the cylinder, head near rim level, with visibly long arms and a lean lower body. This is the clearest single frame of his vertical extension and length in the sample.
+- Drive through traffic, vs Florida State (frame_0405.jpg through frame_0409.jpg). He works into the paint among three FSU defenders (frame_0406, frame_0407), rises in the lane with the ball secured high (frame_0408), and frame_0409 shows the play finished with the crowd reacting. Frames support his willingness to take contact in a crowded lane and his high gather; timing and touch fall between samples.
+- Body frame in game context (frame_0010.jpg, frame_0360.jpg). The close-up jog in frame_0010 shows a long-limbed, lean forward build, broad shoulders but a thin core and legs relative to college bigs in the other frames, consistent with a frame that still has room to fill out. Frames cannot establish exact weight or strength.
+- Transition ball-handling posture, vs Wake Forest (frame_0460.jpg). He pushes the ball in the open floor himself, chest up with the ball carried ahead of his body. The frame supports that he is trusted as a grab-and-go forward, not how fast he covers ground.
+- Not claimed from frames, first-step burst, recovery speed, defensive timing, passing feel, jumper consistency over a season. This is also a highlight compilation, so the sample is biased toward made plays.
+
+## Sourced scouting observations (human scouts, cited)
+
+- Sam Vecenie of The Athletic reports that NBA scouts view Wilson as "pretty clearly" the fourth player in the 2026 class behind Darryn Peterson, AJ Dybantsa, and Cameron Boozer, relayed in Bleacher Report's coverage of his draft declaration. Source, Bleacher Report, https://bleacherreport.com/articles/25397915-caleb-wilson-declares-2026-nba-draft-scouting-report-and-projected-landing-spot-unc-star
+- Babcock Hoops describes Wilson as a high-level athlete who plays with force and explosiveness, a major lob threat with an impressive second jump who shot 68 percent at the rim on 176 attempts, while cautioning that he shot just 26 percent from three on about 1.1 attempts per game and that the jumper "remains more of a projection than a dependable weapon." Source, Babcock Hoops, https://www.babcockhoops.com/post/2026-nba-draft-caleb-wilson-scouting-report
+- Sports Illustrated's draft newsfeed highlights his size at 6'10" with long strides and good bounce, calling him a two-way forward who moves well for his height, while noting he is still filling out a thin roughly 215 pound frame for NBA physicality. Source, SI.com, https://www.si.com/nba/draft/newsfeed/nba-draft-scouting-report-north-carolina-caleb-wilson
+- Floor & Ceiling's scouting report frames him as a dominant play-finishing forward (about 20 points, 9.4 rebounds, 2.7 assists on 58 percent shooting) whose on-ball creation still produces frustrating turnovers, needing to be set up to score rather than initiating. Source, Floor & Ceiling, https://floorandceiling.substack.com/p/caleb-wilson-scouting-report
+
+## Report picks (frames/_report_picks/)
+
+- wilson_pick1.jpg (frame_0062), turnaround jumper release over Kansas's Bidunga, arm fully extended above his head.
+- wilson_pick2.jpg (frame_0360), under-rim view of a two-handed dunk, full extension above the cylinder.
+- wilson_pick3.jpg (frame_0260), elevation in the lane against Georgetown with the ball kept above the contest.
+- wilson_pick4.jpg (frame_0408), rising through three Florida State defenders with a high gather.

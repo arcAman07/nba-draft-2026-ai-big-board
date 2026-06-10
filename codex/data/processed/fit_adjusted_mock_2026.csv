@@ -1,0 +1,31 @@
+pick,owner,selection,board_rank,position,team_need,alternatives,note
+1,Washington,AJ Dybantsa,1,SF,primary creator; wing scoring; defensive identity,Darryn Peterson; Cameron Boozer; Keaton Wagler,
+2,Utah,Darryn Peterson,2,SG/PG,on-ball creation; lead guard; two-way wings,Cameron Boozer; Keaton Wagler; Caleb Wilson,
+3,Memphis,Caleb Wilson,5,SF/PF,frontcourt skill; wing size; half-court offense,Cameron Boozer; Keaton Wagler; Kingston Flemings,
+4,Chicago,Cameron Boozer,3,PF,top-end talent; creator; frontcourt anchor,Keaton Wagler; Kingston Flemings; Darius Acuff Jr.,
+5,LA Clippers,Keaton Wagler,4,SG/PG,young creator; athleticism; long-term star equity,Kingston Flemings; Darius Acuff Jr.; Mikel Brown Jr.,from Indiana
+6,Brooklyn,Yaxel Lendeborg,12,PF,creation; frontcourt upside; shooting,Kingston Flemings; Darius Acuff Jr.; Mikel Brown Jr.,
+7,Sacramento,Dailyn Swain,16,SG/SF,lead guard depth; point-of-attack defense; wing size,Kingston Flemings; Darius Acuff Jr.; Mikel Brown Jr.,
+8,Atlanta,Nate Ament,11,SF,defensive forward; secondary playmaking; rim pressure,Kingston Flemings; Darius Acuff Jr.; Mikel Brown Jr.,from New Orleans
+9,Dallas,Kingston Flemings,6,PG,two-way wing; guard depth; future upside,Darius Acuff Jr.; Mikel Brown Jr.; Brayden Burries,
+10,Milwaukee,Darius Acuff Jr.,7,PG,youth; shot creation; frontcourt depth,Mikel Brown Jr.; Brayden Burries; Labaron Philon Jr.,
+11,Golden State,Brayden Burries,9,SG/PG,NBA-ready guard/wing; shooting; defensive versatility,Mikel Brown Jr.; Labaron Philon Jr.; Aday Mara,
+12,Oklahoma City,Karim López,14,SF,luxury upside swing; size; stash flexibility,Mikel Brown Jr.; Labaron Philon Jr.; Aday Mara,from the LA Clippers
+13,Miami,Labaron Philon Jr.,10,PG,shot creation; forward size; shooting,Mikel Brown Jr.; Aday Mara; Cameron Carr,
+14,Charlotte,Aday Mara,13,C,defensive big; connective forward; shooting,Mikel Brown Jr.; Cameron Carr; Hannes Steinbach,
+15,Chicago,Mikel Brown Jr.,8,PG,top-end talent; creator; frontcourt anchor,Cameron Carr; Hannes Steinbach; Bennett Stirtz,from Portland
+16,Memphis,Hannes Steinbach,17,PF,frontcourt skill; wing size; half-court offense,Cameron Carr; Bennett Stirtz; Ebuka Okorie,from Phoenix via Orlando
+17,Oklahoma City,Cameron Carr,15,SG,luxury upside swing; size; stash flexibility,Bennett Stirtz; Ebuka Okorie; Morez Johnson Jr.,from Philadelphia
+18,Charlotte,Morez Johnson Jr.,20,PF,defensive big; connective forward; shooting,Bennett Stirtz; Ebuka Okorie; Allen Graves,from Orlando via Phoenix
+19,Toronto,Bennett Stirtz,18,PG,guard creation; shooting; rim protection,Ebuka Okorie; Allen Graves; Christian Anderson,
+20,San Antonio,Allen Graves,21,PF,shooting; complementary defense; bench creation,Ebuka Okorie; Christian Anderson; Chris Cenac Jr.,from Atlanta
+21,Detroit,Christian Anderson,22,PG,floor spacing; defensive forward; backup creation,Ebuka Okorie; Chris Cenac Jr.; Koa Peat,from Minnesota
+22,Philadelphia,Joshua Jefferson,28,PF/SF,two-way wing; frontcourt depth; guard stability,Ebuka Okorie; Chris Cenac Jr.; Koa Peat,from Houston via Oklahoma City
+23,Atlanta,Chris Cenac Jr.,23,PF/C,defensive forward; secondary playmaking; rim pressure,Ebuka Okorie; Koa Peat; Meleek Thomas,from Cleveland
+24,New York,Henri Veesaar,26,C,cost-controlled depth; shooting; defensive versatility,Ebuka Okorie; Koa Peat; Meleek Thomas,
+25,Los Angeles Lakers,Alex Karaban,33,SF/PF,guard creation; athletic wing; frontcourt depth,Ebuka Okorie; Koa Peat; Meleek Thomas,
+26,Denver,Tarris Reed Jr.,30,C,bench creation; shooting; athletic defense,Ebuka Okorie; Koa Peat; Meleek Thomas,
+27,Boston,Ebuka Okorie,19,PG,cost-controlled wing; guard depth; shooting,Koa Peat; Meleek Thomas; Jayden Quaintance,
+28,Minnesota,Zuby Ejiofor,31,PF,guard depth; shooting; frontcourt insurance,Koa Peat; Meleek Thomas; Jayden Quaintance,from Detroit
+29,Cleveland,Isaiah Evans,29,SF,wing size; shooting; bench creation,Koa Peat; Meleek Thomas; Jayden Quaintance,from San Antonio via Atlanta
+30,Dallas,Meleek Thomas,25,SG/PG,two-way wing; guard depth; future upside,Koa Peat; Jayden Quaintance; Luigi Suigo,from Oklahoma City via WAS and PHI #

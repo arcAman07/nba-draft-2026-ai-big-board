@@ -1,0 +1,541 @@
+norm_name,prospect,comp_rank,distance,comp_player,comp_draft_year,comp_pick,comp_outcome_mpg,comp_outcome_tier
+cameron boozer,Cameron Boozer,1,3.4617796821899227,Zion Williamson,2019,1.0,31.6,star
+cameron boozer,Cameron Boozer,2,3.8961505926829347,Derrick Williams,2011,2.0,20.7,rotation
+cameron boozer,Cameron Boozer,3,3.9804281069068272,Grant Williams,2019,22.0,21.8,rotation
+cameron boozer,Cameron Boozer,4,4.303810021049918,Frank Kaminsky,2015,9.0,19.8,rotation
+cameron boozer,Cameron Boozer,5,4.385939127564558,Jared Sullinger,2012,21.0,24.3,starter
+darryn peterson,Darryn Peterson,1,2.5309437690403715,Kentavious Caldwell-Pope,2013,8.0,29.6,starter
+darryn peterson,Darryn Peterson,2,2.557218074434742,Jarrett Culver,2019,6.0,17.2,rotation
+darryn peterson,Darryn Peterson,3,2.690988578421242,DAngelo Russell,2015,2.0,29.9,starter
+darryn peterson,Darryn Peterson,4,2.7758654715226587,TJ Warren,2014,14.0,27.4,starter
+darryn peterson,Darryn Peterson,5,3.0589210757770053,Klay Thompson,2011,11.0,32.8,starter
+aj dybantsa,AJ Dybantsa,1,2.581449903140446,RJ Barrett,2019,3.0,33.3,star
+aj dybantsa,AJ Dybantsa,2,2.5929032353479986,TJ Warren,2014,14.0,27.4,starter
+aj dybantsa,AJ Dybantsa,3,2.8638380893104225,Jarrett Culver,2019,6.0,17.2,rotation
+aj dybantsa,AJ Dybantsa,4,2.8679048285986113,Alec Burks,2011,12.0,22.8,rotation
+aj dybantsa,AJ Dybantsa,5,2.9733762424491696,Cade Cunningham,2021,1.0,33.3,star
+caleb wilson,Caleb Wilson,1,2.4551054371064485,Grant Williams,2019,22.0,21.8,rotation
+caleb wilson,Caleb Wilson,2,2.505159521003333,Cody Zeller,2013,4.0,21.2,rotation
+caleb wilson,Caleb Wilson,3,2.679630263913246,Brice Johnson,2016,25.0,5.1,bust
+caleb wilson,Caleb Wilson,4,2.7584792004557963,Otto Porter,2013,3.0,25.4,starter
+caleb wilson,Caleb Wilson,5,2.921951817181568,Marvin Bagley,2018,2.0,24.1,starter
+keaton wagler,Keaton Wagler,1,2.2238309243896173,Ben McLemore,2013,7.0,22.5,rotation
+keaton wagler,Keaton Wagler,2,2.337786428650303,Luke Kennard,2017,12.0,23.3,rotation
+keaton wagler,Keaton Wagler,3,2.6217710848163294,Gary Harris,2014,19.0,28.1,starter
+keaton wagler,Keaton Wagler,4,2.7669866741583906,Devin Booker,2015,13.0,33.9,starter
+keaton wagler,Keaton Wagler,5,2.786108829710238,Nik Stauskas,2014,8.0,19.5,rotation
+darius acuff,Darius Acuff Jr.,1,2.7213219765261987,Cameron Payne,2015,14.0,17.9,rotation
+darius acuff,Darius Acuff Jr.,2,2.723945694354735,Willie Warren,2010,54.0,7.0,bust
+darius acuff,Darius Acuff Jr.,3,2.7252176378903434,Trey Burke,2013,9.0,20.9,rotation
+darius acuff,Darius Acuff Jr.,4,2.9243107261679717,Markelle Fultz,2017,1.0,26.2,starter
+darius acuff,Darius Acuff Jr.,5,3.0714715856009978,DAngelo Russell,2015,2.0,29.9,starter
+kingston flemings,Kingston Flemings,1,1.8969472381222308,Trey Burke,2013,9.0,20.9,rotation
+kingston flemings,Kingston Flemings,2,2.734812577748488,Gary Harris,2014,19.0,28.1,starter
+kingston flemings,Kingston Flemings,3,2.75108326127808,Jonny Flynn,2009,6.0,22.9,rotation
+kingston flemings,Kingston Flemings,4,2.7901133257823854,Monte Morris,2017,51.0,25.6,starter
+kingston flemings,Kingston Flemings,5,3.0012737549317583,Kemba Walker,2011,9.0,33.1,star
+brayden burries,Brayden Burries,1,2.148390595292065,Jimmy Butler,2011,30.0,33.2,star
+brayden burries,Brayden Burries,2,2.1869766979530207,Luke Kennard,2017,12.0,23.3,rotation
+brayden burries,Brayden Burries,3,2.2085113891589576,Gary Harris,2014,19.0,28.1,starter
+brayden burries,Brayden Burries,4,2.2489703395261653,Ben McLemore,2013,7.0,22.5,rotation
+brayden burries,Brayden Burries,5,2.280577333869195,Chase Budinger,2009,44.0,19.7,rotation
+mikel brown,Mikel Brown Jr.,1,2.1388803290392926,Collin Sexton,2018,8.0,30.2,starter
+mikel brown,Mikel Brown Jr.,2,2.159426962620575,Elfrid Payton,2014,10.0,26.8,starter
+mikel brown,Mikel Brown Jr.,3,2.2176815177003126,Willie Warren,2010,54.0,7.0,bust
+mikel brown,Mikel Brown Jr.,4,2.238002067912469,Saben Lee,2020,38.0,15.1,rotation
+mikel brown,Mikel Brown Jr.,5,2.2420334732163103,Jordan Crawford,2010,27.0,24.4,starter
+nate ament,Nate Ament,1,1.5113158650246983,Cade Cunningham,2021,1.0,33.3,star
+nate ament,Nate Ament,2,1.5295303010185795,Jayson Tatum,2017,3.0,34.1,starter
+nate ament,Nate Ament,3,1.5727203224058022,Andrew Wiggins,2014,1.0,34.4,starter
+nate ament,Nate Ament,4,1.7608402729372215,Tobias Harris,2011,19.0,31.6,starter
+nate ament,Nate Ament,5,1.8032158533641809,CJ Elleby,2020,46.0,15.5,rotation
+labaron philon,Labaron Philon Jr.,1,2.1270447768752345,Erick Green,2013,46.0,8.7,bench
+labaron philon,Labaron Philon Jr.,2,2.2223625970176055,Damian Lillard,2012,6.0,36.3,star
+labaron philon,Labaron Philon Jr.,3,2.3926711142843904,Cameron Payne,2015,14.0,17.9,rotation
+labaron philon,Labaron Philon Jr.,4,2.627542739684975,Nate Wolters,2013,38.0,18.7,rotation
+labaron philon,Labaron Philon Jr.,5,2.6645930640774456,Trey Burke,2013,9.0,20.9,rotation
+yaxel lendeborg,Yaxel Lendeborg,1,3.554644493788431,Aaron White,2015,49.0,0.0,bust
+yaxel lendeborg,Yaxel Lendeborg,2,3.5738652198763505,Cameron Johnson,2019,11.0,25.4,starter
+yaxel lendeborg,Yaxel Lendeborg,3,3.67099319535637,Erik Murphy,2013,49.0,2.6,bust
+yaxel lendeborg,Yaxel Lendeborg,4,3.7163416757740766,Frank Kaminsky,2015,9.0,19.8,rotation
+yaxel lendeborg,Yaxel Lendeborg,5,3.785187059216165,Willie Cauley-Stein,2015,6.0,22.0,rotation
+karim lopez,Karim López,1,1.6262306129887372,Michael Kidd-Gilchrist,2012,2.0,24.6,starter
+karim lopez,Karim López,2,1.8789360236637689,Jonathan Isaac,2017,6.0,23.1,rotation
+karim lopez,Karim López,3,1.9091199854404253,Justise Winslow,2015,10.0,25.9,starter
+karim lopez,Karim López,4,1.9732742666285794,OG Anunoby,2017,23.0,29.0,starter
+karim lopez,Karim López,5,2.015429114935774,Moses Moody,2021,14.0,13.7,bench
+cameron carr,Cameron Carr,1,1.8551224062741307,Allen Crabbe,2013,31.0,24.0,starter
+cameron carr,Cameron Carr,2,2.0644214982574765,Reggie Jackson,2011,24.0,25.4,starter
+cameron carr,Cameron Carr,3,2.137821383531047,Will Barton,2012,40.0,25.2,starter
+cameron carr,Cameron Carr,4,2.1697477805472283,Immanuel Quickley,2020,25.0,24.5,starter
+cameron carr,Cameron Carr,5,2.201645304304639,Morris Almond,2007,25.0,9.5,bench
+hannes steinbach,Hannes Steinbach,1,1.6422925670065731,Jakob Poeltl,2016,9.0,21.5,rotation
+hannes steinbach,Hannes Steinbach,2,1.802336863325967,Bobby Portis,2015,22.0,22.4,rotation
+hannes steinbach,Hannes Steinbach,3,2.093375322702257,Justin Patton,2017,16.0,13.4,bench
+hannes steinbach,Hannes Steinbach,4,2.106459125272549,Domantas Sabonis,2016,11.0,29.9,starter
+hannes steinbach,Hannes Steinbach,5,2.155727869049186,Zeke Nnaji,2020,22.0,12.6,bench
+chris cenac,Chris Cenac Jr.,1,1.6333235603393945,Kevon Looney,2015,30.0,18.0,rotation
+chris cenac,Chris Cenac Jr.,2,1.87536445174682,Tony Bradley,2017,28.0,11.1,bench
+chris cenac,Chris Cenac Jr.,3,2.0388638150037215,Trey Lyles,2015,12.0,18.2,rotation
+chris cenac,Chris Cenac Jr.,4,2.073663795172372,Noah Vonleh,2014,9.0,16.2,rotation
+chris cenac,Chris Cenac Jr.,5,2.0791622598343382,Jarrett Allen,2017,22.0,27.8,starter
+morez johnson,Morez Johnson Jr.,1,2.0611275878922917,Jakob Poeltl,2016,9.0,21.5,rotation
+morez johnson,Morez Johnson Jr.,2,2.183648446873636,Justin Patton,2017,16.0,13.4,bench
+morez johnson,Morez Johnson Jr.,3,2.4127216458392775,Chinanu Onuaku,2016,37.0,12.2,bench
+morez johnson,Morez Johnson Jr.,4,2.5396237389829293,Bam Adebayo,2017,14.0,29.8,starter
+morez johnson,Morez Johnson Jr.,5,2.6900006506269065,Montrezl Harrell,2015,32.0,20.5,rotation
+aday mara,Aday Mara,1,3.5346786441950413,Jakob Poeltl,2016,9.0,21.5,rotation
+aday mara,Aday Mara,2,3.917076464379579,Karl-Anthony Towns,2015,1.0,34.0,star
+aday mara,Aday Mara,3,4.010927991758567,Hasheem Thabeet,2009,2.0,10.5,bench
+aday mara,Aday Mara,4,4.035376649641798,Udoka Azubuike,2020,27.0,8.9,bench
+aday mara,Aday Mara,5,4.063943528251251,Chinanu Onuaku,2016,37.0,12.2,bench
+jayden quaintance,Jayden Quaintance,1,2.430053230134974,Stephen Zimmerman,2016,41.0,5.7,bust
+jayden quaintance,Jayden Quaintance,2,2.585509794045203,Ike Anigbogu,2017,47.0,2.6,bust
+jayden quaintance,Jayden Quaintance,3,2.6106076315773388,Harry Giles,2017,20.0,12.4,bench
+jayden quaintance,Jayden Quaintance,4,2.686942224945886,Andre Drummond,2012,9.0,27.5,starter
+jayden quaintance,Jayden Quaintance,5,3.0510416709062778,Jarrett Allen,2017,22.0,27.8,starter
+bennett stirtz,Bennett Stirtz,1,1.89015982741453,Tyshawn Taylor,2012,41.0,8.0,bench
+bennett stirtz,Bennett Stirtz,2,1.9669769904058039,Marcus Denmon,2012,59.0,0.0,bust
+bennett stirtz,Bennett Stirtz,3,1.9919172947565733,Toney Douglas,2009,29.0,19.1,rotation
+bennett stirtz,Bennett Stirtz,4,1.995661841858598,Nolan Smith,2011,21.0,9.9,bench
+bennett stirtz,Bennett Stirtz,5,2.0388627673955453,Derrick White,2017,29.0,27.1,starter
+dailyn swain,Dailyn Swain,1,1.592249455310853,Kyle Korver,2003,51.0,25.4,starter
+dailyn swain,Dailyn Swain,2,1.725008665436866,Luke Jackson,2004,10.0,9.9,bench
+dailyn swain,Dailyn Swain,3,1.792658071096593,Mike Miller,2000,5.0,26.9,starter
+dailyn swain,Dailyn Swain,4,1.8206371606549114,Ryan Gomes,2005,50.0,27.6,starter
+dailyn swain,Dailyn Swain,5,1.9329304271501024,Reyshawn Terry,2007,44.0,0.0,bust
+christian anderson,Christian Anderson,1,2.04304092482846,Jonny Flynn,2009,6.0,22.9,rotation
+christian anderson,Christian Anderson,2,2.4975053065331134,John Wall,2010,1.0,34.9,star
+christian anderson,Christian Anderson,3,2.5601042037589807,Jeff Teague,2009,19.0,26.8,starter
+christian anderson,Christian Anderson,4,2.5933925280581,Darren Collison,2009,21.0,29.3,starter
+christian anderson,Christian Anderson,5,2.597855516217018,Edmond Sumner,2017,52.0,14.0,bench
+allen graves,Allen Graves,1,2.458536336277527,Chuma Okeke,2019,16.0,22.2,rotation
+allen graves,Allen Graves,2,2.7240203288408327,Jae Crowder,2012,34.0,25.1,starter
+allen graves,Allen Graves,3,2.8682598218514337,Otto Porter,2013,3.0,25.4,starter
+allen graves,Allen Graves,4,2.9121657368967373,Victor Oladipo,2013,2.0,32.2,starter
+allen graves,Allen Graves,5,3.0415138081145416,Jordan Adams,2014,22.0,8.2,bench
+ebuka okorie,Ebuka Okorie,1,2.29715856903234,DAngelo Russell,2015,2.0,29.9,starter
+ebuka okorie,Ebuka Okorie,2,2.421838261096061,Markelle Fultz,2017,1.0,26.2,starter
+ebuka okorie,Ebuka Okorie,3,2.4239397781846135,Gary Harris,2014,19.0,28.1,starter
+ebuka okorie,Ebuka Okorie,4,2.4243997272960454,Malik Monk,2017,11.0,21.3,rotation
+ebuka okorie,Ebuka Okorie,5,2.5371404512485163,Alec Burks,2011,12.0,22.8,rotation
+koa peat,Koa Peat,1,1.7201690017308666,Jeremiah Robinson-Earl,2021,32.0,19.2,rotation
+koa peat,Koa Peat,2,1.8187108848539013,Miles Bridges,2018,12.0,29.8,starter
+koa peat,Koa Peat,3,2.002084816726511,Tobias Harris,2011,19.0,31.6,starter
+koa peat,Koa Peat,4,2.100675118218762,Julius Randle,2014,7.0,32.0,starter
+koa peat,Koa Peat,5,2.1597478028945485,Ignas Brazdeikis,2019,47.0,13.1,bench
+isaiah evans,Isaiah Evans,1,1.5903574662506095,Ben McLemore,2013,7.0,22.5,rotation
+isaiah evans,Isaiah Evans,2,1.7209240649961604,Jeremy Lamb,2012,12.0,20.8,rotation
+isaiah evans,Isaiah Evans,3,1.938924376691804,Immanuel Quickley,2020,25.0,24.5,starter
+isaiah evans,Isaiah Evans,4,1.9423031128444757,Allen Crabbe,2013,31.0,24.0,starter
+isaiah evans,Isaiah Evans,5,1.967620599162873,Morris Almond,2007,25.0,9.5,bench
+joshua jefferson,Joshua Jefferson,1,2.056252105476274,Draymond Green,2012,35.0,28.7,starter
+joshua jefferson,Joshua Jefferson,2,2.3106604889050306,Lamar Patterson,2014,48.0,10.9,bench
+joshua jefferson,Joshua Jefferson,3,2.8866246322939215,Desmond Bane,2020,30.0,28.9,starter
+joshua jefferson,Joshua Jefferson,4,2.992868075810845,Josh Hart,2017,30.0,28.3,starter
+joshua jefferson,Joshua Jefferson,5,3.1159839267740956,Kris Dunn,2016,5.0,23.4,rotation
+meleek thomas,Meleek Thomas,1,1.5816129651470958,Malik Beasley,2016,19.0,22.6,rotation
+meleek thomas,Meleek Thomas,2,2.021472374827463,Bradley Beal,2012,3.0,34.6,star
+meleek thomas,Meleek Thomas,3,2.0399232869313693,Gary Harris,2014,19.0,28.1,starter
+meleek thomas,Meleek Thomas,4,2.0524614783738757,Eric Bledsoe,2010,18.0,27.8,starter
+meleek thomas,Meleek Thomas,5,2.1663175575774365,Jared Cunningham,2012,24.0,7.2,bust
+henri veesaar,Henri Veesaar,1,1.7701515175076807,Jakob Poeltl,2016,9.0,21.5,rotation
+henri veesaar,Henri Veesaar,2,2.1243836172710933,Justin Harper,2011,32.0,6.8,bust
+henri veesaar,Henri Veesaar,3,2.2072305690225873,Mason Plumlee,2013,22.0,22.6,rotation
+henri veesaar,Henri Veesaar,4,2.2282402741121414,Jeff Pendergraph,2009,31.0,9.8,bench
+henri veesaar,Henri Veesaar,5,2.27107020779304,Tyler Zeller,2012,17.0,17.5,rotation
+tarris reed,Tarris Reed Jr.,1,2.717143323707114,Tyler Zeller,2012,17.0,17.5,rotation
+tarris reed,Tarris Reed Jr.,2,2.9418220252086247,Rakeem Christmas,2015,36.0,7.5,bust
+tarris reed,Tarris Reed Jr.,3,2.9738184377255794,Andrew Nicholson,2012,19.0,14.3,bench
+tarris reed,Tarris Reed Jr.,4,3.0449565834242107,Jerome Jordan,2010,44.0,7.5,bust
+tarris reed,Tarris Reed Jr.,5,3.1591154495384646,Neemias Queta,2021,39.0,9.7,bench
+sergio de larrea,Sergio de Larrea,1,1.8366864590646381,Wade Baldwin,2016,17.0,10.3,bench
+sergio de larrea,Sergio de Larrea,2,1.8657202828558264,Donte DiVincenzo,2018,17.0,24.1,starter
+sergio de larrea,Sergio de Larrea,3,1.9795741559508695,Landry Shamet,2018,26.0,22.2,rotation
+sergio de larrea,Sergio de Larrea,4,1.987420319934536,Shai Gilgeous-Alexander,2018,11.0,32.8,starter
+sergio de larrea,Sergio de Larrea,5,2.0149684094242195,Derrick Rose,2008,1.0,32.7,starter
+alex karaban,Alex Karaban,1,1.3191322174987397,Isaiah Livers,2021,42.0,21.8,rotation
+alex karaban,Alex Karaban,2,1.667556468106972,Devon Hall,2018,53.0,7.3,bust
+alex karaban,Alex Karaban,3,1.760067759036527,Terance Mann,2019,48.0,21.9,rotation
+alex karaban,Alex Karaban,4,1.9214261450328614,Darius Miller,2012,46.0,19.8,rotation
+alex karaban,Alex Karaban,5,1.9650664921675567,Solomon Hill,2013,23.0,21.5,rotation
+zuby ejiofor,Zuby Ejiofor,1,2.623496050537674,Grant Williams,2019,22.0,21.8,rotation
+zuby ejiofor,Zuby Ejiofor,2,2.871464218061654,Draymond Green,2012,35.0,28.7,starter
+zuby ejiofor,Zuby Ejiofor,3,2.888174704605065,Frank Kaminsky,2015,9.0,19.8,rotation
+zuby ejiofor,Zuby Ejiofor,4,2.8998991688250766,Xavier Tillman,2020,35.0,17.6,rotation
+zuby ejiofor,Zuby Ejiofor,5,2.9494555687661492,Neemias Queta,2021,39.0,9.7,bench
+luigi suigo,Luigi Suigo,1,2.7333016395414536,Tiny Gallon,2010,47.0,0.0,bust
+luigi suigo,Luigi Suigo,2,2.847002622448565,Dakari Johnson,2015,48.0,5.2,bust
+luigi suigo,Luigi Suigo,3,2.909343715980701,Tony Bradley,2017,28.0,11.1,bench
+luigi suigo,Luigi Suigo,4,2.9400514428531355,Meyers Leonard,2012,11.0,15.9,rotation
+luigi suigo,Luigi Suigo,5,3.1050014693627146,Thomas Bryant,2017,42.0,18.8,rotation
+richie saunders,Richie Saunders,1,1.8371155754514665,Chris Duarte,2021,13.0,21.3,rotation
+richie saunders,Richie Saunders,2,2.5005894892271234,Cameron Johnson,2019,11.0,25.4,starter
+richie saunders,Richie Saunders,3,2.520473940481303,Sam Merrill,2020,60.0,11.7,bench
+richie saunders,Richie Saunders,4,2.5349589358492457,Michael Gbinije,2016,49.0,3.5,bust
+richie saunders,Richie Saunders,5,2.558734080031078,Quinndary Weatherspoon,2019,49.0,6.5,bust
+ryan conwell,Ryan Conwell,1,1.165405881635707,Jordan Crawford,2010,27.0,24.4,starter
+ryan conwell,Ryan Conwell,2,1.3695751062103059,Darius Johnson-Odom,2012,55.0,3.0,bust
+ryan conwell,Ryan Conwell,3,1.4397960821054805,Dominique Jones,2010,25.0,9.3,bench
+ryan conwell,Ryan Conwell,4,1.727222522617343,Shelvin Mack,2011,34.0,18.4,rotation
+ryan conwell,Ryan Conwell,5,1.7819877956004835,James Anderson,2010,20.0,17.5,rotation
+ugonna onyenso,Ugonna Onyenso,1,2.9476880770273786,Cole Aldrich,2010,11.0,10.0,bench
+ugonna onyenso,Ugonna Onyenso,2,3.0755765819788743,Jeff Withey,2013,39.0,10.1,bench
+ugonna onyenso,Ugonna Onyenso,3,3.2521825058044582,Willie Cauley-Stein,2015,6.0,22.0,rotation
+ugonna onyenso,Ugonna Onyenso,4,3.3911110842686245,Hasheem Thabeet,2009,2.0,10.5,bench
+ugonna onyenso,Ugonna Onyenso,5,3.419332041237749,Gorgui Dieng,2013,21.0,20.1,rotation
+jaden bradley,Jaden Bradley,1,1.6100040867083263,Jerian Grant,2015,19.0,17.9,rotation
+jaden bradley,Jaden Bradley,2,1.9173727890134733,Joe Harris,2014,33.0,24.4,starter
+jaden bradley,Jaden Bradley,3,2.0977933018485784,Michael Gbinije,2016,49.0,3.5,bust
+jaden bradley,Jaden Bradley,4,2.1271044208611523,Nigel Williams-Goss,2017,55.0,5.0,bust
+jaden bradley,Jaden Bradley,5,2.130623283493477,Grayson Allen,2018,21.0,24.7,starter
+trevon brazile,Trevon Brazile,1,2.292372461016096,Gorgui Dieng,2013,21.0,20.1,rotation
+trevon brazile,Trevon Brazile,2,2.4987545025551405,Wesley Johnson,2010,4.0,22.1,rotation
+trevon brazile,Trevon Brazile,3,2.530260256697383,Quincy Acy,2012,37.0,16.0,rotation
+trevon brazile,Trevon Brazile,4,2.571863269182633,Willie Cauley-Stein,2015,6.0,22.0,rotation
+trevon brazile,Trevon Brazile,5,2.611181790138547,Robert Dozier,2009,60.0,0.0,bust
+baba miller,Baba Miller,1,2.4352773099033387,Jabari Smith,2000,45.0,9.8,bench
+baba miller,Baba Miller,2,2.4727981551266582,Vince Edwards,2018,52.0,7.9,bust
+baba miller,Baba Miller,3,2.5676218326201865,Jarron Collins,2001,53.0,15.8,rotation
+baba miller,Baba Miller,4,2.5692032032379326,Aaron Gray,2007,49.0,12.1,bench
+baba miller,Baba Miller,5,2.6048409421288707,Earl Clark,2009,14.0,13.9,bench
+jack kayil,Jack Kayil,1,1.057423073113014,DeAaron Fox,2017,5.0,32.6,star
+jack kayil,Jack Kayil,2,1.8532842656908985,Coby White,2019,7.0,28.2,starter
+jack kayil,Jack Kayil,3,1.9045163559650025,Dennis Smith Jr,2017,9.0,23.8,rotation
+jack kayil,Jack Kayil,4,1.9477220029640214,Elfrid Payton,2014,10.0,26.8,starter
+jack kayil,Jack Kayil,5,1.9520931762790619,Tre Jones,2020,41.0,20.6,rotation
+otega oweh,Otega Oweh,1,1.6638756938789145,Dominique Jones,2010,25.0,9.3,bench
+otega oweh,Otega Oweh,2,1.8590341192203366,Gerald Henderson,2009,12.0,25.9,starter
+otega oweh,Otega Oweh,3,2.0272990703072247,Norman Powell,2015,46.0,23.1,rotation
+otega oweh,Otega Oweh,4,2.103018967508784,Dwayne Bacon,2017,40.0,19.4,rotation
+otega oweh,Otega Oweh,5,2.1055092111336813,Jordan Crawford,2010,27.0,24.4,starter
+nick martinelli,Nick Martinelli,1,1.5165923282951825,Alec Peters,2017,54.0,11.2,bench
+nick martinelli,Nick Martinelli,2,1.604218341741091,Georges Niang,2016,50.0,16.2,rotation
+nick martinelli,Nick Martinelli,3,1.7366504482372667,Deshaun Thomas,2013,58.0,0.0,bust
+nick martinelli,Nick Martinelli,4,1.8011318021981557,Jordan Nwora,2020,45.0,16.4,rotation
+nick martinelli,Nick Martinelli,5,1.863053294556709,James Anderson,2010,20.0,17.5,rotation
+ja kobi gillespie,Ja'Kobi Gillespie,1,1.3990713506852301,Malachi Flynn,2020,29.0,14.6,bench
+ja kobi gillespie,Ja'Kobi Gillespie,2,2.0715419881149595,Payton Pritchard,2020,26.0,16.8,rotation
+ja kobi gillespie,Ja'Kobi Gillespie,3,2.1132140666080437,Jevon Carter,2018,32.0,16.0,rotation
+ja kobi gillespie,Ja'Kobi Gillespie,4,2.154606257169859,Roy Devyn,2014,56.0,10.4,bench
+ja kobi gillespie,Ja'Kobi Gillespie,5,2.1618084758015774,Jared Butler,2021,40.0,8.7,bench
+emanuel sharp,Emanuel Sharp,1,1.8167113814218079,Marcus Denmon,2012,59.0,0.0,bust
+emanuel sharp,Emanuel Sharp,2,2.3054179773765564,Joe Harris,2014,33.0,24.4,starter
+emanuel sharp,Emanuel Sharp,3,2.447646629312319,Xavier Thames,2014,59.0,0.0,bust
+emanuel sharp,Emanuel Sharp,4,2.4512651424113727,Nick Johnson,2014,42.0,9.4,bench
+emanuel sharp,Emanuel Sharp,5,2.457488986308886,Luke Kennard,2017,12.0,23.3,rotation
+izaiyah nelson,Izaiyah Nelson,1,2.130142740117475,Kenneth Faried,2011,22.0,24.5,starter
+izaiyah nelson,Izaiyah Nelson,2,2.18327041435376,Tyler Bey,2020,36.0,3.9,bust
+izaiyah nelson,Izaiyah Nelson,3,2.1900146397038855,Damion James,2010,24.0,16.0,rotation
+izaiyah nelson,Izaiyah Nelson,4,2.272734375078,Wesley Johnson,2010,4.0,22.1,rotation
+izaiyah nelson,Izaiyah Nelson,5,2.4661419573939236,Danny Granger,2005,17.0,31.5,star
+bruce thornton,Bruce Thornton,1,2.523021589068062,Frank Mason,2017,34.0,15.7,rotation
+bruce thornton,Bruce Thornton,2,2.8308716594127064,Derrick White,2017,29.0,27.1,starter
+bruce thornton,Bruce Thornton,3,2.895522216816906,Marcus Denmon,2012,59.0,0.0,bust
+bruce thornton,Bruce Thornton,4,2.9424681750621913,Charles Jenkins,2011,44.0,12.1,bench
+bruce thornton,Bruce Thornton,5,3.0273295551572335,John Jenkins,2012,23.0,12.8,bench
+milos uzan,Milos Uzan,1,1.9165898235007548,Isaiah Cousins,2016,59.0,0.0,bust
+milos uzan,Milos Uzan,2,2.147252435162839,Marcus Paige,2016,55.0,5.6,bust
+milos uzan,Milos Uzan,3,2.917445867621673,Demetrius Jackson,2016,45.0,5.2,bust
+milos uzan,Milos Uzan,4,3.0087247572781766,Lorenzo Brown,2013,52.0,11.5,bench
+milos uzan,Milos Uzan,5,3.072747848726314,Joe Harris,2014,33.0,24.4,starter
+tyler nickel,Tyler Nickel,1,1.527862824730533,Darius Miller,2012,46.0,19.8,rotation
+tyler nickel,Tyler Nickel,2,1.678502936516284,Jake Layman,2016,47.0,12.8,bench
+tyler nickel,Tyler Nickel,3,1.7054119398122614,Pat Connaughton,2015,41.0,19.3,rotation
+tyler nickel,Tyler Nickel,4,1.8984814397837206,Solomon Hill,2013,23.0,21.5,rotation
+tyler nickel,Tyler Nickel,5,2.034903145344827,Justinian Jessup,2020,51.0,0.0,bust
+braden smith,Braden Smith,1,2.279974871616615,Monte Morris,2017,51.0,25.6,starter
+braden smith,Braden Smith,2,2.962832026463041,Tyler Ulis,2016,34.0,20.9,rotation
+braden smith,Braden Smith,3,3.018295004696889,Peyton Siva,2013,56.0,9.3,bench
+braden smith,Braden Smith,4,3.0492597638066634,Darren Collison,2009,21.0,29.3,starter
+braden smith,Braden Smith,5,3.101775581042301,Eric Maynor,2009,20.0,14.6,bench
+maliq brown,Maliq Brown,1,2.4109032540588817,Arsalan Kazemi,2013,54.0,0.0,bust
+maliq brown,Maliq Brown,2,3.8500140185538947,Chuma Okeke,2019,16.0,22.2,rotation
+maliq brown,Maliq Brown,3,3.9190439378908826,Matisse Thybulle,2019,20.0,20.8,rotation
+maliq brown,Maliq Brown,4,3.941880055500052,Jordan Bell,2017,38.0,12.0,bench
+maliq brown,Maliq Brown,5,4.107249904613267,Willie Cauley-Stein,2015,6.0,22.0,rotation
+tyler bilodeau,Tyler Bilodeau,1,1.3058019564316792,Justin Harper,2011,32.0,6.8,bust
+tyler bilodeau,Tyler Bilodeau,2,1.8697427987448691,Semi Ojeleye,2017,37.0,14.5,bench
+tyler bilodeau,Tyler Bilodeau,3,1.9283213025888228,Corey Kispert,2021,15.0,24.9,starter
+tyler bilodeau,Tyler Bilodeau,4,1.9586069563075417,Rui Hachimura,2019,9.0,26.4,starter
+tyler bilodeau,Tyler Bilodeau,5,2.01919896982557,Luke Babbitt,2010,16.0,14.0,bench
+felix okpara,Felix Okpara,1,2.420628488814323,Fab Melo,2012,22.0,6.0,bust
+felix okpara,Felix Okpara,2,2.45678529444986,Miles Plumlee,2012,26.0,16.4,rotation
+felix okpara,Felix Okpara,3,2.5602407706562222,Patrick Patterson,2010,14.0,20.8,rotation
+felix okpara,Felix Okpara,4,2.6576525108911273,Quincy Acy,2012,37.0,16.0,rotation
+felix okpara,Felix Okpara,5,2.6951639729116237,DJ Wilson,2017,17.0,12.3,bench
+tamin lipsey,Tamin Lipsey,1,1.4931581507934846,Jevon Carter,2018,32.0,16.0,rotation
+tamin lipsey,Tamin Lipsey,2,2.224996052733874,Davion Mitchell,2021,9.0,20.9,rotation
+tamin lipsey,Tamin Lipsey,3,2.3219847829492157,Ty Jerome,2019,24.0,17.3,rotation
+tamin lipsey,Tamin Lipsey,4,2.4188739857158894,Earl Watson,2001,40.0,22.2,rotation
+tamin lipsey,Tamin Lipsey,5,2.451436333595739,Miles McBride,2021,36.0,10.6,bench
+pavle backo,Pavle Backo,1,1.962509003856204,Jahlil Okafor,2015,3.0,19.5,rotation
+pavle backo,Pavle Backo,2,2.167756763438288,Isaiah Stewart,2020,16.0,25.7,starter
+pavle backo,Pavle Backo,3,2.2912447592248655,Zeke Nnaji,2020,22.0,12.6,bench
+pavle backo,Pavle Backo,4,2.38072208938994,Deandre Ayton,2018,1.0,30.7,starter
+pavle backo,Pavle Backo,5,2.4116011485635855,Reggie Perry,2020,57.0,11.1,bench
+kylan boswell,Kylan Boswell,1,2.232989414917262,Solomon Hill,2013,23.0,21.5,rotation
+kylan boswell,Kylan Boswell,2,2.286340324540859,Tim Hardaway Jr.,2013,24.0,27.5,starter
+kylan boswell,Kylan Boswell,3,2.2868002374348397,Wayne Ellington,2009,28.0,20.9,rotation
+kylan boswell,Kylan Boswell,4,2.3084304386001406,Andrew Harrison,2015,44.0,20.6,rotation
+kylan boswell,Kylan Boswell,5,2.331391163400101,Darius Miller,2012,46.0,19.8,rotation
+tobi lawal,Tobi Lawal,1,1.817686238129422,Dewan Hernandez,2019,59.0,4.7,bust
+tobi lawal,Tobi Lawal,2,2.306566413081853,Cady Lalanne,2015,55.0,0.0,bust
+tobi lawal,Tobi Lawal,3,2.7159314174674103,Abdel Nader,2016,58.0,12.8,bench
+tobi lawal,Tobi Lawal,4,2.731700866197486,Cory Jefferson,2014,60.0,10.0,bench
+tobi lawal,Tobi Lawal,5,2.7460593153698634,Carrick Felix,2013,33.0,5.4,bust
+rafael castro,Rafael Castro,1,2.1871271121703346,Tyler Bey,2020,36.0,3.9,bust
+rafael castro,Rafael Castro,2,2.3998468577612253,Kenneth Faried,2011,22.0,24.5,starter
+rafael castro,Rafael Castro,3,2.45963204521808,Damion James,2010,24.0,16.0,rotation
+rafael castro,Rafael Castro,4,2.4995350825836526,Wesley Johnson,2010,4.0,22.1,rotation
+rafael castro,Rafael Castro,5,2.613632547296248,Shane Battier,2001,6.0,30.7,star
+keyshawn hall,Keyshawn Hall,1,1.2338937575997757,Georges Niang,2016,50.0,16.2,rotation
+keyshawn hall,Keyshawn Hall,2,1.635972798315452,Semi Ojeleye,2017,37.0,14.5,bench
+keyshawn hall,Keyshawn Hall,3,1.6569933497183493,Sam Young,2009,36.0,15.9,rotation
+keyshawn hall,Keyshawn Hall,4,1.707749566920458,Quincy Pondexter,2010,26.0,15.6,rotation
+keyshawn hall,Keyshawn Hall,5,1.7214265360602408,Jaron Blossomgame,2017,59.0,16.3,rotation
+dillon mitchell,Dillon Mitchell,1,2.263463465163136,Chandler Parsons,2011,38.0,30.1,starter
+dillon mitchell,Dillon Mitchell,2,2.3442992413150723,Terance Mann,2019,48.0,21.9,rotation
+dillon mitchell,Dillon Mitchell,3,2.534695327583366,DeAndre Liggins,2011,53.0,10.8,bench
+dillon mitchell,Dillon Mitchell,4,2.6040210478375854,Cody Martin,2019,36.0,21.4,rotation
+dillon mitchell,Dillon Mitchell,5,2.6123633044056835,JP Tokoto,2015,58.0,0.0,bust
+quadir copeland,Quadir Copeland,1,1.903031233192528,Blake Stepp,2004,58.0,0.0,bust
+quadir copeland,Quadir Copeland,2,1.9533679026730657,Javaris Crittenton,2007,19.0,16.4,rotation
+quadir copeland,Quadir Copeland,3,2.2690798474007083,Jarrett Jack,2005,22.0,27.8,starter
+quadir copeland,Quadir Copeland,4,2.2971087790356073,Greivis Vasquez,2010,28.0,23.7,rotation
+quadir copeland,Quadir Copeland,5,2.338652470043555,Jay Williams,2002,2.0,26.1,starter
+nick boyd,Nick Boyd,1,1.8510614711813287,Jack McClinton,2009,51.0,0.0,bust
+nick boyd,Nick Boyd,2,2.6434544366182395,Nolan Smith,2011,21.0,9.9,bench
+nick boyd,Nick Boyd,3,2.8388244766029187,Frank Mason,2017,34.0,15.7,rotation
+nick boyd,Nick Boyd,4,2.9228350587022867,Joseph Young,2015,43.0,8.5,bench
+nick boyd,Nick Boyd,5,2.9356394798760235,Xavier Thames,2014,59.0,0.0,bust
+peter suder,Peter Suder,1,2.5768153011550567,Abdel Nader,2016,58.0,12.8,bench
+peter suder,Peter Suder,2,2.762295547226641,Carrick Felix,2013,33.0,5.4,bust
+peter suder,Peter Suder,3,2.8259474519247263,Skylar Mays,2020,50.0,11.7,bench
+peter suder,Peter Suder,4,2.957976859931507,Melvin Frazier,2018,35.0,9.1,bench
+peter suder,Peter Suder,5,2.983890808188271,Kim English,2012,44.0,9.9,bench
+nate bittle,Nate Bittle,1,2.2002565280587607,Mfiondu Kabengele,2019,27.0,6.9,bust
+nate bittle,Nate Bittle,2,2.263813753945767,Cameron Bairstow,2014,49.0,4.6,bust
+nate bittle,Nate Bittle,3,2.2758281714126816,JaJuan Johnson,2011,27.0,8.3,bench
+nate bittle,Nate Bittle,4,2.2938535750329057,Mason Plumlee,2013,22.0,22.6,rotation
+nate bittle,Nate Bittle,5,2.402488749605781,Sandro Mamukelashvili,2021,54.0,11.4,bench
+aaron nkrumah,Aaron Nkrumah,1,3.5315817843344783,DeMarre Carroll,2009,27.0,23.7,rotation
+aaron nkrumah,Aaron Nkrumah,2,3.6005149272698547,RJ Hunter,2015,28.0,8.8,bench
+aaron nkrumah,Aaron Nkrumah,3,3.6220113753297736,James Ennis,2013,50.0,20.3,rotation
+aaron nkrumah,Aaron Nkrumah,4,3.6889046518426096,Michael Gbinije,2016,49.0,3.5,bust
+aaron nkrumah,Aaron Nkrumah,5,3.792701852212777,Tim Pickett,2004,44.0,0.0,bust
+trey kaufman renn,Trey Kaufman-Renn,1,1.9232146990092192,Vince Edwards,2018,52.0,7.9,bust
+trey kaufman renn,Trey Kaufman-Renn,2,2.141298647122016,Dwayne Collins,2010,60.0,0.0,bust
+trey kaufman renn,Trey Kaufman-Renn,3,2.2420848722184465,Mason Plumlee,2013,22.0,22.6,rotation
+trey kaufman renn,Trey Kaufman-Renn,4,2.2649852734913303,Semi Ojeleye,2017,37.0,14.5,bench
+trey kaufman renn,Trey Kaufman-Renn,5,2.463240188662811,Colton Iverson,2013,53.0,0.0,bust
+bryce hopkins,Bryce Hopkins,1,1.5928135620823896,Kris Joseph,2012,51.0,5.4,bust
+bryce hopkins,Bryce Hopkins,2,1.674154890980617,Jeffery Taylor,2012,31.0,19.4,rotation
+bryce hopkins,Bryce Hopkins,3,1.7904694970812969,Kyle Singler,2011,33.0,21.9,rotation
+bryce hopkins,Bryce Hopkins,4,1.8541280933298503,DaSean Butler,2010,42.0,0.0,bust
+bryce hopkins,Bryce Hopkins,5,1.8878342214443633,Anthony Brown,2015,34.0,18.6,rotation
+malik reneau,Malik Reneau,1,1.4230440902112715,Georges Niang,2016,50.0,16.2,rotation
+malik reneau,Malik Reneau,2,1.6040835988706212,Tyler Hansbrough,2009,13.0,16.9,rotation
+malik reneau,Malik Reneau,3,1.7667399198716158,Alec Peters,2017,54.0,11.2,bench
+malik reneau,Malik Reneau,4,1.927852270871268,Cameron Bairstow,2014,49.0,4.6,bust
+malik reneau,Malik Reneau,5,1.9778597831159834,Mike Scott,2012,43.0,16.5,rotation
+tucker devries,Tucker DeVries,1,1.2789198905608754,Kris Joseph,2012,51.0,5.4,bust
+tucker devries,Tucker DeVries,2,1.6687344383097997,Anthony Brown,2015,34.0,18.6,rotation
+tucker devries,Tucker DeVries,3,1.7445958754233892,DaSean Butler,2010,42.0,0.0,bust
+tucker devries,Tucker DeVries,4,1.7850477729339116,Kyle Singler,2011,33.0,21.9,rotation
+tucker devries,Tucker DeVries,5,1.7924421633211114,Solomon Hill,2013,23.0,21.5,rotation
+darrion williams,Darrion Williams,1,1.4956229848516993,Kyle Singler,2011,33.0,21.9,rotation
+darrion williams,Darrion Williams,2,1.6779748707731297,Admiral Schofield,2019,42.0,11.1,bench
+darrion williams,Darrion Williams,3,1.7211399491220745,Elijah Hughes,2020,39.0,9.2,bench
+darrion williams,Darrion Williams,4,1.7378062983430798,Dwight Powell,2014,45.0,18.9,rotation
+darrion williams,Darrion Williams,5,1.8231253646829977,Kris Joseph,2012,51.0,5.4,bust
+mark mitchell,Mark Mitchell,1,1.769226434640361,Taurean Prince,2016,12.0,24.5,starter
+mark mitchell,Mark Mitchell,2,2.0939272880487425,Jeffery Taylor,2012,31.0,19.4,rotation
+mark mitchell,Mark Mitchell,3,2.179368716099949,Dwight Powell,2014,45.0,18.9,rotation
+mark mitchell,Mark Mitchell,4,2.183368451905285,Dante Cunningham,2009,33.0,20.8,rotation
+mark mitchell,Mark Mitchell,5,2.229440431316664,Joe Johnson,2001,10.0,34.7,star
+jakobi gillespie,Ja’kobi Gillespie,1,2.026362413178315,Ray McCallum,2013,36.0,18.2,rotation
+jakobi gillespie,Ja’kobi Gillespie,2,2.1396789025952603,Tyler Dorsey,2017,41.0,15.7,rotation
+jakobi gillespie,Ja’kobi Gillespie,3,2.269182326157937,Marcus Denmon,2012,59.0,0.0,bust
+jakobi gillespie,Ja’kobi Gillespie,4,2.4038208486605313,Demetrius Jackson,2016,45.0,5.2,bust
+jakobi gillespie,Ja’kobi Gillespie,5,2.4281601196915945,Nick Johnson,2014,42.0,9.4,bench
+wyatt fricks,Wyatt Fricks,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+wyatt fricks,Wyatt Fricks,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+wyatt fricks,Wyatt Fricks,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+wyatt fricks,Wyatt Fricks,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+wyatt fricks,Wyatt Fricks,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+emanuel sharpe,Emanuel Sharpe,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+emanuel sharpe,Emanuel Sharpe,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+emanuel sharpe,Emanuel Sharpe,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+emanuel sharpe,Emanuel Sharpe,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+emanuel sharpe,Emanuel Sharpe,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+lamar wilkerson,Lamar Wilkerson,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+lamar wilkerson,Lamar Wilkerson,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+lamar wilkerson,Lamar Wilkerson,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+lamar wilkerson,Lamar Wilkerson,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+lamar wilkerson,Lamar Wilkerson,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+jaron pierre,Jaron Pierre Jr.,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+jaron pierre,Jaron Pierre Jr.,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+jaron pierre,Jaron Pierre Jr.,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+jaron pierre,Jaron Pierre Jr.,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+jaron pierre,Jaron Pierre Jr.,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+duke miles,Duke Miles,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+duke miles,Duke Miles,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+duke miles,Duke Miles,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+duke miles,Duke Miles,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+duke miles,Duke Miles,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+malique lewis,Malique Lewis,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+malique lewis,Malique Lewis,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+malique lewis,Malique Lewis,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+malique lewis,Malique Lewis,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+malique lewis,Malique Lewis,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+tobe awaka,Tobe Awaka,1,1.6200771999733214,DaJuan Summers,2009,35.0,9.9,bench
+tobe awaka,Tobe Awaka,2,1.860824990224854,Montrezl Harrell,2015,32.0,20.5,rotation
+tobe awaka,Tobe Awaka,3,1.9801366283107176,James Johnson,2009,16.0,20.1,rotation
+tobe awaka,Tobe Awaka,4,2.039000927216946,Raiquan Gray,2021,59.0,35.1,star
+tobe awaka,Tobe Awaka,5,2.046571545848569,Jarnell Stokes,2014,35.0,5.4,bust
+cade tyson,Cade Tyson,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+cade tyson,Cade Tyson,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+cade tyson,Cade Tyson,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+cade tyson,Cade Tyson,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+cade tyson,Cade Tyson,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+jaden henley,Jaden Henley,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+jaden henley,Jaden Henley,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+jaden henley,Jaden Henley,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+jaden henley,Jaden Henley,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+jaden henley,Jaden Henley,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+michael ajayi,Michael Ajayi,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+michael ajayi,Michael Ajayi,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+michael ajayi,Michael Ajayi,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+michael ajayi,Michael Ajayi,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+michael ajayi,Michael Ajayi,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+seth trimble,Seth Trimble,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+seth trimble,Seth Trimble,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+seth trimble,Seth Trimble,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+seth trimble,Seth Trimble,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+seth trimble,Seth Trimble,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+melvin council,Melvin Council Jr.,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+melvin council,Melvin Council Jr.,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+melvin council,Melvin Council Jr.,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+melvin council,Melvin Council Jr.,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+melvin council,Melvin Council Jr.,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+noam yaacov,Noam Yaacov,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+noam yaacov,Noam Yaacov,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+noam yaacov,Noam Yaacov,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+noam yaacov,Noam Yaacov,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+noam yaacov,Noam Yaacov,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+fletcher loyer,Fletcher Loyer,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+fletcher loyer,Fletcher Loyer,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+fletcher loyer,Fletcher Loyer,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+fletcher loyer,Fletcher Loyer,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+fletcher loyer,Fletcher Loyer,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+graham ike,Graham Ike,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+graham ike,Graham Ike,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+graham ike,Graham Ike,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+graham ike,Graham Ike,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+graham ike,Graham Ike,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+jaxon kohler,Jaxon Kohler,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+jaxon kohler,Jaxon Kohler,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+jaxon kohler,Jaxon Kohler,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+jaxon kohler,Jaxon Kohler,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+jaxon kohler,Jaxon Kohler,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+chris bell,Chris Bell,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+chris bell,Chris Bell,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+chris bell,Chris Bell,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+chris bell,Chris Bell,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+chris bell,Chris Bell,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+elijah mahi,Elijah Mahi,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+elijah mahi,Elijah Mahi,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+elijah mahi,Elijah Mahi,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+elijah mahi,Elijah Mahi,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+elijah mahi,Elijah Mahi,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+ernest udeh,Ernest Udeh Jr.,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+ernest udeh,Ernest Udeh Jr.,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+ernest udeh,Ernest Udeh Jr.,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+ernest udeh,Ernest Udeh Jr.,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+ernest udeh,Ernest Udeh Jr.,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+oscar cluff,Oscar Cluff,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+oscar cluff,Oscar Cluff,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+oscar cluff,Oscar Cluff,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+oscar cluff,Oscar Cluff,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+oscar cluff,Oscar Cluff,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+vsevolod ishchenko,Vsevolod Ishchenko,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+vsevolod ishchenko,Vsevolod Ishchenko,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+vsevolod ishchenko,Vsevolod Ishchenko,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+vsevolod ishchenko,Vsevolod Ishchenko,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+vsevolod ishchenko,Vsevolod Ishchenko,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+xaivian lee,Xaivian Lee,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+xaivian lee,Xaivian Lee,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+xaivian lee,Xaivian Lee,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+xaivian lee,Xaivian Lee,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+xaivian lee,Xaivian Lee,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+josh dix,Josh Dix,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+josh dix,Josh Dix,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+josh dix,Josh Dix,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+josh dix,Josh Dix,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+josh dix,Josh Dix,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+tre donaldson,Tre Donaldson,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+tre donaldson,Tre Donaldson,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+tre donaldson,Tre Donaldson,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+tre donaldson,Tre Donaldson,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+tre donaldson,Tre Donaldson,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+donovan atwell,Donovan Atwell,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+donovan atwell,Donovan Atwell,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+donovan atwell,Donovan Atwell,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+donovan atwell,Donovan Atwell,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+donovan atwell,Donovan Atwell,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+william kyle,William Kyle III,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+william kyle,William Kyle III,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+william kyle,William Kyle III,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+william kyle,William Kyle III,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+william kyle,William Kyle III,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+ben humrichous,Ben Humrichous,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+ben humrichous,Ben Humrichous,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+ben humrichous,Ben Humrichous,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+ben humrichous,Ben Humrichous,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+ben humrichous,Ben Humrichous,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+jalen washington,Jalen Washington,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+jalen washington,Jalen Washington,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+jalen washington,Jalen Washington,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+jalen washington,Jalen Washington,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+jalen washington,Jalen Washington,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+lajae jones,Lajae Jones,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+lajae jones,Lajae Jones,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+lajae jones,Lajae Jones,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+lajae jones,Lajae Jones,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+lajae jones,Lajae Jones,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+tre white,Tre White,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+tre white,Tre White,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+tre white,Tre White,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+tre white,Tre White,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+tre white,Tre White,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+chase ross,Chase Ross,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+chase ross,Chase Ross,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+chase ross,Chase Ross,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+chase ross,Chase Ross,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+chase ross,Chase Ross,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+kowacie reeves,Kowacie Reeves Jr.,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+kowacie reeves,Kowacie Reeves Jr.,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+kowacie reeves,Kowacie Reeves Jr.,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+kowacie reeves,Kowacie Reeves Jr.,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+kowacie reeves,Kowacie Reeves Jr.,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+isaac mckneely,Isaac McKneely,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+isaac mckneely,Isaac McKneely,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+isaac mckneely,Isaac McKneely,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+isaac mckneely,Isaac McKneely,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+isaac mckneely,Isaac McKneely,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+tre carroll,Tre Carroll,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+tre carroll,Tre Carroll,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+tre carroll,Tre Carroll,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+tre carroll,Tre Carroll,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+tre carroll,Tre Carroll,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+kashie natt,Kashie Natt,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+kashie natt,Kashie Natt,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+kashie natt,Kashie Natt,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+kashie natt,Kashie Natt,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+kashie natt,Kashie Natt,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star
+nimari burnett,Nimari Burnett,1,0.6050509704893701,Jason Richardson,2001,5.0,34.1,star
+nimari burnett,Nimari Burnett,2,0.7185007305391949,Marcus Williams,2007,33.0,3.0,bust
+nimari burnett,Nimari Burnett,3,0.7513335248226225,Desmond Mason,2000,17.0,30.5,starter
+nimari burnett,Nimari Burnett,4,0.798053007069666,Dijon Thompson,2005,54.0,5.8,bust
+nimari burnett,Nimari Burnett,5,0.8141951570106024,Luol Deng,2004,7.0,34.3,star

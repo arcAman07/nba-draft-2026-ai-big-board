@@ -1,0 +1,22 @@
+{
+  "url": "https://www.espn.com/nba/story/_/id/48790115/2026-nba-mock-draft-projecting-60-picks-post-combine-peterson-dybantsa-boozer",
+  "source_id": "espn_post_combine_mock_2026",
+  "provided": "ESPN post-combine mock draft attempt; used only if HTML exposes pick data.",
+  "status_code": 202,
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Tue, 09 Jun 2026 22:30:11 GMT",
+    "Content-Length": "1988",
+    "Connection": "keep-alive",
+    "x-amzn-waf-action": "challenge",
+    "Cache-Control": "no-store, max-age=0",
+    "Content-Type": "text/html; charset=UTF-8",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 182e352a25f69788407d2b18f81be2a0.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "BOM78-P6",
+    "X-Amz-Cf-Id": "k5jMqG_JvFyZHXDUcPgO8vXaT7oRI4DKJILa_rjhHO5rtlOU9w19iw==",
+    "Referrer-Policy": "origin-when-cross-origin",
+    "Vary": "Origin"
+  },
+  "fetched_at": "2026-06-10T04:00:11+05:30"
+}

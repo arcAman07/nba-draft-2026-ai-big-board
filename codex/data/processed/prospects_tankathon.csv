@@ -1,0 +1,72 @@
+rank,name,position,team_school,height_listed,height_in,weight_lbs,class,age,pts_pg,reb_pg,ast_pg,blk_pg,stl_pg,pts_per36,reb_per36,ast_per36,blk_per36,stl_per36,ts_pct,usg,obpm,dbpm,bpm,source,norm_name
+1,Cameron Boozer,PF,Duke,"6'9.5""",81.5,253.0,Freshman,18.9,22.5,10.2,4.1,0.6,1.4,24.2,11.0,4.4,0.7,1.5,0.653,29.9,12.7,6.0,18.7,Tankathon,cameron boozer
+2,Darryn Peterson,SG/PG,Kansas,"6'5.75""",77.75,199.0,Freshman,19.4,20.2,4.2,1.6,0.6,1.4,25.0,5.2,2.0,0.8,1.8,0.578,33.5,9.3,4.8,14.1,Tankathon,darryn peterson
+3,AJ Dybantsa,SF,BYU,"6'9.75""",81.75,217.0,Freshman,19.4,25.5,6.8,3.7,0.3,1.1,26.4,7.1,3.8,0.4,1.1,0.6,33.9,9.5,2.2,11.7,Tankathon,aj dybantsa
+4,Caleb Wilson,SF/PF,North Carolina,"6'10.5""",82.5,211.0,Freshman,19.9,19.8,9.4,2.7,1.4,1.5,22.8,10.8,3.1,1.6,1.7,0.626,28.7,8.7,5.3,14.0,Tankathon,caleb wilson
+5,Keaton Wagler,SG/PG,Illinois,"6'6.25""",78.25,188.0,Freshman,19.4,17.9,5.1,4.2,0.4,0.9,19.0,5.4,4.5,0.4,1.0,0.596,25.2,8.8,3.5,12.3,Tankathon,keaton wagler
+6,Darius Acuff Jr.,PG,Arkansas,"6'3.25""",75.25,186.0,Freshman,19.6,23.5,3.1,6.4,0.3,0.8,24.1,3.2,6.6,0.3,0.9,0.604,29.5,9.4,0.7,10.1,Tankathon,darius acuff
+7,Kingston Flemings,PG,Houston,"6'3.75""",75.75,183.0,Freshman,19.5,16.1,4.1,5.2,0.3,1.5,18.2,4.6,5.9,0.4,1.7,0.563,26.0,6.6,6.0,12.6,Tankathon,kingston flemings
+8,Brayden Burries,SG/PG,Arizona,"6'5""",77.0,215.0,Freshman,20.8,16.1,4.9,2.4,0.2,1.5,19.4,5.9,2.9,0.2,1.8,0.616,23.2,6.0,5.7,11.7,Tankathon,brayden burries
+9,Mikel Brown Jr.,PG,Louisville,"6'4.75""",76.75,190.0,Freshman,20.2,18.2,3.3,4.7,0.1,1.2,22.4,4.1,5.8,0.2,1.5,0.577,31.4,4.9,1.7,6.6,Tankathon,mikel brown
+10,Nate Ament,SF,Tennessee,"6'10.75""",82.75,211.0,Freshman,19.5,16.7,6.3,2.3,0.6,1.0,20.2,7.7,2.8,0.8,1.2,0.534,29.0,5.1,3.3,8.4,Tankathon,nate ament
+11,Labaron Philon Jr.,PG,Alabama,"6'3.75""",75.75,176.0,Sophomore,20.6,22.0,3.5,5.0,0.2,1.2,25.6,4.1,5.8,0.2,1.3,0.626,30.0,9.2,2.1,11.3,Tankathon,labaron philon
+12,Yaxel Lendeborg,PF,Michigan,"6'10""",82.0,241.0,Senior,23.7,15.1,6.8,3.2,1.2,1.1,18.0,8.1,3.9,1.5,1.3,0.646,20.4,9.8,6.9,16.7,Tankathon,yaxel lendeborg
+13,Karim López,SF,New Zealand,"6'9.5""",81.5,222.0,International,19.2,11.9,6.1,1.9,1.0,1.2,16.8,8.5,2.7,1.5,1.6,0.58,19.5,,,,Tankathon,karim lopez
+14,Cameron Carr,SG,Baylor,"6'5.75""",77.75,184.0,Sophomore,21.6,18.9,5.8,2.6,1.3,0.9,20.2,6.2,2.8,1.4,0.9,0.622,25.3,6.9,2.3,9.2,Tankathon,cameron carr
+15,Hannes Steinbach,PF,Washington,"6'11.5""",83.5,248.0,Freshman,20.1,18.5,11.8,1.6,1.2,1.1,19.3,12.2,1.6,1.3,1.1,0.636,23.9,7.7,2.4,10.1,Tankathon,hannes steinbach
+16,Chris Cenac Jr.,PF/C,Houston,"6'11.5""",83.5,240.0,Freshman,19.4,9.5,7.9,0.7,0.5,0.8,13.8,11.4,1.1,0.7,1.1,0.546,19.9,3.7,3.8,7.5,Tankathon,chris cenac
+17,Morez Johnson Jr.,PF,Michigan,"6'10.25""",82.25,251.0,Sophomore,20.4,13.1,7.3,1.2,1.1,0.7,18.8,10.5,1.7,1.6,1.0,0.677,21.3,6.4,5.4,11.8,Tankathon,morez johnson
+18,Aday Mara,C,Michigan,"7'4.25""",88.25,260.0,Junior,21.2,12.1,6.8,2.4,2.6,0.4,18.6,10.4,3.7,4.0,0.5,0.659,23.1,5.8,8.4,14.3,Tankathon,aday mara
+19,Jayden Quaintance,PF/C,Kentucky,"6'10.25""",82.25,253.0,Sophomore,18.9,5.0,5.0,0.5,0.8,0.5,10.7,10.7,1.1,1.6,1.1,0.496,19.2,0.0,1.8,1.9,Tankathon,jayden quaintance
+20,Bennett Stirtz,PG,Iowa,"6'3.75""",75.75,186.0,Senior,22.7,19.8,2.6,4.4,0.2,1.4,18.9,2.5,4.2,0.2,1.3,0.607,26.9,7.7,2.5,10.2,Tankathon,bennett stirtz
+21,Dailyn Swain,SG/SF,Texas,"6'7.75""",79.75,211.0,Junior,20.9,17.3,7.5,3.6,0.3,1.6,19.0,8.3,3.9,0.3,1.8,0.636,24.6,6.9,3.6,10.5,Tankathon,dailyn swain
+22,Christian Anderson,PG,Texas Tech,"6'2.25""",74.25,180.0,Sophomore,20.2,18.5,3.6,7.4,0.2,1.5,17.4,3.4,6.9,0.2,1.4,0.626,23.8,7.1,2.3,9.4,Tankathon,christian anderson
+23,Allen Graves,PF,Santa Clara,"6'9""",81.0,226.0,Freshman,19.9,11.8,6.5,1.8,0.9,1.9,18.8,10.4,2.9,1.5,3.0,0.613,21.9,8.7,4.7,13.4,Tankathon,allen graves
+24,Ebuka Okorie,PG,Stanford,"6'2.5""",74.5,186.0,Freshman,19.2,23.2,3.6,3.6,0.3,1.6,23.8,3.7,3.7,0.3,1.6,0.589,31.0,8.4,2.2,10.6,Tankathon,ebuka okorie
+25,Koa Peat,PF,Arizona,"6'8.25""",80.25,245.0,Freshman,19.4,14.1,5.6,2.6,0.7,0.6,18.3,7.3,3.3,0.9,0.8,0.557,24.5,4.8,3.9,8.8,Tankathon,koa peat
+26,Isaiah Evans,SF,Duke,"6'6.75""",78.75,186.0,Sophomore,20.5,15.0,3.2,1.3,0.7,0.7,19.2,4.1,1.6,0.8,0.9,0.59,24.9,6.5,3.3,9.8,Tankathon,isaiah evans
+27,Joshua Jefferson,PF/SF,Iowa State,"6'9""",81.0,246.0,Senior,22.6,16.4,7.4,4.8,0.8,1.6,19.1,8.6,5.6,1.0,1.9,0.56,27.6,7.0,6.1,13.0,Tankathon,joshua jefferson
+28,Meleek Thomas,SG/PG,Arkansas,"6'4.25""",76.25,190.0,Freshman,19.9,15.6,3.8,2.5,0.2,1.5,18.5,4.5,2.9,0.2,1.8,0.559,23.6,4.8,2.3,7.0,Tankathon,meleek thomas
+29,Henri Veesaar,C,North Carolina,"7'0.5""",84.5,227.0,Junior,22.2,17.0,8.7,2.1,1.2,0.6,19.5,10.0,2.4,1.4,0.7,0.664,23.3,7.0,3.8,10.7,Tankathon,henri veesaar
+30,Tarris Reed Jr.,C,UConn,"6'11""",83.0,264.0,Senior,22.9,14.7,9.0,2.3,2.0,0.9,19.4,11.8,3.0,2.6,1.2,0.614,26.1,6.7,6.1,12.9,Tankathon,tarris reed
+31,Sergio de Larrea,PG/SG,Valencia,"6'6""",78.0,198.0,International,20.5,7.1,2.2,2.8,0.2,0.5,17.7,5.3,7.0,0.6,1.1,0.596,22.2,,,,Tankathon,sergio de larrea
+32,Alex Karaban,SF/PF,UConn,"6'8""",80.0,225.0,Senior,23.6,13.2,5.3,2.4,0.8,0.8,13.8,5.5,2.5,0.9,0.9,0.59,18.4,5.4,3.6,9.0,Tankathon,alex karaban
+33,Zuby Ejiofor,PF,St. John's,"6'8.75""",80.75,245.0,Senior,22.2,16.3,7.3,3.5,2.1,1.2,19.6,8.8,4.3,2.6,1.4,0.609,24.8,8.5,6.0,14.5,Tankathon,zuby ejiofor
+34,Luigi Suigo,C,KK Mega Basket,"7'4""",88.0,289.0,International,19.4,8.5,5.3,0.9,1.0,0.5,16.9,10.6,1.7,2.0,0.9,0.607,19.0,,,,Tankathon,luigi suigo
+35,Richie Saunders,SG,BYU,"6'6.25""",78.25,205.0,Senior,24.8,18.0,5.8,2.1,0.3,1.7,20.7,6.6,2.4,0.3,2.0,0.632,24.5,7.8,2.9,10.7,Tankathon,richie saunders
+36,Ryan Conwell,SG,Louisville,"6'3.25""",75.25,215.0,Senior,22.0,18.8,4.8,2.7,0.2,1.1,21.9,5.6,3.1,0.2,1.3,0.566,29.5,5.1,2.2,7.3,Tankathon,ryan conwell
+37,Ugonna Onyenso,C,Virginia,"7'0.25""",84.25,237.0,Senior,21.7,6.5,4.9,0.6,2.9,0.6,12.6,9.5,1.1,5.7,1.2,0.616,15.5,4.7,7.6,12.2,Tankathon,ugonna onyenso
+38,Jaden Bradley,PG,Arizona,"6'3.75""",75.75,205.0,Senior,22.8,13.3,3.4,4.4,0.1,1.4,15.6,4.0,5.1,0.1,1.7,0.568,20.9,3.7,5.3,9.0,Tankathon,jaden bradley
+39,Trevon Brazile,PF,Arkansas,"6'10.75""",82.75,226.0,Senior,23.4,13.0,7.3,1.6,1.6,1.5,14.9,8.4,1.8,1.8,1.7,0.619,17.6,5.4,3.9,9.3,Tankathon,trevon brazile
+40,Baba Miller,SF,Cincinnati,"6'11.75""",83.75,208.0,Senior,22.4,13.0,10.3,3.7,1.2,0.7,14.7,11.7,4.2,1.3,0.8,0.576,21.1,3.7,5.8,9.4,Tankathon,baba miller
+41,Jack Kayil,PG,Alba Berlin,"6'3""",75.0,174.0,International,20.4,12.3,2.9,3.7,0.2,1.0,20.7,4.9,6.2,0.3,1.7,0.534,28.9,,,,Tankathon,jack kayil
+42,Otega Oweh,SG,Kentucky,"6'5.5""",77.5,216.0,Senior,22.9,18.6,4.8,2.7,0.3,1.8,20.5,5.3,2.9,0.3,2.0,0.554,28.4,4.0,3.4,7.4,Tankathon,otega oweh
+43,Nick Martinelli,SF,Northwestern,"6'7.75""",79.75,224.0,Senior,22.2,23.0,6.2,2.0,0.4,0.8,23.3,6.3,2.0,0.4,0.8,0.602,31.1,8.0,0.6,8.6,Tankathon,nick martinelli
+44,Ja'Kobi Gillespie,PG,Tennessee,"6'1""",73.0,182.0,Senior,22.3,18.4,2.8,5.4,0.2,2.1,19.1,2.9,5.6,0.2,2.2,0.538,26.9,6.4,4.5,10.9,Tankathon,ja kobi gillespie
+45,Emanuel Sharp,SG,Houston,"6'4""",76.0,208.0,Senior,22.3,15.5,3.0,1.7,0.1,1.2,18.9,3.6,2.1,0.1,1.5,0.582,25.0,5.9,4.8,10.7,Tankathon,emanuel sharp
+46,Izaiyah Nelson,PF/C,South Florida,"6'9.5""",81.5,219.0,Senior,22.7,15.9,9.6,1.2,1.4,1.6,20.9,12.6,1.6,1.9,2.2,0.612,23.7,5.9,3.3,9.2,Tankathon,izaiyah nelson
+47,Bruce Thornton,PG,Ohio State,"6'1.25""",73.25,223.0,Senior,22.8,19.9,5.1,3.9,0.2,1.1,19.6,5.0,3.9,0.2,1.1,0.665,23.6,9.5,3.2,12.7,Tankathon,bruce thornton
+48,Milos Uzan,PG,Houston,"6'4.25""",76.25,185.0,Senior,23.5,11.1,2.7,4.0,0.1,1.0,12.1,2.9,4.4,0.1,1.1,0.493,19.6,2.6,3.8,6.4,Tankathon,milos uzan
+49,Tyler Nickel,SG,Vanderbilt,"6'7.25""",79.25,217.0,Senior,22.8,13.5,3.3,1.2,0.5,0.8,15.9,3.8,1.4,0.6,0.9,0.617,18.9,6.0,1.4,7.5,Tankathon,tyler nickel
+50,Braden Smith,PG,Purdue,"5'11.5""",71.5,167.0,Senior,22.9,14.3,3.5,8.8,0.2,1.7,14.9,3.7,9.2,0.2,1.8,0.551,24.0,6.8,3.0,9.8,Tankathon,braden smith
+51,Maliq Brown,PF,Duke,"6'9.25""",81.25,217.0,Senior,22.6,4.9,5.2,1.6,0.6,1.8,8.8,9.2,2.9,1.1,3.2,0.634,12.7,2.6,8.9,11.6,Tankathon,maliq brown
+52,Tyler Bilodeau,PF,UCLA,"6'8.5""",80.5,228.0,Senior,22.2,17.6,5.6,1.1,0.4,0.5,21.1,6.7,1.3,0.4,0.6,0.656,25.8,7.5,1.4,8.9,Tankathon,tyler bilodeau
+53,Felix Okpara,C,Tennessee,"6'11.25""",83.25,237.0,Senior,22.2,8.0,6.3,0.5,1.5,0.4,10.7,8.5,0.7,2.0,0.6,0.617,13.4,1.8,3.6,5.5,Tankathon,felix okpara
+54,Tamin Lipsey,PG,Iowa State,"6'1""",73.0,200.0,Senior,22.9,13.5,3.9,5.1,0.0,2.3,15.4,4.5,5.8,0.0,2.6,0.54,22.1,5.5,5.8,11.3,Tankathon,tamin lipsey
+55,Pavle Backo,C,KK Mega Basket,"6'11""",83.0,262.0,International,18.9,12.7,4.7,1.2,1.3,0.3,23.8,8.8,2.2,2.3,0.6,0.603,26.5,,,,Tankathon,pavle backo
+56,Kylan Boswell,PG,Illinois,"6'2.5""",74.5,226.0,Senior,21.2,12.3,4.0,3.0,0.0,0.7,14.7,4.8,3.6,0.0,0.9,0.559,20.4,3.9,3.1,7.0,Tankathon,kylan boswell
+57,Tobi Lawal,PF,Virginia Tech,"6'8.5""",80.5,214.0,Senior,23.1,12.3,8.5,0.6,1.1,0.3,15.2,10.5,0.8,1.4,0.4,0.635,20.0,2.3,1.6,3.9,Tankathon,tobi lawal
+58,Rafael Castro,C,George Washington,"6'10.25""",82.25,224.0,Senior,23.2,15.3,9.1,1.7,1.7,1.8,20.1,12.0,2.2,2.3,2.3,0.645,24.2,6.1,3.4,9.5,Tankathon,rafael castro
+59,Keyshawn Hall,SF,Auburn,"6'7.25""",79.25,227.0,Senior,23.2,19.3,7.1,2.6,0.6,0.7,20.6,7.6,2.8,0.7,0.8,0.606,26.7,6.5,1.0,7.5,Tankathon,keyshawn hall
+60,Dillon Mitchell,SF,St. John's,"6'8""",80.0,202.0,Senior,22.7,8.3,7.0,3.0,0.7,1.3,10.7,9.0,3.8,0.9,1.6,0.555,14.5,3.9,5.3,9.3,Tankathon,dillon mitchell
+61,Quadir Copeland,PG/SG,NC State,"6'6""",78.0,220.0,Senior,22.8,13.9,3.6,6.5,0.1,1.8,17.4,4.5,8.1,0.2,2.2,0.592,25.6,4.5,3.2,7.8,Tankathon,quadir copeland
+62,Nick Boyd,PG/SG,Wisconsin,"6'2.25""",74.25,176.0,Senior,25.2,20.7,3.8,4.3,0.0,1.0,23.4,4.3,4.8,0.0,1.2,0.588,30.6,7.6,1.9,9.5,Tankathon,nick boyd
+63,Peter Suder,SG,Miami (Ohio),"6'5""",77.0,213.0,Senior,22.9,14.8,4.6,4.0,0.4,1.3,17.1,5.4,4.7,0.5,1.5,0.633,21.8,2.5,1.0,3.5,Tankathon,peter suder
+64,Nate Bittle,C,Oregon,"7'0""",84.0,250.0,Senior,23.0,16.8,6.9,2.6,1.8,0.9,19.4,8.0,3.0,2.1,1.0,0.563,28.2,6.1,2.9,9.0,Tankathon,nate bittle
+65,Aaron Nkrumah,SG,Tennessee State,"6'6.25""",78.25,189.0,Senior,24.6,17.7,5.5,3.0,0.5,2.8,20.3,6.3,3.5,0.6,3.2,0.552,27.6,2.9,1.9,4.8,Tankathon,aaron nkrumah
+66,Trey Kaufman-Renn,PF,Purdue,"6'9""",81.0,241.0,Senior,23.8,14.2,8.3,2.5,0.2,0.4,18.1,10.7,3.3,0.3,0.5,0.59,24.9,6.2,2.3,8.4,Tankathon,trey kaufman renn
+67,Bryce Hopkins,SF,St. John's,"6'7.25""",79.25,219.0,Senior,23.8,13.6,6.2,1.9,0.3,1.1,17.0,7.8,2.4,0.3,1.4,0.558,22.4,5.0,3.5,8.5,Tankathon,bryce hopkins
+68,Malik Reneau,PF,Miami,"6'9""",81.0,238.0,Senior,23.2,18.9,6.5,2.1,0.8,1.1,23.5,8.1,2.6,1.0,1.3,0.618,30.6,6.0,2.5,8.5,Tankathon,malik reneau
+69,Tucker DeVries,SG/SF,Indiana,"6'7""",79.0,220.0,Senior,23.5,13.7,5.3,3.3,0.6,1.1,14.4,5.5,3.5,0.6,1.2,0.546,21.9,3.9,3.0,6.9,Tankathon,tucker devries
+70,Darrion Williams,SF,NC State,"6'5.75""",77.75,236.0,Senior,23.2,14.0,4.6,2.8,0.3,1.1,16.7,5.5,3.3,0.4,1.3,0.533,24.6,4.0,1.2,5.2,Tankathon,darrion williams
+71,Mark Mitchell,SF/PF,Missouri,"6'9""",81.0,230.0,Senior,22.8,18.3,5.2,3.6,0.5,0.7,19.7,6.5,1.8,0.7,2.2,0.55,26.9,4.4,1.7,6.1,Tankathon,mark mitchell

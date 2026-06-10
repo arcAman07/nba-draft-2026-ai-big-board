@@ -1,0 +1,23 @@
+{
+  "url": "https://theringer.com/nba-draft/2026/big-board",
+  "source_id": "ringer_big_board_2026",
+  "provided": "The Ringer draft guide big board attempt; used only if accessible.",
+  "status_code": 200,
+  "headers": {
+    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "x-nextjs-cache": "STALE",
+    "x-nextjs-prerender": "1",
+    "x-nextjs-stale-time": "60",
+    "x-powered-by": "Next.js",
+    "cache-control": "s-maxage=60, stale-while-revalidate=31535940",
+    "etag": "\"xzvxr0xgw9s08c\"",
+    "content-type": "text/html; charset=utf-8",
+    "content-encoding": "gzip",
+    "date": "Tue, 09 Jun 2026 22:30:20 GMT",
+    "server": "Google Frontend",
+    "via": "1.1 google",
+    "Alt-Svc": "h3=\":443\"; ma=2592000",
+    "Transfer-Encoding": "chunked"
+  },
+  "fetched_at": "2026-06-10T04:00:20+05:30"
+}

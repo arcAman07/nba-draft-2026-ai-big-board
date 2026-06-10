@@ -1,0 +1,27 @@
+{
+  "url": "https://bleacherreport.com/articles/25262746-2026-nba-mock-draft",
+  "source_id": "bleacher_mock_2026",
+  "provided": "Bleacher Report full mock draft attempt; used only if accessible.",
+  "status_code": 200,
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "391723",
+    "Content-Type": "text/html; charset=utf-8",
+    "geo-country-code": "IN",
+    "x-powered-by": "Next.js",
+    "content-encoding": "gzip",
+    "x-wbd-session-state": "experience:eyJhbGciOiJIUzI1NiJ9.eyJtZXRhZGF0YSI6eyJpZCI6ImV4cGVyaWVuY2UiLCJ2ZXJzaW9uIjoidjEiLCJzdGF0dXMiOiJTVEFUVVNfQUNUSVZFIn0sImFwcEV4cGVyaWVuY2UiOiJpbnRlcm5hdGlvbmFsIiwicHJvZHVjdExpbmUiOiJkNjQ2NDM0ZC1iY2Y5LTRlNDAtODhmYi1jNWNhNTJkOGNjZjAiLCJjb21tZXJjZUxpbmUiOiI0UTJIRTIifQ.JnozKlesa5yIPLK-RmvjeFYTxiT9sYCvb7LDs84j79I;device:eyJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..k9QECGogLQhIzhit.2yLfa5cMqbV2yc9B-jCvuKNuaEoL00_9oWCmg1wjug.0fdqdZNLMoxOtRj-TqkGoA;geolocation:eyJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..f_XlDlj4fPVGh9yn.j8Jb-nOOIxRKerR4S-4Ik1-uulC5_ftR3MtRi0AuNpFY1TkzVbh58j3xT4GCKoz1lZuPm4z7Od2s29s_qSh2G33S23QZ_jTTb4Z869mxGTUgtGDRtYmcHbVdosYNUGFsRo4XOZrO_tyqu2_HmT9e1p9EXkCwi3EYVDl_TmJC-YKGXixZOjJJFUIqhyjVyibnYWY4L6rW9amq5tsLxKq7HXgAdTsMGZ1nk8neBUg6RZbSjSEkiPt3zVadjBtAiaNpZa3So0JnJ0AgJdAZMXXrCtjZsJgNZF7UjcTZnoJbEy7D-uzhNsgKTEXlbfekEbj6rKpu5dWsnLjtXgD2Hc089S7kW_UARjwQ15gSBUV7dBfNHpeHT2VhZEr1XlWsZeSXJ46brfvZa8WXKBJBXaZur0TOOvwgPwkEpnMnJT5kC51bzWa-_2dfkfva2bhKkATcVqDElJxRY964oCyzmQtLxlHF_kPLDVnEMGw07sSnbYhM_aYWhlPURUgi8W1V-bn3JJ_q-Cw2uVjwHcXDQuCJU9fOHQGGiSYfyMzqwB8d0XJSXzC7vo9mQmsXssRX2Fslh8eFPvU5mLDwcDLxTBHdyOKaosh7zrEIR4wz6RLWIylLY3JTR2DRA50iJuQY9z7vbgiUj2sKPnpQz0EDGdtFEB_l4hQkIiZEqePXO9C2qBKRxxhkAGs.QEMmys1WiuxBDgKizIZ-qg;token:eyJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIn0..-UKlfqijPixIcYby.YLvOBrrC0CIhCNJohUkkkHMEmnigo8MCap6uro6bo4F4afltpEv3hP0n0fflXh6xA1fK63ndOJTL9n9YY3h2tYFNZU0slDMB0BDABslBe4z2sw.nAzSmcJ3iXszVuKZKia4hA",
+    "cache-control": "no-cache, no-store",
+    "Via": "1.1 varnish, 1.1 varnish",
+    "Accept-Ranges": "bytes",
+    "Age": "19377",
+    "Date": "Tue, 09 Jun 2026 22:30:16 GMT",
+    "X-Served-By": "cache-iad-kcgs7200154-IAD, cache-bom-vanm7210086-BOM",
+    "X-Cache": "HIT, HIT",
+    "X-Cache-Hits": "3, 0",
+    "Vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, geo-region-code, geo-country-code, br-tag, client-utc-offset, Accept-Encoding",
+    "Strict-Transport-Security": "max-age=31557600",
+    "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400"
+  },
+  "fetched_at": "2026-06-10T04:00:16+05:30"
+}

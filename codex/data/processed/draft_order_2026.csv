@@ -1,0 +1,31 @@
+pick,owner,acquired_note,source
+1,Washington,,NBA.com
+2,Utah,,NBA.com
+3,Memphis,,NBA.com
+4,Chicago,,NBA.com
+5,LA Clippers,from Indiana,NBA.com
+6,Brooklyn,,NBA.com
+7,Sacramento,,NBA.com
+8,Atlanta,from New Orleans,NBA.com
+9,Dallas,,NBA.com
+10,Milwaukee,,NBA.com
+11,Golden State,,NBA.com
+12,Oklahoma City,from the LA Clippers,NBA.com
+13,Miami,,NBA.com
+14,Charlotte,,NBA.com
+15,Chicago,from Portland,NBA.com
+16,Memphis,from Phoenix via Orlando,NBA.com
+17,Oklahoma City,from Philadelphia,NBA.com
+18,Charlotte,from Orlando via Phoenix,NBA.com
+19,Toronto,,NBA.com
+20,San Antonio,from Atlanta,NBA.com
+21,Detroit,from Minnesota,NBA.com
+22,Philadelphia,from Houston via Oklahoma City,NBA.com
+23,Atlanta,from Cleveland,NBA.com
+24,New York,,NBA.com
+25,Los Angeles Lakers,,NBA.com
+26,Denver,,NBA.com
+27,Boston,,NBA.com
+28,Minnesota,from Detroit,NBA.com
+29,Cleveland,from San Antonio via Atlanta,NBA.com
+30,Dallas,from Oklahoma City via WAS and PHI #,NBA.com

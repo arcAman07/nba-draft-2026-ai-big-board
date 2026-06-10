@@ -1,0 +1,31 @@
+{
+  "url": "https://www.cbssports.com/nba/draft/mock-draft/",
+  "source_id": "cbs_mock_2026",
+  "provided": "CBS mock draft attempt; used only if HTML exposes pick data.",
+  "status_code": 200,
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "209572",
+    "content-type": "text/html; charset=UTF-8",
+    "x-media": "site-sportsmedia-prod-c4f8cdd58-8s57q",
+    "etag": "W/\"80237108d0528672f2eb72417590ae69\"",
+    "content-encoding": "gzip",
+    "X-BE-Age": "0",
+    "X-Assigned-TTL": "300.000",
+    "X-Cacheable": "1",
+    "Accept-Ranges": "bytes",
+    "Date": "Tue, 09 Jun 2026 22:30:15 GMT",
+    "Access-Control-Allow-Origin": "*",
+    "Server": "ContentServer",
+    "Set-Cookie": "fly_ab_uid=86e2c4d9-7137-4494-98ca-94f1d29af99f; max-age=(null); path=/; domain=.cbssports.com;",
+    "Content-Security-Policy": "frame-ancestors 'self' *.cbssports.com *.sportsline.com popculture.com comicbook.com 247sports.com *.247sports.com *.maxpreps.com *.ampproject.org; default-src https: blob: wss: 'unsafe-inline' 'unsafe-eval'; font-src https: blob: data:; media-src https: blob: data:; img-src https: blob: data: android-webview: android-webview-video-poster:; object-src 'none'; block-all-mixed-content;",
+    "X-Final-Cache-Control": "max-age=300, public",
+    "X-Cache-State": "HIT-CLUSTER",
+    "X-Age": "0.000",
+    "X-Remaining-TTL": "300.000",
+    "X-Auth-Present": "false",
+    "Vary": "Accept-Encoding",
+    "Cache-Control": "private, max-age=0"
+  },
+  "fetched_at": "2026-06-10T04:00:15+05:30"
+}

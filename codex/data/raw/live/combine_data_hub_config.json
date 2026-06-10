@@ -1,0 +1,22 @@
+{
+    "Amplify": {
+      "API": {
+        "endpoints": [
+          {
+            "name": "APIEndpoint",
+            "endpoint": "https://nbaapi.westloop.io"
+          }
+        ]
+      }
+    },
+    "apiUrl": "nbaapi.westloop.io",
+    "ApplicationNameParameter": "AWS NBA Draft Combine Portal",
+    "PrimaryColorParameter": "#003e83",
+    "LogoUrlParameter": "https://wls-public.s3.amazonaws.com/Mono.png",
+    "SupportEmailParameter": "support@westloop.io",
+    "showWlsLogo": false,
+    "DashboardIds": [{"type": "dashboard", "key": "1beaef4e-0fa1-430d-a146-706fa5f3bfa1", "text": "NBA Draft Combine Dashboard", "url": "nba-draft-combine"}, {"type": "dashboard", "key": "d7131397-74b1-4210-967c-96f88c8fcdff", "text": "NBA Draft Combine Dashboard V1", "url": "nba-draft-combine-v1"}, {"type": "dashboard", "key": "0eec01bb-d798-45d5-9d96-09012b4cced7", "text": "NBA Draft Combine Dashboard V2", "url": "nba-draft-combine-v2"}, {"type": "dashboard", "key": "ba96c26d-33fe-4e0c-8a1a-227a1cc7962c", "text": "NBA Draft Combine Dashboard V2", "url": "nba-draft-combine-v3"}],
+    "apiKey": "lBKnbTLOSs2k118DrqAAB4hklSxlolrD9bUdSLIu",
+    "passwordRequired": false,
+    "pw": ""
+  }

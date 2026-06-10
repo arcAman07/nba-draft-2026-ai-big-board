@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="AWS NBA Draft Combine"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" href="/logo192.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <script type="text/javascript" src="https://cdn.nba.com/user-consent/index.min.js"></script>
+        <script>
+      (function () {
+        const params = new URLSearchParams(window.location.search);
+
+        if (params.get("header_hide") === "true") {
+          document.documentElement.classList.add("hide-header");
+          window.__APP_FLAGS__ = {
+            hideHeader:true
+          };
+        }
+        if (params.get("footer_hide") === "true") {
+          document.documentElement.classList.add("hide-footer");
+        }
+      })();
+    </script>
+
+    <style>
+      .hide-header #nba-nav {
+        display: none !important;
+      }
+
+      .hide-footer #nba-footer {
+        display: none !important;
+      }
+    </style>
+    <!-- <script>
+      window.nbaUserConsentConfig = {
+        domId: "YOUR DOM ID",
+        // "enableDebug": true
+      }
+    </script> -->
+    <!-- <style>
+      @font-face {
+        font-family: "Knockout";
+        src: url("https://wls-public.s3.us-east-1.amazonaws.com/KnockoutW05-67FullBantamweight.woff2") format("woff2");
+        font-weight: 700;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: "Knockout";
+        src: url("https://wls-public.s3.us-east-1.amazonaws.com/KnockoutW05-49Liteweight.woff2") format("woff2");
+        font-weight: 300;
+        font-style: normal;
+      }
+    </style> -->
+    <title>AWS NBA Draft Combine</title>
+    <script type="module" crossorigin src="/assets/index-DTYe8SNW.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DpqYtzGL.css">
+  </head>
+  <body>
+    <div id="nba-nav"></div>
+
+    <!-- <noscript>You need to enable JavaScript to run this app.</noscript> -->
+    <div id="root"></div>
+    <div id="nba-footer"></div>
+    <script>
+      (function () {
+        const params = new URLSearchParams(window.location.search);
+
+        if (params?.get("footer-hide") === "true") {
+          document?.getElementById("nba-footer")?.remove();
+        }
+        if (params?.get("header_hide") === "true") {
+          document?.getElementById("nba-nav")?.remove();
+        }
+      })();
+    </script>
+    <script async src="https://www.nba.com/include/nav-footer.js"></script>
+    <script src="https://tags.nba.com/nba-subdomain/prod/utag.js" id="tealium-script" type="text/javascript" async="true"></script>
+  </body>
+</html>

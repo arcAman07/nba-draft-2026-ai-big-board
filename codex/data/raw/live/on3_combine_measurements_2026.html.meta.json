@@ -1,0 +1,29 @@
+{
+  "url": "https://www.on3.com/pro/news/2026-nba-draft-winners-losers-from-combine-measurements-notable-numbers/",
+  "source_id": "on3_combine_measurements_2026",
+  "provided": "On3 combine measurement notes for cross-checking selected prospects.",
+  "status_code": 200,
+  "headers": {
+    "Date": "Tue, 09 Jun 2026 22:30:26 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "CF-Ray": "a09394a97919252e-BOM",
+    "CF-Cache-Status": "MISS",
+    "Cache-Control": "private, no-cache, no-store, max-age=0, must-revalidate",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Vary": "Accept-Encoding",
+    "content-security-policy": "",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-frame-options": "deny",
+    "x-powered-by": "Next.js",
+    "x-snippet": "canonical-cache-snippet",
+    "x-snippet-canonical": "https://www.on3.com/pro/news/2026-nba-draft-winners-losers-from-combine-measurements-notable-numbers/",
+    "x-xss-protection": "1",
+    "Server-Timing": "cfCacheStatus;desc=\"MISS\", cfEdge;dur=1199,cfOrigin;dur=0",
+    "Content-Encoding": "gzip"
+  },
+  "fetched_at": "2026-06-10T04:00:26+05:30"
+}

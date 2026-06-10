@@ -1,0 +1,22 @@
+{
+  "url": "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players",
+  "source_id": "espn_big_board_2026",
+  "provided": "ESPN top-100 board attempt; used only if HTML exposes ranking data.",
+  "status_code": 202,
+  "headers": {
+    "Server": "CloudFront",
+    "Date": "Tue, 09 Jun 2026 22:30:10 GMT",
+    "Content-Length": "1988",
+    "Connection": "keep-alive",
+    "x-amzn-waf-action": "challenge",
+    "Cache-Control": "no-store, max-age=0",
+    "Content-Type": "text/html; charset=UTF-8",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 182e352a25f69788407d2b18f81be2a0.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "BOM78-P6",
+    "X-Amz-Cf-Id": "ejCrPh6663ZwovjE5nh4KlRB9etkw2CCKsJHgP4f5A_tL-G2JH8grw==",
+    "Referrer-Policy": "origin-when-cross-origin",
+    "Vary": "Origin"
+  },
+  "fetched_at": "2026-06-10T04:00:10+05:30"
+}

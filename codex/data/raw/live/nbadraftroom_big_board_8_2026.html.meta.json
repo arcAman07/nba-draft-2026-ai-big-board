@@ -1,0 +1,24 @@
+{
+  "url": "https://nbadraftroom.com/2026-nba-draft-big-board-8-0/",
+  "source_id": "nbadraftroom_big_board_8_2026",
+  "provided": "NBA Draft Room Big Board 8.0 and scouting blurbs.",
+  "status_code": 200,
+  "headers": {
+    "Server": "nginx",
+    "Date": "Tue, 09 Jun 2026 22:30:23 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding",
+    "X-Pingback": "https://nbadraftroom.com/xmlrpc.php",
+    "X-Cache-Enabled": "True",
+    "X-UA-Compatible": "IE=edge",
+    "Link": "<https://nbadraftroom.com/wp-json/>; rel=\"https://api.w.org/\", <https://nbadraftroom.com/wp-json/wp/v2/posts/32505>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://nbadraftroom.com/?p=32505>; rel=shortlink",
+    "X-Httpd": "1",
+    "Host-Header": "6b7412fb82ca5edfd0917e3957f05d89",
+    "X-Proxy-Cache": "EXPIRED",
+    "X-Proxy-Cache-Info": "0 NC:000000 UP:",
+    "Content-Encoding": "gzip"
+  },
+  "fetched_at": "2026-06-10T04:00:24+05:30"
+}

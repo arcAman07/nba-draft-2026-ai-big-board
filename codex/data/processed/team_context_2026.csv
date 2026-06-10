@@ -1,0 +1,31 @@
+pick,owner,timeline_inference,needs_inference,acquired_note,source_for_pick,context_type
+1,Washington,rebuilding,primary creator; wing scoring; defensive identity,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+2,Utah,rebuilding,on-ball creation; lead guard; two-way wings,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+3,Memphis,retooling,frontcourt skill; wing size; half-court offense,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+4,Chicago,rebuilding,top-end talent; creator; frontcourt anchor,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+5,LA Clippers,rebuilding,young creator; athleticism; long-term star equity,from Indiana,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+6,Brooklyn,rebuilding,creation; frontcourt upside; shooting,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+7,Sacramento,retooling,lead guard depth; point-of-attack defense; wing size,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+8,Atlanta,retooling,defensive forward; secondary playmaking; rim pressure,from New Orleans,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+9,Dallas,contending/retooling,two-way wing; guard depth; future upside,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+10,Milwaukee,contending/retooling,youth; shot creation; frontcourt depth,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+11,Golden State,contending/retooling,NBA-ready guard/wing; shooting; defensive versatility,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+12,Oklahoma City,contending,luxury upside swing; size; stash flexibility,from the LA Clippers,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+13,Miami,retooling,shot creation; forward size; shooting,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+14,Charlotte,rebuilding,defensive big; connective forward; shooting,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+15,Chicago,rebuilding,top-end talent; creator; frontcourt anchor,from Portland,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+16,Memphis,retooling,frontcourt skill; wing size; half-court offense,from Phoenix via Orlando,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+17,Oklahoma City,contending,luxury upside swing; size; stash flexibility,from Philadelphia,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+18,Charlotte,rebuilding,defensive big; connective forward; shooting,from Orlando via Phoenix,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+19,Toronto,retooling,guard creation; shooting; rim protection,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+20,San Antonio,contending,shooting; complementary defense; bench creation,from Atlanta,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+21,Detroit,contending/retooling,floor spacing; defensive forward; backup creation,from Minnesota,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+22,Philadelphia,retooling,two-way wing; frontcourt depth; guard stability,from Houston via Oklahoma City,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+23,Atlanta,retooling,defensive forward; secondary playmaking; rim pressure,from Cleveland,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+24,New York,contending,cost-controlled depth; shooting; defensive versatility,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+25,Los Angeles Lakers,contending/retooling,guard creation; athletic wing; frontcourt depth,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+26,Denver,contending,bench creation; shooting; athletic defense,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+27,Boston,contending,cost-controlled wing; guard depth; shooting,,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+28,Minnesota,contending,guard depth; shooting; frontcourt insurance,from Detroit,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+29,Cleveland,contending,wing size; shooting; bench creation,from San Antonio via Atlanta,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.
+30,Dallas,contending/retooling,two-way wing; guard depth; future upside,from Oklahoma City via WAS and PHI #,NBA.com official draft order,Codex broad inference from team direction and pick slot; no cap number used.

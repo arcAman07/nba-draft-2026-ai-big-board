@@ -1,0 +1,24 @@
+{
+  "rows": 984,
+  "draft_year_min": 2000,
+  "draft_year_max": 2021,
+  "first_round_rows": 520,
+  "coverage": {
+    "age_at_draft": 0.6209349593495935,
+    "height_in": 1.0,
+    "weight_lbs": 0.6209349593495935,
+    "wingspan_in": 0.34146341463414637,
+    "standing_reach_in": 0.34146341463414637,
+    "ts_pct": 1.0,
+    "usg_pct": 0.608739837398374,
+    "bpm": 0.5264227642276422,
+    "outcome_mpg": 1.0,
+    "career_vorp": 0.823170731707317,
+    "career_ws": 0.823170731707317
+  },
+  "notes": [
+    "Rows 2000-2008 use woodfin8/Draft_Machine because the richer JasonG dataset begins in 2009.",
+    "Rows 2009-2021 use JasonG7234/NBA-Draft-Model for pre-draft features and NBA MPG outcome proxy.",
+    "Career WS/VORP coverage is strongest for woodfin rows and missing for many 2019-2021 rows; the primary model target is NBA MPG."
+  ]
+}
