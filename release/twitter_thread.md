@@ -8,9 +8,9 @@ Four tweets. All attachments are in release/images/, named by tweet number. Ever
 
 ## Tweet 1 (opener, attach the VIDEO)
 
-Attach, release/images/tweet1_fable_film_study.mp4 (39s split-screen, footage left, Fable's real frame-tagged notes right)
+Attach, release/images/tweet1_fable_film_study.mp4 (41s, dark launch UI, footage left, Fable's real frame-tagged notes right, public-release outro card)
 
-I genuinely believe the next frontier for these models is prediction. So I turned Claude's new Fable model into an NBA front office for a day, and it actually watched film. It pulled real game footage, cut it into 12,000 stills, and took notes. Here it is studying a prospect 🧵
+I genuinely believe the next frontier for these models is prediction. So I ran a fully autonomous experiment, Claude's new Fable model as an NBA front office for a day. It pulled real game footage, cut it into 12,000 stills, and took film notes. Watch it work 🧵
 
 ## Tweet 2 (the big board)
 
