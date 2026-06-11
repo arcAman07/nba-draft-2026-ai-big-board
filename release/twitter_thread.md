@@ -28,7 +28,7 @@ I gave the exact same prompt to Codex, zero hints to either, and they split at N
 
 No attachment, the link unfurls
 
-What Fable learned from 1,300 draftees surprised me. Being young is the biggest factor in the entire draft, then college impact, then passing. Wingspan predicts busts, not stardom. Height came out slightly negative. Both papers and code are public.
+What Fable learned from 1,300 draftees surprised me. Youth beats everything, then college impact, then passing. We won't know how its calls land for years, but watching it weigh so many factors was the fun part. Detailed reports and code are public.
 
 https://github.com/arcAman07/nba-draft-2026-ai-big-board
 
